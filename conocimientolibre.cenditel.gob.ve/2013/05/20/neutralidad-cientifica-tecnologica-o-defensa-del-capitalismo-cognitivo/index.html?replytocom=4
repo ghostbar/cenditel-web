@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="es-PE">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="es-PE">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="es-PE">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="es-PE">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>¿Neutralidad Científica-Tecnológica o Defensa del Capitalismo Cognitivo?  | Conocimiento Libre</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="stylesheet" type="text/css" media="all" href="http://conocimientolibre.cenditel.gob.ve/wp-content/themes/proyecto_communita/style.css" />
+<link rel="pingback" href="http://conocimientolibre.cenditel.gob.ve/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="http://conocimientolibre.cenditel.gob.ve/wp-content/themes/proyecto_communita/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+<link rel="alternate" type="application/rss+xml" title="Conocimiento Libre &raquo; Feed" href="http://conocimientolibre.cenditel.gob.ve/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Conocimiento Libre &raquo; Feed de comentarios" href="http://conocimientolibre.cenditel.gob.ve/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Conocimiento Libre &raquo; ¿Neutralidad Científica-Tecnológica o Defensa del Capitalismo Cognitivo? Feed de comentarios" href="http://conocimientolibre.cenditel.gob.ve/2013/05/20/neutralidad-cientifica-tecnologica-o-defensa-del-capitalismo-cognitivo/feed/" />
+<link rel='stylesheet' id='rbanner-css-css'  href='http://conocimientolibre.cenditel.gob.ve/wp-content/plugins/random-banner//css/rbanner.css?ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='videojs-plugin-css'  href='http://conocimientolibre.cenditel.gob.ve/wp-content/plugins/videojs-html5-video-player-for-wordpress/plugin-styles.css?ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='videojs-css'  href='http://conocimientolibre.cenditel.gob.ve/wp-content/plugins/videojs-html5-video-player-for-wordpress/videojs/video-js.css?ver=3.6.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://conocimientolibre.cenditel.gob.ve/wp-includes/js/comment-reply.min.js?ver=3.6.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://conocimientolibre.cenditel.gob.ve/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://conocimientolibre.cenditel.gob.ve/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='La liberación de la dictadura del software.  Parte I &#8211; El estado neutral liberal.' href='http://conocimientolibre.cenditel.gob.ve/2013/05/18/la-liberacion-de-la-dictadura-del-software-parte-i-el-estado-neutral-liberal/' />
+<link rel='next' title='El desarrollo tecnológico como problema político-ideológico. A propósito de la discusión pública de la Ley de Infogobierno' href='http://conocimientolibre.cenditel.gob.ve/2013/05/22/el-desarrollo-tecnologico-como-problema-politico-ideologico-a-proposito-de-la-discusion-publica-de-la-ley-de-infogobierno/' />
+<meta name="generator" content="WordPress 3.6.1" />
+<link rel='canonical' href='http://conocimientolibre.cenditel.gob.ve/2013/05/20/neutralidad-cientifica-tecnologica-o-defensa-del-capitalismo-cognitivo/' />
+<link rel='shortlink' href='http://conocimientolibre.cenditel.gob.ve/?p=18' />
+<meta name='robots' content='noindex,nofollow' />
+
+		<script type="text/javascript">
+			if(typeof videojs != "undefined") {
+				videojs.options.flash.swf = "http://conocimientolibre.cenditel.gob.ve/wp-content/plugins/videojs-html5-video-player-for-wordpress/videojs/video-js.swf";
+			}
+			document.createElement("video");document.createElement("audio");document.createElement("track");
+		</script>
+			<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+</head>
+
+<body class="single single-post postid-18 single-format-standard singular two-column right-sidebar">
+<div id="page" class="hfeed">
+	<header id="branding" role="banner">
+			<hgroup>
+				<h1 id="site-title"><span><a href="http://conocimientolibre.cenditel.gob.ve/" title="Conocimiento Libre" rel="home">Conocimiento Libre</a></span></h1>
+				<h2 id="site-description">Reflexiones críticas para la apropiación del Conocimiento Libre en Venezuela</h2>
+			</hgroup>
+
+						<a href="http://conocimientolibre.cenditel.gob.ve/">
+									<img src="http://conocimientolibre.cenditel.gob.ve/files/2013/05/cropped-Obra-Mural-CENDITEL-web.jpg" width="1000" height="288" alt="" />
+							</a>
+			
+								<form method="get" id="searchform" action="http://conocimientolibre.cenditel.gob.ve/">
+		<label for="s" class="assistive-text">Search</label>
+		<input type="text" class="field" name="s" id="s" placeholder="Search" />
+		<input type="submit" class="submit" name="submit" id="searchsubmit" value="Search" />
+	</form>
+			
+			<nav id="access" role="navigation">
+				<h3 class="assistive-text">Main menu</h3>
+								<div class="skip-link"><a class="assistive-text" href="#content" title="Skip to primary content">Skip to primary content</a></div>
+				<div class="skip-link"><a class="assistive-text" href="#secondary" title="Skip to secondary content">Skip to secondary content</a></div>
+								<div class="menu"><ul><li ><a href="http://conocimientolibre.cenditel.gob.ve/" title="Inicio">Inicio</a></li><li class="page_item page-item-2"><a href="http://conocimientolibre.cenditel.gob.ve/elblog/">Sobre el Blog</a></li></ul></div>
+			</nav><!-- #access -->
+	</header><!-- #branding -->
+
+
+	<div id="main">
+		<div id="primary">
+			<div id="content" role="main">
+
+				
+					<nav id="nav-single">
+						<h3 class="assistive-text">Post navigation</h3>
+						<span class="nav-previous"><a href="http://conocimientolibre.cenditel.gob.ve/2013/05/18/la-liberacion-de-la-dictadura-del-software-parte-i-el-estado-neutral-liberal/" rel="prev"><span class="meta-nav">&larr;</span> Previous</a></span>
+						<span class="nav-next"><a href="http://conocimientolibre.cenditel.gob.ve/2013/05/22/el-desarrollo-tecnologico-como-problema-politico-ideologico-a-proposito-de-la-discusion-publica-de-la-ley-de-infogobierno/" rel="next">Next <span class="meta-nav">&rarr;</span></a></span>
+					</nav><!-- #nav-single -->
+
+					
+<article id="post-18" class="post-18 post type-post status-publish format-standard hentry category-ley-de-infogobierno category-neutralidad-tecnologica tag-ley-de-infogobierno tag-neutralidad-tecnologica">
+	<header class="entry-header">
+		<h1 class="entry-title">¿Neutralidad Científica-Tecnológica o Defensa del Capitalismo Cognitivo?</h1>
+
+				<div class="entry-meta">
+			<span class="sep">Posted on </span><a href="http://conocimientolibre.cenditel.gob.ve/2013/05/20/neutralidad-cientifica-tecnologica-o-defensa-del-capitalismo-cognitivo/" title="5:24 pm" rel="bookmark"><time class="entry-date" datetime="2013-05-20T17:24:31+00:00" pubdate>Mayo 20, 2013</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="http://conocimientolibre.cenditel.gob.ve/author/nbaez/" title="View all posts by nbaez" rel="author">nbaez</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p style="margin-bottom: 0cm;line-height: 100%" align="LEFT"><span style="font-family: Liberation Serif,serif"><span style="font-size: small"><strong>Nelevis Báez<a class="sdfootnoteanc" name="sdfootnote1anc" href="#sdfootnote1sym"></a><sup>1</sup></strong></span></span></p>
+<p>&nbsp;</p>
+<p align="JUSTIFY"><span style="font-family: Liberation Serif,serif"><span style="font-size: small"><span style="font-family: Liberation Serif,serif">Las declaraciones del diputado Leomagno Flores ante la Asamblea Nacional, el 22 de enero de 2013, en la discusión sobre el Proyecto de Ley de Infogobierno: “(&#8230;) software libre es simplemente la di</span><span style="font-family: Liberation Serif,serif">ctadura de un sistema informático violando el principio básico de la neutralidad tecnológica (&#8230;)”; han generado algunas reflexiones, retomando en las últimas semanas dicha discusión, que buscan desmantelar tales afirmaciones. En este sentido, se evidencia un desconocimiento sobre el Software Libre y luego sobre el trasfondo del discurso referente a la Neutralidad Tecnológica.</span></span></span></p>
+<p align="JUSTIFY"><span style="font-family: Liberation Serif,serif"><span style="font-size: small">Catalogar al <em>Software Libre</em> como “la dictadura de un sistema informático”, ciertamente es desconocer los principales fundamentos del Movimiento de Software Libre (MSL): <em>La libertad y la colaboración</em>. La <em>libertad </em>es una condición propia del software, el cual se considera sin restricciones de acceso, copia, mejora y distribución y, que se coarta a través de los “Derechos de explotación exclusiva” bien conocidos como “Derechos de Propiedad Intelectual”. La <em>colaboración, </em>por su parte, <em> </em>es esencial<em> </em>en el desarrollo del Software Libre ya que se requiere del trabajo en conjunto para la consecución de un fin común. Es decir, en el desarrollo del Software Libre, se privilegia la comunidad antes que el individuo. Por consiguiente, la privatización del software se convierte en la negación a la libertad del conocimiento y al desarrollo colaborativo e instaura la condición de competitividad, explotación y monopolio, negando a su vez la posibilidad de concebir al conocimiento como un bien de carácter público. </span></span></p>
+<p align="JUSTIFY"><span style="font-family: Liberation Serif,serif"><span style="font-size: small"> Ahora bien, en cuanto al reclamo de “violación” del Principio de la <em>Neutralidad Científica-Tecnológica</em> es importante comprender la naturaleza de dicho principio. En una primera instancia, se puede ver como en la guía para la incorporación al derecho interno de los Estados de la <span style="color: #000000">Ley Modelo sobre Comercio Electrónico de la Comisión de las Naciones Unidas para el Derecho Mercantil Internacional (CNUDMI), mejor conocida por sus siglas en inglés UNCITRAL, se establece que: </span><span style="color: #000000">“(&#8230;) al incorporar a su derecho interno los procedimientos prescritos por la Ley Modelo para todo supuesto en el que las partes opten por emplear medios electrónicos de comunicación, un Estado estará creando un entorno legal neutro para todo medio técnicamente viable de comunicación comercial </span><span style="color: #1b1c20">” (Naciones Unidas, 1996: 17). La CNUDMI siendo el órgano jurídico de la Organización de Naciones Unidas (ONU) que procura la armonización y unificación de los términos que regulan el comercio internacional, a través de la Ley “</span><span style="color: #1b1c20"><em>Modelo” </em></span><span style="color: #1b1c20">sobre Comercio Electrónico, pretende, de llegar un país a adoptar dicha normativa,</span><span style="color: #1b1c20"> la no “discriminación” entre información presentada en físico e información electrónica y la no “discriminación” de las diversas técnicas que puedan utilizarse para comunicar o archivar electrónicamente información. </span></span></span></p>
+<p align="JUSTIFY"><span style="font-family: Liberation Serif,serif"><span style="font-size: small"><span style="color: #1b1c20"> Esta reducción de las competencias del Estado, en cuanto a indicar el medio “idóneo” para la comunicación comercial, conlleva a que TODO ente de comunicación pueda actuar a nivel nacional aunque éste lleve a cabo prácticas que impliquen la privatización del conocimiento, obligando a los usuarios a pagar altos costos por la utilización de sus “innovaciones”. De allí que, monopolios establecidos por IBM y Microsoft Corporation, por ejemplo, pretendan aprovechar este incentivo a la libre actuación de la “mano invisible” del mercado en la contratación electrónica, para tener garantizada su participación en los mercados nacionales. No es de sorprender que Microsoft, en Venezuela, “(&#8230;) mantuvo un representante permanente en las </span>Mesas Técnicas de discusión del Proyecto de la Ley referida al uso de las TIC por parte del Estado, antes de ser pasado a la Asamblea Nacional” (Briceño, s/f: 4). </span></span></p>
+<p align="JUSTIFY"><span style="color: #1b1c20"><span style="font-family: Liberation Serif,serif"><span style="font-size: small"> La intenciones de limitar el accionar del Estado, es sólo el medio para hacer posible el funcionamiento del Capitalismo Cognitivo, entendido como: “(&#8230;) una nueva forma postindustrial de capitalismo (&#8230;) en el sentido de que la producción y el control del conocimiento se convierten en la apuesta principal de la valorización del capital” (Fumagalli, 2010: 85). Es decir, bajo esta nueva forma de capitalismo, el conocimiento (bien inmaterial) se convierte en un medio rentable para producir dinero desplazando a la mercancía (bien material) como único y principal medio para producirlo, como lo era en la época del Capitalismo Industrial Fordista. Dicha transformación en la valorización del capital, se evidencia en que la atención pasara: de la producción de bienes materiales a la producción de bienes inmateriales, del trabajo inmediato y cuantificable al conocimiento como fuerza productiva principal, de la utilización de máquinas industriales a las Tecnologías de Información y Comunicación (TIC) y ascenso de la Internet, de la producción masiva en serie al auge de los flujos de información como “innovación” (indicador indispensable para agregar valor a lo producido), de las fabricas manufactureras a los laboratorios de investigación y centros de servicios, del trabajo especializado al trabajo independiente del espacio y tiempo, entre otros.</span></span></span></p>
+<p align="JUSTIFY"><span style="color: #1b1c20"><span style="font-family: Liberation Serif,serif"><span style="font-size: small"> No sólo hubo un cambio en la organización de los procesos de trabajo y en las formas de creación de valor, sino así como también en los modos de acumulación, circulación y distribución del conocimiento. La clave está en otorgarle al conocimiento un valor de cambio, prohibiendo en primer lugar que otros productores accedan al mismo y luego limitando temporalmente su difusión a los usuarios. Es así como, se crea todo un sistema de mercantilización del conocimiento que se puede encontrar mejor descrito por Edgardo Lander en “La Ciencia Neoliberal”, donde el autor expone críticas al conocimiento científico, cuestionando la supuesta objetividad y neutralidad valorativa de la ciencia, y a la vez colocando en evidencia las condiciones ideológicas, políticas y económicas bajo las cuales se llevan a cabo los proyectos científicos. Todas estas críticas se centran en el modo de organización en que se encuentra la “sociedad del conocimiento”, que no es más que el desplazamiento de los modos de la sociedad capitalista teniendo como instrumento de producción y ganancia al conocimiento. </span></span></span></p>
+<p align="JUSTIFY"><span style="color: #1b1c20"><span style="font-family: Liberation Serif,serif"><span style="font-size: small"> Para poder llevar a cabo dicha mercantilización, fue necesario realizar cambios jurídico-institucionales que constituyeran todo un marco normativo protector del nuevo paradigma científico-tecnológico mercantil a nivel internacional, a través del “Acuerdo sobre los Aspectos de los Derechos de Propiedad Intelectual Relacionados con el Comercio” (ADPIC) en 1994 (Organización Mundial del Comercio, Ronda Uruguay). El conocimiento, catalogado a través de estos aspectos como propiedad individual se convierte en un bien privado del cual se puede obtener plusvalía como de los bienes materiales, de allí la estrecha y creciente interrelación entre la investigación universitaria y la actividad empresarial, como en el sector agrícola y el</span></span></span><span style="color: #1b1c20"><span style="font-family: Liberation Serif,serif"><span style="font-size: small"> farmacéutico</span></span></span><span style="color: #1b1c20"><span style="font-family: Liberation Serif,serif"><span style="font-size: small"> (Ver Lander, 2007). Evidentemente, se puede connotar la influencia del factor político y económico en la toma de decisiones por parte de distintas industrias para seguir manteniendo el control y expansión de sus monopolios (E.j. Multinacional Monsanto, </span></span></span><em><span style="font-family: Liberation Serif,serif"><span style="font-size: small">Microsoft Corporation, etc.</span></span></em><span style="color: #1b1c20"><span style="font-family: Liberation Serif,serif"><span style="font-size: small">), con lo cual queda desestimado cualquier llamado a la supuesta “neutralidad” científica y tecnológica. </span></span></span></p>
+<p align="JUSTIFY"><span style="color: #1b1c20"><span style="font-family: Liberation Serif,serif"><span style="font-size: small"> Ante este panorama, nos preguntamos ¿De qué manera la ciencia y la tecnología pueden ser neutra si la “libre elección” es en realidad una falacia? Los defensores del principio alegan que los usuarios de tecnologías de información y comunicación tienen que tener la “libertad” de elegir entre distintos programas libres o privativos, para así respetar el “libre juego” entre la oferta y la demanda, en este caso, de bienes intangibles. Sin embargo, la lógica bajo la cual funcionan las empresas privativas de software, por ejemplo, pretende la dependencia del individuo a ciertos productos tecnológicos bajo la excusa de la “innovación”. En principio, se niega la apertura del código fuente del software a los desarrolladores y luego se procura el cambio continuo de productos generando necesidades de mercado, coartando cualquier clase de libertad a los usuarios. </span></span></span></p>
+<p align="JUSTIFY"><span style="color: #1b1c20"><span style="font-family: Liberation Serif,serif"><span style="font-size: small"> La “Sociedad del Conocimiento”, adquiere entonces la obligación de generar nuevos descubrimientos o quizás buscar las estrategias de marketing para hacer ver ciertos productos como innovadores. Una vez que esto suceda patenta lo “creado” para que el producto adquiera ventaja competitiva en el mercado, es por ello que la “Propiedad Intelectual” promociona la escasez ficticia de conocimiento obligando a los usuarios al pago de regalías por “creaciones” que en muchos casos son recursos colectivos. De allí que, “(&#8230;) La innovación es más evidente en la cima de la sociedad que debajo, pero como esta innovación no es un proceso tecnológico/sociológico neutral y sin normas (‘modernización’, ‘racionalización’) sino la innovación del proceso capitalista, es a menudo experimentado por los plebeyos en la forma de explotación, o la apropiación de sus derechos de uso tradicionales, o la ruptura violenta de modelos valorados de trabajo y ocio (&#8230;)” (Lander, 2000: 22). Todo ello, es muestra de que abogar por la “neutralidad tecnológica” implica tratar de eliminar los frentes de batalla contra la privatización del conocimiento. </span></span></span></p>
+<p align="JUSTIFY"><span style="color: #1b1c20"><span style="font-family: Liberation Serif,serif"><span style="font-size: small"> En definitiva, el paradigma contemporáneo de producir “Capital Intelectual” requiere del discurso del libre mercado para poder propagar los mecanismos de privatización del conocimiento. Se restringe la circulación del conocimiento a las masas por medio de las patentes y para esto se requiere de la excusa de la “neutralidad”, es decir, de la no intervención por parte del Estado para proteger a la población a través de la promoción de políticas como el incentivo al uso, desarrollo e investigación en Software Libre. El discurso de una ciencia y tecnología “neutra”, es un aliado de la privatización del Software y la defensa del Software Libre está destinada a proteger la socialización del conocimiento como un bien colectivo. Por ende, en todas las reflexiones otorgadas previamente se pueden encontrar ciertos indicios para comprender que: La verdadera dictadura se encuentra en los monopolios transnacionales de software, actores clave del “Capitalismo Cognitivo” actual, y en las pretensiones de otorgarles privilegios sobre la Administración Pública Nacional, atentando así contra una verdadera independencia científica-tecnológica en Venezuela.</span></span></span></p>
+<p align="JUSTIFY"><span style="color: #1b1c20"><span style="font-family: Liberation Serif,serif"><span style="font-size: small"><strong>Referencias:</strong></span></span></span></p>
+<p align="JUSTIFY"><span style="color: #1b1c20"><span style="font-family: Liberation Serif,serif"><span style="font-size: small">Briceño, Y. (s/f). ¿Ser o no ser neutral? La balanza del Estado en el uso de las tecnologías. Ciudad Innovación, Venezuela. Disponible en: http://www.cptm.ula.ve/ciudadinnovacion/ediciones/edicion0/pdfs/especiales3.pdf</span></span></span></p>
+<p align="JUSTIFY"><span style="font-family: Liberation Serif,serif"><span style="font-size: small"><span style="color: #1b1c20">Decreto 3.390, publicado en Gaceta Oficial </span><span style="color: #1b1c20">N°</span>38.095 de fecha 28 de Diciembre de 2004.</span></span></p>
+<p align="JUSTIFY"><span style="font-family: Liberation Serif,serif"><span style="font-size: small">Fumagalli, A. (2010). Bioeconomía y el capitalismo cognitivo: Hacia un nuevo paradigma de acumulación<span style="color: #1b1c20">. Disponible en: </span>http://es.scribd.com/doc/44357447/Bioeconomia-y- Capitalismo- Cognitivo-Andrea-Fumagalli</span></span></p>
+<p align="JUSTIFY"><span style="font-family: Liberation Serif,serif"><span style="font-size: small">Lander, E. (2000), &#8216;Ciencias sociales: saberes coloniales y eurocéntricos&#8217;, en Lander, E.(comp) La colonialidad del saber: eurocentrismo y ciencias sociales. Perspectivas latinoamericanas, pp. 11-40. Buenos Aires: CLACSO-UNESCO. Disponible en: http://saberesdescoloniales.universidaddescolonial.org/wp- content/uploads/downloads/2012/Libros%20Completos/La%20colonialidad%20del %20saber.%20Eurocentrismo%20y%20ciencias%20sociales.pdf</span></span></p>
+<p align="JUSTIFY"><span style="font-family: Liberation Serif,serif"><span style="font-size: small">________(2007), &#8216;La Ciencia Neoliberal&#8217;, en Lanz, R. (comp) Ni una sola ciencia, ni una sola técnica, pp. 41-85. Caracas: Ministerio del Poder Popular para Ciencia y Tecnología.</span></span></p>
+<p align="JUSTIFY"><span style="color: #1b1c20"><span style="font-family: Liberation Serif,serif"><span style="font-size: small">Leomagno Flores: &#8220;El Software Libre es una dictadura&#8221; (28-01-13). Disponible en: http://www.youtube.com/watch?v=KI5rYjd12iI </span></span></span></p>
+<p align="JUSTIFY"><span style="font-family: Liberation Serif,serif"><span style="font-size: small"><span style="color: #000000">Naciones Unidas. (1996), Ley Modelo sobre Comercio Electrónico de la Comisión de las Naciones Unidas para el Derecho Mercantil Internacional. </span><span style="color: #1b1c20">Disponible en:</span><span style="color: #000000"> http://www.uncitral.org/pdf/spanish/texts/electcom/05-89453_S_Ebook.pdf </span></span></span></p>
+<div>
+<p align="LEFT"><span style="font-family: Liberation Serif,serif"><span style="font-size: small"><strong><a name="sdfootnote1sym" href="https://conocimientolibre.cenditel.gob.ve/wp-admin/post-new.php#sdfootnote1anc"></a>1  Analista de la Fundación Centro Nacional de Desarrollo e Investigación en Tecnologías Libres (CENDITEL). </strong></span></span><span style="font-family: Liberation Serif,serif"><span style="font-size: small"><strong>E-mail: nbaez@cenditel.gob.ve.</strong></span></span></p>
+</div>
+			</div><!-- .entry-content -->
+
+	<footer class="entry-meta">
+		This entry was posted in <a href="http://conocimientolibre.cenditel.gob.ve/category/ley-de-infogobierno/" title="Ver todas las entradas publicadas en Ley de Infogobierno" rel="category tag">Ley de Infogobierno</a>, <a href="http://conocimientolibre.cenditel.gob.ve/category/neutralidad-tecnologica/" title="Ver todas las entradas publicadas en Neutralidad Tecnológica" rel="category tag">Neutralidad Tecnológica</a> and tagged <a href="http://conocimientolibre.cenditel.gob.ve/tag/ley-de-infogobierno/" rel="tag">Ley de Infogobierno</a>, <a href="http://conocimientolibre.cenditel.gob.ve/tag/neutralidad-tecnologica/" rel="tag">Neutralidad Tecnológica</a> by <a href="http://conocimientolibre.cenditel.gob.ve/author/nbaez/">nbaez</a>. Bookmark the <a href="http://conocimientolibre.cenditel.gob.ve/2013/05/20/neutralidad-cientifica-tecnologica-o-defensa-del-capitalismo-cognitivo/" title="Permalink to ¿Neutralidad Científica-Tecnológica o Defensa del Capitalismo Cognitivo?" rel="bookmark">permalink</a>.		
+			</footer><!-- .entry-meta -->
+</article><!-- #post-18 -->
+
+						<div id="comments">
+	
+	
+			<h2 id="comments-title">
+			3 thoughts on &ldquo;<span>¿Neutralidad Científica-Tecnológica o Defensa del Capitalismo Cognitivo?</span>&rdquo;		</h2>
+
+		
+		<ol class="commentlist">
+				<li class="post pingback">
+		<p>Pingback: <a href='http://www.scoop.it/t/ecosocialismo/p/4002494177/neutralidad-cientifica-tecnologica-o-defensa-del-capitalismo-cognitivo-conocimiento-libre' rel='external nofollow' class='url'>&iquest;Neutralidad Cient&iacute;fica-Tecnol&amp;oa...</a></p>
+	</li><!-- #comment-## -->
+	<li class="comment even thread-even depth-1" id="li-comment-4">
+		<article id="comment-4" class="comment">
+			<footer class="comment-meta">
+				<div class="comment-author vcard">
+					<img alt='' src='http://0.gravatar.com/avatar/62f850c0a1243dad9a9caaa2a783e62d?s=68&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D68&amp;r=G' class='avatar avatar-68 photo' height='68' width='68' /><span class="fn">carlos ramirez</span> on <a href="http://conocimientolibre.cenditel.gob.ve/2013/05/20/neutralidad-cientifica-tecnologica-o-defensa-del-capitalismo-cognitivo/#comment-4"><time pubdate datetime="2013-05-30T19:09:28+00:00">Mayo 30, 2013 at 7:09 pm</time></a> <span class="says">said:</span>
+									</div><!-- .comment-author .vcard -->
+
+				
+			</footer>
+
+			<div class="comment-content"><p>Pienso que el software libre es uno paradigmas tecnologicos ,como trabaja con codigo abierto es factible que muchas personas programadoras desean hacer cambios como mejorar una ventana informatica, hacerla mas funcional ,debido a su licencia Gpl ,en cambio el software privativo,sus desarrollos lo hacen personas que trabajan directamente a traves de una empresa privada, e invierten en esos procesos,pero el conocimiento sigue siendo libre</p>
+</div>
+
+			<div class="reply">
+				<a class='comment-reply-link' href='/2013/05/20/neutralidad-cientifica-tecnologica-o-defensa-del-capitalismo-cognitivo/?replytocom=4#respond' onclick='return addComment.moveForm("comment-4", "4", "respond", "18")'>Reply <span>&darr;</span></a>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-5">
+		<article id="comment-5" class="comment">
+			<footer class="comment-meta">
+				<div class="comment-author vcard">
+					<img alt='' src='http://0.gravatar.com/avatar/48a43c7ab66690910e741bd657b8b2e4?s=68&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D68&amp;r=G' class='avatar avatar-68 photo' height='68' width='68' /><span class="fn">Nelevis Báez</span> on <a href="http://conocimientolibre.cenditel.gob.ve/2013/05/20/neutralidad-cientifica-tecnologica-o-defensa-del-capitalismo-cognitivo/#comment-5"><time pubdate datetime="2013-06-03T14:09:55+00:00">Junio 3, 2013 at 2:09 pm</time></a> <span class="says">said:</span>
+									</div><!-- .comment-author .vcard -->
+
+				
+			</footer>
+
+			<div class="comment-content"><p>Gracias por su comentario Sr. Ramirez.<br />
+Sin embargo, no concuerdo con su afirmación de que el conocimiento en el software privativo sigue siendo “libre”.<br />
+Le hago una invitación, lea detalladamente y con una visión crítica la Licencia de Uso de Microsoft Windows donde encontrará  la prohibición para la copia y redistribución del software aunado a toda una serie de políticas que atentan contra el conocimiento “libre”. El hecho de que el código fuente no se provee y por ende, se prohíbe la ingeniería inversa al mismo, ¿no le parece privatización del conocimiento?<br />
+Saludos,<br />
+Nelevis Báez.</p>
+</div>
+
+			<div class="reply">
+				<a class='comment-reply-link' href='/2013/05/20/neutralidad-cientifica-tecnologica-o-defensa-del-capitalismo-cognitivo/?replytocom=5#respond' onclick='return addComment.moveForm("comment-5", "5", "respond", "18")'>Reply <span>&darr;</span></a>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+		</ol>
+
+		
+	
+									<div id="respond" class="comment-respond">
+				<h3 id="reply-title" class="comment-reply-title">A&ntilde;dir un comentario a <a href="#comment-4">carlos ramirez</a> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2013/05/20/neutralidad-cientifica-tecnologica-o-defensa-del-capitalismo-cognitivo/#respond">Cancelar respuesta</a></small></h3>
+									<form action="http://conocimientolibre.cenditel.gob.ve/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+																			<p class="comment-notes">Su dirección de correo no se hará público. Los campos requeridos están marcados <span class="required">*</span></p>							<p class="comment-form-author"><label for="author">Nombre <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" aria-required='true' /></p>
+<p class="comment-form-email"><label for="email">Correo <span class="required">*</span></label> <input id="email" name="email" type="text" value="" size="30" aria-required='true' /></p>
+<p class="comment-form-url"><label for="url">Sitio web</label> <input id="url" name="url" type="text" value="" size="30" /></p>
+<p class="comment-form-captcha">
+		<label for="captcha"><b>Captcha </b></label>
+		<span class="required">*</span>
+		<div style="clear:both;"></div>
+		<img src="http://conocimientolibre.cenditel.gob.ve/wp-content/plugins/captcha-code-authentication/captcha_code_file.php?rand=591112112" />
+		<div style="clear:both;"></div>
+		<label for="captcha_code">Type the text displayed above:</label>
+		<input id="captcha_code" name="captcha_code" size="15" type="text" />
+		<div style="clear:both;"></div>
+		</p>												<p class="comment-form-comment"><label for="comment">Comentario</label> <textarea id="comment" name="comment" cols="45" rows="8" aria-required="true"></textarea></p>						<p class="form-allowed-tags">Usted puede utilizar las etiquetas <abbr title="Lenguaje de Marcado de Hipertexto">HTML</abbr> y atributos:  <code>&lt;a href=&quot;&quot; title=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=&quot;&quot;&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=&quot;&quot;&gt; &lt;strike&gt; &lt;strong&gt; </code></p>						<p class="form-submit">
+							<input name="submit" type="submit" id="submit" value="Publicar comentario" />
+							<input type='hidden' name='comment_post_ID' value='18' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='4' />
+						</p>
+											</form>
+							</div><!-- #respond -->
+						
+</div><!-- #comments -->
+
+				
+			</div><!-- #content -->
+		</div><!-- #primary -->
+
+
+
+	</div><!-- #main -->
+
+	<footer id="colophon" role="contentinfo">
+
+			
+
+
+			<div id="site-generator">
+				<html>
+
+<div id="imagen">
+<img src="/wp-content/themes/Bicentenario/images/logo.png">
+</div>
+
+<TABLE id="tabla">
+<tr>
+<div id="enlaces_titulo"><p>Enlaces de interes</p></div>
+
+</tr>
+
+     <TR>
+
+	
+
+          <TD><ul id="menu1">
+	<li><a href="http://www.mct.gob.ve/" target="_blank" alt="Ministerio del Poder Popular para Ciencia, Tecnología e Industrias Intermedias" title="Ministerio del Poder Popular para Ciencia, Tecnología e Industrias Intermedias">MppCTii</a></li>
+	<li> <a href="http://www.me.gob.ve/" target="_blank" alt="Ministerio del Poder Popular para la Educación" title="Ministerio del Poder Popular para la Educación">MppE</a></li>
+	<li> <a href="http://www.fundacite-merida.gob.ve" target="_blank" alt="Fundacite Mérida" title="Fundacite Mérida">Fundacite</a></li>
+	<li> <a href="http://www.fidetel.gob.ve" target="_blank" alt="Fondo de Investigación y Desarrollo de las Telecomunicaciones" title="Fondo de Investigación y Desarrollo de las Telecomunicaciones">FIDETEL</a> </li>
+</ul> </TD> 
+
+	<TD> <ul id="menu2">
+	<li><a href="http://www.minci.gob.ve" target="_blank" alt="Ministerio del Poder Popular para la Comunicacion e Informacion" title="Ministerio del Poder Popular para la Comunicacion e Informacion">Minci</a></li>
+	<li> <a href="http://www.minamb.gob.ve/" target="_blank" alt="Ministerio del Poder Popular para el Ambiente" title="Ministerio del Poder Popular para el Ambiente">MppA</a></li>
+	<li> <a href="http://www.cnti.gob.ve" target="_blank" alt="Centro Nacional de Tecnologías de Información" title="Centro Nacional de Tecnologías de Información">Cnti</a></li>
+	<li> <a href="http://www.mpcomunas.gob.ve" target="_blank" alt="Ministerio del Poder Popular para las Comunas y Protección Social" title="Ministerio del Poder Popular para las Comunas y Protección Social">MppCPS</a> </li>
+</ul></TD>
+     
+	<TD><ul id="menu3">
+	<li><a href="http://www.ministeriodelacultura.gob.ve" target="_blank" alt="Ministerio del Poder Popular para la Cultura" title="Ministerio del Poder Popular para la Cultura">MppC</a></li>
+	<li> <a href="http://www.mppeu.gob.ve/" target="_blank" alt="Ministerio del Poder Popular para la Educación Universitaria" title="Ministerio del Poder Popular para la Educación Universitaria">MppEU</a></li>
+	<li> <a href="http://www.suscerte.gob.ve" target="_blank" alt="Superintendencia de Servicios de Certificación Electrónica" title="Superintendencia de Servicios de Certificación Electrónica">SUSCERTE</a> </li>
+	<li> <a href="http://www.cantv.net/" target="_blank" alt="CANTV" title="CANTV"> CANTV</a></li>
+	</ul> </TD> 
+
+      </TR> 
+</TABLE>
+<div id="pie">
+<p>
+FUNDACIÓN CENTRO NACIONAL DE DESARROLLO E INVESTIGACIÓN EN TECNOLOGÍAS LIBRES (CENDITEL) Avenida Alberto Carnevali, vía La Hechicera, Edificio CENDITEL. Teléfono: (0274)6574336 - 6574958. Apartado Postal: 078. Código Postal: 5101A. RIF: G-20007349-7. Mérida-Venezuela</p>
+</div>
+
+</html>
+
+
+		
+			
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+</body>
+</html>

@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="es-PE">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="es-PE">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="es-PE">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="es-PE">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>En torno a la polémica respecto a la neutralidad de la red de redes y su posible intervención por el Estado en Venezuela: Llamemos las cosas por su nombre. | Conocimiento Libre</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="stylesheet" type="text/css" media="all" href="http://conocimientolibre.cenditel.gob.ve/wp-content/themes/proyecto_communita/style.css" />
+<link rel="pingback" href="http://conocimientolibre.cenditel.gob.ve/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="http://conocimientolibre.cenditel.gob.ve/wp-content/themes/proyecto_communita/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+<link rel="alternate" type="application/rss+xml" title="Conocimiento Libre &raquo; Feed" href="http://conocimientolibre.cenditel.gob.ve/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Conocimiento Libre &raquo; Feed de comentarios" href="http://conocimientolibre.cenditel.gob.ve/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Conocimiento Libre &raquo; En torno a la polémica respecto a la neutralidad de la red de redes y su posible intervención por el Estado en Venezuela: Llamemos las cosas por su nombre. Feed de comentarios" href="http://conocimientolibre.cenditel.gob.ve/2014/04/21/en-torno-a-la-polemica-respecto-a-la-neutralidad-de-la-red-de-redes-y-su-posible-intervencion-por-el-estado-en-venezuela-llamemos-las-cosas-por-su-nombre/feed/" />
+<link rel='stylesheet' id='rbanner-css-css'  href='http://conocimientolibre.cenditel.gob.ve/wp-content/plugins/random-banner//css/rbanner.css?ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='videojs-plugin-css'  href='http://conocimientolibre.cenditel.gob.ve/wp-content/plugins/videojs-html5-video-player-for-wordpress/plugin-styles.css?ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='videojs-css'  href='http://conocimientolibre.cenditel.gob.ve/wp-content/plugins/videojs-html5-video-player-for-wordpress/videojs/video-js.css?ver=3.6.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://conocimientolibre.cenditel.gob.ve/wp-includes/js/comment-reply.min.js?ver=3.6.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://conocimientolibre.cenditel.gob.ve/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://conocimientolibre.cenditel.gob.ve/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='La Neutralidad de la Red y la Libertad de Expresión' href='http://conocimientolibre.cenditel.gob.ve/2014/04/15/la-neutralidad-de-la-red-y-la-libertad-de-expresion/' />
+<link rel='next' title='La guarimba de la “Neutralidad de la Red”' href='http://conocimientolibre.cenditel.gob.ve/2014/04/30/la-guarimba-de-la-neutralidad-de-la-red/' />
+<meta name="generator" content="WordPress 3.6.1" />
+<link rel='canonical' href='http://conocimientolibre.cenditel.gob.ve/2014/04/21/en-torno-a-la-polemica-respecto-a-la-neutralidad-de-la-red-de-redes-y-su-posible-intervencion-por-el-estado-en-venezuela-llamemos-las-cosas-por-su-nombre/' />
+<link rel='shortlink' href='http://conocimientolibre.cenditel.gob.ve/?p=341' />
+<meta name='robots' content='noindex,nofollow' />
+
+		<script type="text/javascript">
+			if(typeof videojs != "undefined") {
+				videojs.options.flash.swf = "http://conocimientolibre.cenditel.gob.ve/wp-content/plugins/videojs-html5-video-player-for-wordpress/videojs/video-js.swf";
+			}
+			document.createElement("video");document.createElement("audio");document.createElement("track");
+		</script>
+			<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+</head>
+
+<body class="single single-post postid-341 single-format-standard singular two-column right-sidebar">
+<div id="page" class="hfeed">
+	<header id="branding" role="banner">
+			<hgroup>
+				<h1 id="site-title"><span><a href="http://conocimientolibre.cenditel.gob.ve/" title="Conocimiento Libre" rel="home">Conocimiento Libre</a></span></h1>
+				<h2 id="site-description">Reflexiones críticas para la apropiación del Conocimiento Libre en Venezuela</h2>
+			</hgroup>
+
+						<a href="http://conocimientolibre.cenditel.gob.ve/">
+									<img src="http://conocimientolibre.cenditel.gob.ve/files/2013/05/cropped-Obra-Mural-CENDITEL-web.jpg" width="1000" height="288" alt="" />
+							</a>
+			
+								<form method="get" id="searchform" action="http://conocimientolibre.cenditel.gob.ve/">
+		<label for="s" class="assistive-text">Search</label>
+		<input type="text" class="field" name="s" id="s" placeholder="Search" />
+		<input type="submit" class="submit" name="submit" id="searchsubmit" value="Search" />
+	</form>
+			
+			<nav id="access" role="navigation">
+				<h3 class="assistive-text">Main menu</h3>
+								<div class="skip-link"><a class="assistive-text" href="#content" title="Skip to primary content">Skip to primary content</a></div>
+				<div class="skip-link"><a class="assistive-text" href="#secondary" title="Skip to secondary content">Skip to secondary content</a></div>
+								<div class="menu"><ul><li ><a href="http://conocimientolibre.cenditel.gob.ve/" title="Inicio">Inicio</a></li><li class="page_item page-item-2"><a href="http://conocimientolibre.cenditel.gob.ve/elblog/">Sobre el Blog</a></li></ul></div>
+			</nav><!-- #access -->
+	</header><!-- #branding -->
+
+
+	<div id="main">
+		<div id="primary">
+			<div id="content" role="main">
+
+				
+					<nav id="nav-single">
+						<h3 class="assistive-text">Post navigation</h3>
+						<span class="nav-previous"><a href="http://conocimientolibre.cenditel.gob.ve/2014/04/15/la-neutralidad-de-la-red-y-la-libertad-de-expresion/" rel="prev"><span class="meta-nav">&larr;</span> Previous</a></span>
+						<span class="nav-next"><a href="http://conocimientolibre.cenditel.gob.ve/2014/04/30/la-guarimba-de-la-neutralidad-de-la-red/" rel="next">Next <span class="meta-nav">&rarr;</span></a></span>
+					</nav><!-- #nav-single -->
+
+					
+<article id="post-341" class="post-341 post type-post status-publish format-standard hentry category-neutralidad-tecnologica category-responsabilidad-tecnopolitica">
+	<header class="entry-header">
+		<h1 class="entry-title">En torno a la polémica respecto a la neutralidad de la red de redes y su posible intervención por el Estado en Venezuela: Llamemos las cosas por su nombre.</h1>
+
+				<div class="entry-meta">
+			<span class="sep">Posted on </span><a href="http://conocimientolibre.cenditel.gob.ve/2014/04/21/en-torno-a-la-polemica-respecto-a-la-neutralidad-de-la-red-de-redes-y-su-posible-intervencion-por-el-estado-en-venezuela-llamemos-las-cosas-por-su-nombre/" title="7:43 pm" rel="bookmark"><time class="entry-date" datetime="2014-04-21T19:43:24+00:00" pubdate>Abril 21, 2014</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="http://conocimientolibre.cenditel.gob.ve/author/dalvarez/" title="View all posts by Daniel Alvarez" rel="author">Daniel Alvarez</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p style="text-align: left">A continuación comparto con quienes tengan la paciencia de leerme, algunos elementos que estimo deberían ser tomados en consideración en la discusión que tiene lugar en este momento en Venezuela respecto a tema tan polémico como la neutralidad tecnológica y de utilización de las telecomunicaciones.</p>
+<p><!--<br />
+@page { margin: 2cm }<br />
+P { margin-bottom: 0.21cm }<br />
+--></p>
+<p align="JUSTIFY"><span style="font-family: FreeSans,sans-serif"><span style="font-size: medium"><strong>I. La neutralidad de la red de redes y sus agregados es una imposibilidad desde lo histórico.</strong> La neutralidad respecto a cualquier tema en el momento actual del desarrollo humano, es <b>invisibilización</b> del conflicto de clases y las contradicciones internas del Capitalismo y en consecuencia antihistórica, falaz y evidencia en sus preceptores resistencia a la transformación liberadora de las relaciones de lo humano en sí y con el entorno planetario que lo hace ser. En consecuencia, tal pretensión para las mentes que identifican con claridad el <b>deber social</b> de la genuina libertad de sentimiento, pensamiento y acción, debe ser elemento de juicio en el desmantelamiento los argumentos neutro-defensores, en procura de la construcción colectiva que nos resulte significativa. Esto es: El mundo <b>no es</b> estadounidense, funcional, homogéneo, capitalizado, ni sin clases ni grupos sociales o étnicos varios.</span></span></p>
+<p align="JUSTIFY"><span style="font-family: FreeSans,sans-serif"><span style="font-size: medium">El argumento de neutralidad fundado en el entendimiento de la potencial utilización de aplicaciones y telecomunicaciones en cualquier sentido, es clasista y racista, ya que son los excluidos de mundo quienes simplemente no pueden ser vistos, oídos ni leídos por el resto del mundo en su específica y miserable condición. Es decir, son sólo visibles y comunicables en tanto hayan sido estandarizados, lo que ya niega su condición de excluidos y explotados, tanto por el efecto de exclusión del acceso físico a la tecnología en sí como, y por sobre todo, las <i>lógicas y lenguajes</i> que emplean tales excluidos, simplemente incomprensibles en el mundo occidentalizado.</span></span></p>
+<p align="JUSTIFY"><span style="font-family: FreeSans,sans-serif"><span style="font-size: medium">En consecuencia, en un mundo hegemonizado por la occidentalidad y la cultura masiva, consumista y banal, toda neutralidad no es más que colaboracionismo con el predominio violento de valores y prácticas indignantes para la mayoría de la especie humana.</span></span></p>
+<p align="JUSTIFY"><span style="font-family: FreeSans,sans-serif"><span style="font-size: medium"><strong>II. La neutralidad es criterio de invalidación del movimiento originario de software libre. </strong>Si partimos del supuesto que la práctica de los movimientos de software libre es tendiente a la liberación distribuible del conocimiento y sus aplicaciones y que eso nos hace evolutivamente mejores dentro de la lógica del proyecto humanista, debemos asumir que las libertades que implica el uso y desarrollo del software libre no tienen sentido en una situación en la que algunos de sus sujetos (hacedores y/o usuarios) generen una práctica destructiva, porque se aniquila en un absurdo antihumano. Tal práctica destructiva se explica en todos los elementos de comunicación, reporte, organización, procura y apoyo inteligente a las acciones que los grupos de personas vinculadas al aislamiento de entornos urbanos con obstáculos en las vías públicas y destrucción del patrimonio, con amenaza a y efectiva vulneración de la integridad física, moral y hasta la vida de quienes no muestren claro acuerdo con sus acciones en las ciudades de Venezuela. <i>Revisemos brevemente los artículos informativos que al efecto referimos al pie</i>.</span></span></p>
+<p align="JUSTIFY"><span style="font-family: FreeSans,sans-serif"><span style="font-size: medium"><strong>III. La neutralidad de la red de redes es contrasentido de la Razón de Estado Socialista. </strong>La Razón de Estado Socialista tiene como sentido el <b>sostenimiento igualitario de la mínima óptima condición de vida</b> de los seres biológicos sujetos a su soberanía, y su construcción es societalmente distribuida y progresiva históricamente: Debe cumplir con la condición de aporte <strong>constructivo</strong> desde todos los colectivos e individualidades que le conforman para poder garantizar la igualdad institucional, la justicia histórica y honrar el compromiso genuino de <strong>democracia total</strong>.</span></span></p>
+<p align="JUSTIFY"><span style="font-family: FreeSans,sans-serif"><span style="font-size: medium">En este sentido, la comunicación define con sus contenidos, lógicas y códigos el sentido de las sociedades. Hay carácter de canal preferente en la Internet para la comunicación en las sociedades masivas como la que le da contenido al Estado (proto)Socialista Venezolano. Si la <b>administración de la salida y el acceso a esta red en su ámbito territorial</b> está sujeta a tal Estado, es conclusión necesaria que pueda determinarse técnicamente en la esfera que le da carácter colectivo para el <b>bien de todos</b>. Si el aporte de algún colectivo o individualidad a través de tal canal preferente es <b>destructivo</b> y tendiente derivar la situación social en complejos de procesos contrarios a los fines del Estado, es necesaria su oportuna intervención mediada por la Razón de Estado Socialista con límites fundados en el bienestar de los colectivos genuinamente democráticos sujetos al mismo sentido (derechos humanos en la lógica de mediación para garantizar la optimalidad de la vida humana en colectivo / La vida humana individualmente asumida no tiene sentido)</span></span></p>
+<p align="JUSTIFY"><span style="font-family: FreeSans,sans-serif"><span style="font-size: medium">La urgencia de algunos colectivos e individualidades en su pretensión de neutralidad, no es más que el espacio deseable para “maniobrar” en su estrategia para el “envenenamiento” de la construcción comunicacional que implica su acción y el Estado tiene la obligación en razón del bien común y la garantía del orden público, que no tiene otro fin que la garantía de los derechos a la vida, a la integridad personal y otros, a generar las acciones concurrentes dentro de la racionalidad de la responsabilidad pública socialista que pone claros límites y racionalidad a tales.</span></span></p>
+<p align="JUSTIFY"><span style="font-family: FreeSans,sans-serif"><span style="font-size: medium">Es, en definitiva, una opción ético-política. Cualquier desconfianza en ese contexto dada nuestra experiencia histórica reciente sólo evidencia una intencionalidad destructiva mimetizada en afán libertario.</span></span></p>
+<p align="JUSTIFY"><span style="font-family: FreeSans,sans-serif"><span style="font-size: medium"><strong>IV. La neutralidad de la Internet es negación de su sentido hegemónico de expansión evidente y por lo tanto falaz.</strong> Siguiendo a Manuel Castells en su trabajo “La Galaxia Internet” (ver nota 2), este “multiverso paralelo” es el resultado de desarrollos complementarios y progresivos entre el entorno militar estadounidense (que profesa sus intereses de sí, derivados del puente ideológico de las cualificaciones globales de la “Doctrina Monroe”) y las ideas y esfuerzos científicos y académicos de vocación más o menos libertaria, para la satisfacción de la necesidad de la “libre generación y distribución de conocimientos”. Dadas las intencionalidades y naturaleza humana en razón de los contenidos y métodos que esto implica, es una creación cultural y en consecuencia <b>ideológica</b>.</span></span></p>
+<p align="JUSTIFY"><span style="font-family: FreeSans,sans-serif"><span style="font-size: medium">En calidad de “sistema de información (&#8230;) al alcance de todos”, Internet devino en <strong>empresa comercial</strong> y, en tanto tal, <b>objeto de manipulación</b> para el fomento de los (anti)valores de las sociedades de consumo y satisfacción de los intereses de las corporaciones que le insumen, que niegan por definición la soberanía cultural, en razón de su necesidad de estandarización, efecto indeseable en la construcción de una humanidad más digna y correcta: Ya que nuestro pacto de convivencia y proyecto nacional que es la Constitución de la República, promueve el desarrollo de una sociedad más digna que la de consumo (ver nota 3), deberíamos cuestionarnos seriamente si la opción del consumo compulsivo y la contaminación ambiental, que son las consecuencias indirectas de la <b>utilización comercial de la Internet</b> en general, están dotados del carácter edificante que tiene nuestro proyecto nacional. Hacemos hincapié en el concepto de utilización comercial (que es el prevaleciente en la actualidad) en oposición a la utilización humanista y humanitaria en el sentido más constructivo que pueda pensarse en el proyecto cultural de esta corriente del pensamiento.</span></span></p>
+<p align="JUSTIFY"><span style="font-family: FreeSans,sans-serif"><span style="font-size: medium">Podemos pensar entonces, que la neutralidad termina siendo la justificación de lo hegemónico, <b>como </b><strong>costumbre</strong>, tal como se justifica la existencia del aire y afirmamos que la pretensión de neutralidad en la red de redes es un gran malentendido que se ha transformado en un gran engaño para beneficio de los dominadores.</span></span></p>
+<p align="JUSTIFY"><span style="font-family: FreeSans,sans-serif"><span style="font-size: medium">&#8230;..</span></span></p>
+<p align="JUSTIFY"><span style="font-family: FreeSans,sans-serif"><span style="font-size: medium">Entonces, por favor, seamos honestos, no aleguen “neutralidad” que es claramente un concepto engañoso. Aleguen “libre tránsito de datos para defender al poder global” (engañando a los desprevenidos y organizando a los violentos contra el sentido genuinamente democrático) en su realización de dar a los defensores de tal pseudo-neutralidad, la comodidad y la satisfacción a la que creen tener derecho en tanto se identifican con el “cuento” de los dominadores, siendo esto consecuencia de su entendimiento y aceptación más o menos inconsciente de su condición de colaboradores con el sistema de dominio y explotación globales.</span></span></p>
+<p align="JUSTIFY"><span style="font-family: FreeSans,sans-serif"><span style="font-size: medium">Sabemos, dadas las condiciones actuales del mundo, que el complejo industrial-militar estadounidense, hegemónico por ahora, determina la utilización de las tecnologías de la información y la comunicación: Basta con echar un vistazo a los temas y repertorios generales de la industria del espectáculo para darse cuenta de la insensibilidad, la violencia y el consumismo que tienen por objetivo fomentar en cualquier población del mundo que, de ser necesario a los intereses estadounidenses, deberá comportarse como un ejército de ocupación, asesinando a sus vecinos y connacionales, torturando y asesinando animales, destruyendo los propios bienes de sus naciones, retardando el desarrollo humano integral, impidiendo el estudio, quemando universidades y escuelas, deteriorando el ambiente para generar terror y odio, sólo para que los dominadores capitalistas estén tranquilos en sus paraísos, seguros de que su “maravillosa maquinaria” material y simbólica (su hegemonía) hará el trabajo más fácil.</span></span></p>
+<p align="JUSTIFY"><span style="font-family: FreeSans,sans-serif"><span style="font-size: medium">Entonces, quien alegue que lucha en defensa irrestricta de las libertades en un vacío histórico que no asume los bloques del poder claramente establecidos en el mundo, le hace flaco favor a la causa de los oprimidos: El libertariano ultroso no es más que un narcisista enfundado en la cápsula protectora del anonimato que da la masividad moderna.</span></span></p>
+<p align="JUSTIFY"><span style="font-family: FreeSans,sans-serif"><span style="font-size: medium">Hay que detenerse un rato y contemplar las representaciones gráficas de los flujos territoriales que sigue el tránsito de datos en el ámbito global en lo que respecta a nodos, para saber quién tiene la capacidad técnica determinante de “censurar” tal paso de datos, (que por demás ha implementado, recordar caso Megaupload y escándalos de ciberespionaje entre potencias mundiales). Quien niegue esto para salvar su pretensión precaria de neutralidad no es más que un hipócrita, porque los intereses de estandarización de mensaje y visión de mundo residen en quienes necesitan mediatizar al resto de la humanidad para dominarle y enriquecerse.(Ver nota 4)</span></span></p>
+<p align="JUSTIFY"><span style="font-family: FreeSans,sans-serif"><span style="font-size: medium">Sólo respondamos honestamente a estas preguntas:</span></span></p>
+<p align="JUSTIFY"><span style="font-family: FreeSans,sans-serif"><span style="font-size: medium">¿Cuál buscador utilizas preferentemente?</span></span></p>
+<p align="JUSTIFY"><span style="font-family: FreeSans,sans-serif"><span style="font-size: medium">¿Cuál nación, en cuál territorio, influenciada y violentada por la lógica y la acción estadounidense en calidad de neocolonia post-bush-jr. se parece siquiera a la libertad, autodeterminación, libre-consciencia, que nos venden, alquilan o infunden en sus <b>propagandas</b>?</span></span></p>
+<p align="JUSTIFY"><span style="font-family: FreeSans,sans-serif"><span style="font-size: medium">La intención de los dominadores y sus colaboradores (entre quienes podríamos pensar a los neutro-defensores en Venezuela en razón de lo propuesto a reflexión en este artículo, ver nota 6) es instalar su establecimiento de vida basado en el <b>discurso único</b> de “centros comerciales como espacios pseudopúblicos de encuentro”, consumo compulsivo, elecciones engañosas entre candidatos que plantea siempre todo variado para que nada cambie (Ver nota 5) y un mercado de trabajo en el que nadie responde por el bienestar de nadie, que no deja vida sino para rendírsela a los ricos.</span></span></p>
+<p align="JUSTIFY"><span style="font-family: FreeSans,sans-serif"><span style="font-size: medium">¡Qué vida gris que nos proponen y tratan de imponer, sólo para que los dominadores estén tranquilos y sus cómplices disfruten del ilusorio lujo de lo inútil y efímero!</span></span></p>
+<p>&nbsp;</p>
+<p style="text-align: left">Notas:</p>
+<p style="text-align: left">1. Destructividad de las “guarimbas”:</p>
+<p style="text-align: left">a.<a title="Resultados del ejercicio de la violencia" href="http://www.correodelorinoco.gob.ve/regiones/50-policias-heridos-dejan-guarimbas-merida/" target="_blank">Resultados del ejercicio de la violencia</a></p>
+<p style="text-align: left">b.<a title="Asesinato del integrante de la guardia Nacional Bolivariana en Mérida" href="http://www.ciudadccs.info/?p=545804" target="_blank">Asesinato del integrante de la Guardia Nacional Bolivariana en Mérida</a></p>
+<p style="text-align: left">c.<a title="Envenenamiento de la planta de tratamiento de agua en Mérida" href="http://www.correodelorinoco.gob.ve/regiones/denuncian-que-mas-100-litros-presunto-combustible-fueron-vertidos-embalse-merida/" target="_blank">Envenenamiento de planta de tratamiento de agua en Mérida</a></p>
+<p style="text-align: left">d.<a title="Incendio de cisterna de gasolina en Carabobo" href="http://www.avn.info.ve/contenido/terroristas-secuestran-e-incendian-cisterna-pdvsa-al-norte-valencia">Incendio de cisterna de gasolina en Carabobo</a></p>
+<p style="text-align: left">e.<a title="Incendio de universidades" href="http://www.aporrea.org/educacion/a184933.html" target="_blank">Incendio a universidades</a></p>
+<p style="text-align: left">f. <a href="http://www.youtube.com/watch?v=tDa_jC_UNgc" target="_blank">Reseña del carácter destructivo de las “guarimbas”; Caso Pie del Tiro (Mérida)</a></p>
+<p style="text-align: left">2. Generación progresiva de Internet, sus atributos y funcionalidades:<br />
+CASTELLS M., La Galaxia Internet. Editorial Areté. España. 2001.</p>
+<p style="text-align: left">3. Cualidad programática y valorativa del preámbulo de la Constitución de la República Bolivariana de Venezuela:<br />
+“(&#8230;)con el fin supremo de refundar la República para establecer una sociedad democrática, participativa y protagónica, multiétnica y pluricultural en un Estado de justicia, federal y descentralizado, que consolide los valores de la libertad, la independencia, la paz, la solidaridad, el bien común, la integridad territorial, la convivencia y el imperio de la ley para esta y las futuras generaciones; asegure el derecho a la vida, al trabajo, a la cultura, a la educación, a la justicia social y a la igualdad sin discriminación ni subordinación alguna; promueva la cooperación pacífica entre las naciones e impulse la integración latinoamericana de acuerdo con el principio de no intervención y autodeterminación de los pueblos, la garantía universal e indivisible de los derechos humanos, la democratización de la sociedad internacional, el desarme nuclear, el equilibrio ecológico y los bienes jurídicos ambientales como patrimonio común e irrenunciable de la humanidad(&#8230;)”</p>
+<p style="text-align: left">Ref. República Bolivariana de Venezuela. Constitución. Gaceta Oficial Nº 5908 (extraordinario) del 19 de Febrero de 2009. Caracas.</p>
+<p style="text-align: left">4. Situaciones de evidente predominio tecnológico que niegan a priori la “neutralidad de la red”:<br />
+&#8220;La NSA colocó a Assange en lo que llama un cronograma de cacería humana. Las personas en esa lista son objetivos que la agencia busca ubicar, perseguir, capturar o matar, entre ellos miembros de Al Qaeda. Que Assange, un individuo que publicó información de denunciantes ciudadanos, se encuentre en tal lista indica que la agencia no teme usar su autoridad de acopio de inteligencia para impedir el libre flujo de información.&#8221;<br />
+<a title="Ratner, M. La amenaza del acopio de inteligencia" href="http://www.rebelion.org/noticia.php?id=182898&amp;titular=la-amenaza-del-acopio-de-inteligencia-" target="_blank">Ratner, M. La amenaza del acopio de inteligencia</a></p>
+<p style="text-align: left">Además:<br />
+<a title="Flujos de información y poder" href="http://www.rebelion.org/noticia.php?id=183293&amp;titular=flujos-de-informaci%F3n-y-poder-" target="_blank">Flujos de información y poder</a></p>
+<p style="text-align: left"><a title="EE.UU. y Reino Unido usan plataformas sociales para desacreditar a gobiernos" href="http://actualidad.rt.com/actualidad/view/124534-snowden-eeuu-redes-sociales-desacreditar-gobiernos" target="_blank">EE.UU. y Reino Unido usan plataformas sociales para desacreditar a gobiernos</a></p>
+<p style="text-align: left"><a title="¿Un programa para controlar comunicaciones por Internet? Los drones de Facebook (y la NSA)" href="http://www.rebelion.org/noticia.php?id=183013&amp;titular=los-drones-de-facebook-%28y-la-nsa%29-" target="_blank">¿Un programa para controlar comunicaciones por internet? Los drones de Facebook (y la NSA)</a></p>
+<p style="text-align: left"><a title="Estados Unidos, el espía global" href="http://www.rebelion.org/noticia.php?id=182973&amp;titular=estados-unidos:-el-esp%EDa-global-" target="_blank">Estados Unidos, el espía global</a></p>
+<p style="text-align: left">y</p>
+<p style="text-align: left">5. <a title="Mouseland: Descripción fabular de la esencia de las elecciones burguesas en Youtube" href="http://www.youtube.com/watch?v=NzdsgogJ8AY" target="_blank">Mouseland: Descripción fabular de la esencia de las elecciones burguesas en youtube</a></p>
+<p>6. <a title="Testimonio de ciberataques contra el Estado venezolano" href="http://www.youtube.com/watch?v=vXVQuIwdeDc" target="_blank">Testimonio ciberataques al Estado venezolano</a></p>
+			</div><!-- .entry-content -->
+
+	<footer class="entry-meta">
+		This entry was posted in <a href="http://conocimientolibre.cenditel.gob.ve/category/neutralidad-tecnologica/" title="Ver todas las entradas publicadas en Neutralidad Tecnológica" rel="category tag">Neutralidad Tecnológica</a>, <a href="http://conocimientolibre.cenditel.gob.ve/category/responsabilidad-tecnopolitica/" title="Ver todas las entradas publicadas en Responsabilidad tecnopolítica" rel="category tag">Responsabilidad tecnopolítica</a> by <a href="http://conocimientolibre.cenditel.gob.ve/author/dalvarez/">Daniel Alvarez</a>. Bookmark the <a href="http://conocimientolibre.cenditel.gob.ve/2014/04/21/en-torno-a-la-polemica-respecto-a-la-neutralidad-de-la-red-de-redes-y-su-posible-intervencion-por-el-estado-en-venezuela-llamemos-las-cosas-por-su-nombre/" title="Permalink to En torno a la polémica respecto a la neutralidad de la red de redes y su posible intervención por el Estado en Venezuela: Llamemos las cosas por su nombre." rel="bookmark">permalink</a>.		
+			</footer><!-- .entry-meta -->
+</article><!-- #post-341 -->
+
+						<div id="comments">
+	
+	
+			<h2 id="comments-title">
+			2 thoughts on &ldquo;<span>En torno a la polémica respecto a la neutralidad de la red de redes y su posible intervención por el Estado en Venezuela: Llamemos las cosas por su nombre.</span>&rdquo;		</h2>
+
+		
+		<ol class="commentlist">
+				<li class="comment even thread-even depth-1" id="li-comment-47">
+		<article id="comment-47" class="comment">
+			<footer class="comment-meta">
+				<div class="comment-author vcard">
+					<img alt='' src='http://1.gravatar.com/avatar/5f11bef84975458e4b40dd3892bd8f5d?s=68&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D68&amp;r=G' class='avatar avatar-68 photo' height='68' width='68' /><span class="fn"><a href='http://sysadmin.lgs.com.ve' rel='external nofollow' class='url'>Loris Santamaria</a></span> on <a href="http://conocimientolibre.cenditel.gob.ve/2014/04/21/en-torno-a-la-polemica-respecto-a-la-neutralidad-de-la-red-de-redes-y-su-posible-intervencion-por-el-estado-en-venezuela-llamemos-las-cosas-por-su-nombre/#comment-47"><time pubdate datetime="2014-04-23T20:09:59+00:00">Abril 23, 2014 at 8:09 pm</time></a> <span class="says">said:</span>
+									</div><!-- .comment-author .vcard -->
+
+				
+			</footer>
+
+			<div class="comment-content"><p>La neutralidad de la red se refiere a que el ISP debería ser agnóstico a los datos que transporta, no es un tema de neutralidad de los contenidos.</p>
+<p>Estamos claros que los contenidos en Internet no son neutrales, no pueden ser neutrales, _nadie_quiere_que_sean_neutrales_.  El punto de la neutralidad de la red es que la neutralidad del transporte es indispensable, es un requisito, para garantizar una infinidad de contenidos no-neutrales. </p>
+<p>Supongamos que todos los puntos que expones son ciertos (el predominio de las empresas, el ataque contra el estado venezolano, etc etc etc) y estamos todos de acuerdo con ellos, necesitas de la neutralidad del transporte para que la &#8220;contrainformación&#8221;, es decir la información que hace antítesis a los preceptos de la sociedad del consumo, pueda llegar a cualquier punto de la Red. En una red no-neutral (otra vez, desde el punto de vista del transporte) la ideología del Socialismo Bolivariano no llegaría muy lejos.</p>
+<p>Evidentemente esa neutralidad de Internet como transporte no se cumple a cabalidad, es bastante sonado el caso reciente de Comcast que está cobrando una especie de peaje a ciertos servicios de streaming, así que nos gustaría ver que el Cenditel enfoque sus recursos para promover la remoción de las barreras que están estableciendo ciertos ISP en lugar de atacar una falsa idea de neutralidad de contenidos que nadie necesita y nadie promueve.</p>
+</div>
+
+			<div class="reply">
+				<a class='comment-reply-link' href='/2014/04/21/en-torno-a-la-polemica-respecto-a-la-neutralidad-de-la-red-de-redes-y-su-posible-intervencion-por-el-estado-en-venezuela-llamemos-las-cosas-por-su-nombre/?replytocom=47#respond' onclick='return addComment.moveForm("comment-47", "47", "respond", "341")'>Reply <span>&darr;</span></a>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	<ul class="children">
+	<li class="comment byuser comment-author-dalvarez bypostauthor odd alt depth-2" id="li-comment-48">
+		<article id="comment-48" class="comment">
+			<footer class="comment-meta">
+				<div class="comment-author vcard">
+					<img alt='' src='http://1.gravatar.com/avatar/521b1c538ce191d9b6bbe00e3a60a612?s=39&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D39&amp;r=G' class='avatar avatar-39 photo' height='39' width='39' /><span class="fn">Daniel Alvarez</span> on <a href="http://conocimientolibre.cenditel.gob.ve/2014/04/21/en-torno-a-la-polemica-respecto-a-la-neutralidad-de-la-red-de-redes-y-su-posible-intervencion-por-el-estado-en-venezuela-llamemos-las-cosas-por-su-nombre/#comment-48"><time pubdate datetime="2014-05-28T15:12:38+00:00">Mayo 28, 2014 at 3:12 pm</time></a> <span class="says">said:</span>
+									</div><!-- .comment-author .vcard -->
+
+				
+			</footer>
+
+			<div class="comment-content"><p>Lo primero. Es necesario disculparme por la demora en esta respuesta. Este ha sido un mes abundante en actividades que han requerido toda mi atención. Procuraré responder con mayor rapidez posteriormente, si fuera necesario.</p>
+<p>La intención del artículo que presentamos, como es evidente por su título, es proponer una resemantización de la discusión para sacarla del estancamiento a que ha llegado y que haya una agregación genuinamente democrática en la construcción cultural que promovemos. El mundo de significación de los hacedores y usuarios de la comunidad de Software Libre está lleno de términos y conceptos &#8220;sofisticadores&#8221;, como llamar &#8220;agnosticismo a los datos&#8221; al carácter eminentemente transportador de los elementos lógico-físicos de la redes informáticas, cuando agnosticismo es una actitud filosófica en el debate respecto a la existencia divina. (Por favor no me digan que es inaceptable una actitud discursiva de término restringido, porque eso invalidaría entonces el argumento casi ubicuo y que constituye el centro de su respuesta al post, que me he encontrado en las exposiciones emocionadas de los neutro-defensores, de restringir el entendimiento de la neutralidad al libre tránsito de datos en la red de redes, cuando entendemos que ese carácter definitorio podría ser designado con otro concepto que alejaría la polémica y dejaría claras las intencionalidades de cada bando.</p>
+<p>Al leer con cuidado, podrá descubrir que nuestro llamado es a honestar los usos y giros lingüísticos llenos de eufemismos que encierran oscurecimientos que facilitan el engaño a los desprevenidos, acelera la negatividad de los violentos y aumenta la carga emocional de los dominados que se niegan a reconocerse como tales en la lucha que libramos en el ámbito global. </p>
+<p>Vivimos un momento crítico y la honestación de ciertos conceptos, además de evitar debates innecesarios y entrópicos (que deben darse si no cambia tal condición de sofisticación), podrían dejar más claro el rol de cada quien en el sistema socio-político que procuramos. En este punto es bueno recordar que quienes adversan el proyecto Socialista Bolivariano desde siempre, se han negado a reconocer cualquier elemento y circunstancia surgido de esta tendencia societal como constructivo o digno. Siempre hay elementos de juicio para evitar asumir compromisos o entender el mundo con otra especificidad que no sea la de la relación capital-trabajo y el &#8220;mérito&#8221; que encierra. Esta actitud se encuentra en cualquier comunidad, desde los gremios de educadores hasta (pseudo)comunicadores masivos y la comunidad de hacedores y usuarios de Software Libre no escapa a esta situación por la condición humana de los integrantes de estos grupos.</p>
+<p>Respecto a la propuesta de experimento mental, que siempre pareciera acercarse al chantaje emocional, de &#8220;que tal si no se cumpliera esta condición de libre flujo de datos, la transmisión de mensaje revolucionario ¡no sería posible! [Cito: "En una red no-neutral (otra vez, desde el punto de vista del transporte) la ideología del Socialismo Bolivariano no llegaría muy lejos"] Seamos históricamente honestos: ¿Cabe siquiera hacerse esta pregunta en el supuesto negado que el gobierno venezolano regrese al control de la derecha? El reclamo de hipocresía a que hacemos referencia en el post, tiene relación con la condición de clase de la falsa conciencia de los neutro-defensores: Siendo seguramente, integrantes de la clase trabajadora asalariada o pequeños empresarios (es decir eslabones terminales en la cadena de explotación y dominación) y colaboradores conscientes del sistema de expansión y (pseudo)cualificación capitalista. Porque les parece chévere, porque les parece conveniente a sus miedos egoístas, porque les parece evolutivamente “superior”. Si en Venezuela gobernara la burguesía internacional por vía de la oligarquía nacional, y al Partido Comunista le bloquearan sus comunicaciones y aplicaciones en la web, seguramente la mayoría de los ahora neutro-defensores, no se molestaría en levantar ningún debate. La experiencia histórica nos permite constatarlo. ¿Quién, de los que ahora alegan militancia de larga data en el Movimiento de Software Libre y que se unen a la causa neutro-defensora, reclamó bloqueo a las comunicaciones o “falta de neutralidad de la red” cuando el 12 de Abril de 2002 algunos de nosotros intentamos comunicarnos infructuosamente a través de Internet ese terrible día?</p>
+<p>En lo que toca a la demanda específica a Cenditel de generar procesos que tengan como resultado la &#8220;remoción de las barreras que están estableciendo ciertos ISP&#8221;, debo entender que al solicitarlo en público en una respuesta a un post cuyo blog en su especificidad técnica no concurre directamente con el tema, tiene el propósito de anular la intencionalidad crítica de esta organización para desmoralizarla en el debate, resultando en la lógica del mismo el efecto de un “golpe bajo”. Falacia por irrelevancia que llamamos, y que aunque reconocible de inmediato, tiene un efecto colateral e inconciente de neutralización del argumento contrario, si no se pone en evidencia. En todo caso y suponiendo otra intención más constructiva, le sugiero respetuosamente, articularla con la seriedad y especificidad técnica que el tema implica, a los debates normalmente abiertos desde las organizaciones públicas de cualquier ministerio del gobierno venezolano cuya atribución esté sujeta al tema y eso incluye particularmente a Ciencia, Tecnología e Innovación en sus planteamientos estratégicos de planificación y a la propia Comunidad Canaima.</p>
+<p>Me gustaría agregar una observación. En mi opinión, hay dos errores en su propuesta final, al afirmar que &#8220;nadie necesita o promueve&#8221; la &#8220;falsa idea de neutralidad de contenidos&#8221; que &#8220;atacamos&#8221;. El primero es la afirmación absolutoria y en consecuencia autoritaria de que &#8220;nadie necesita&#8221; o &#8220;nadie promueve&#8221; tal idea. Existen organizaciones e individuos que utilizan la confusión o el olvido de los usuarios comunes (ciudadanos cuyo proceso vital es esencialmente ajeno a este debate pero cuyas vidas igual son afectadas por las consecuencias que en lo histórico y físico implica); a este respecto y siempre es pertinente y necesario recordarlo. ¿O preferiría admitir con claridad y a priori que la educación que tradicionalmente se impartía como &#8220;conocimiento neutro&#8221; en nuestras escuelas básicas y universitarias es realmente expresión de ideología individualista y egoísta que procura la reproducción de las prácticas capitalistas en cualquier ámbito de la convivencia con especial énfasis en las relaciones laborales y de producción y que eso, de neutro no tiene nada? Sería bueno, dejar de pretender que quienes apoyamos y defendemos la propuesta emancipadora de uso y conciencia que promueve el Socialismo y la genuina libertad, estamos en un estado de prevención innecesario o pretendemos alertar en vano para distraer el esfuerzo e inteligencia de la sociedad.</p>
+<p>Y el segundo error, evidentemente de apreciación y generado por la emocionalidad negativa que el post posiblemente le causa dada la valoración del mundo que puedo intuir en sus opiniones, es que la propuesta reflexiva que hacemos y que asume como “ataque”, además de denunciar el carácter engañoso en el uso del término neutralidad, es procurar dejar la razonable duda respecto a que la utilización de la red con sentido societal determinado por intencionalidades niega en el acto la neutralidad instrumental y dualista alegada. Si se “patea” a alguien, los zapatos, en el acto, no son neutrales, es así de evidente, hacen parte de la circunstancia de facilitación del acto ofensivo y lesivo. La utilización de cualquier elemento de extensión de nuestros efectores intelectuales, corporales y/o sensoriales, y la Internet entra en estas extensiones, de inmediato adquiere la cualidad intencional de quien efectúa la acción. Cuando se utilizan aplicaciones en línea para fomentar la destructividad, esas aplicaciones son destructivas en el acto y esto implica la utilización de la red. Simplemente porque no se puede abstraer en la realidad histórica, física ni lógica la intención de la función, ni ésta de la telecomunicación. Es un todo necesario y suficiente que excluye otra entidad. Eso es axiomático.</p>
+<p>Gracias por leernos.</p>
+</div>
+
+			<div class="reply">
+				<a class='comment-reply-link' href='/2014/04/21/en-torno-a-la-polemica-respecto-a-la-neutralidad-de-la-red-de-redes-y-su-posible-intervencion-por-el-estado-en-venezuela-llamemos-las-cosas-por-su-nombre/?replytocom=48#respond' onclick='return addComment.moveForm("comment-48", "48", "respond", "341")'>Reply <span>&darr;</span></a>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+		</ol>
+
+		
+	
+									<div id="respond" class="comment-respond">
+				<h3 id="reply-title" class="comment-reply-title">A&ntilde;dir un comentario a <a href="#comment-48">Daniel Alvarez</a> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2014/04/21/en-torno-a-la-polemica-respecto-a-la-neutralidad-de-la-red-de-redes-y-su-posible-intervencion-por-el-estado-en-venezuela-llamemos-las-cosas-por-su-nombre/#respond">Cancelar respuesta</a></small></h3>
+									<form action="http://conocimientolibre.cenditel.gob.ve/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+																			<p class="comment-notes">Su dirección de correo no se hará público. Los campos requeridos están marcados <span class="required">*</span></p>							<p class="comment-form-author"><label for="author">Nombre <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" aria-required='true' /></p>
+<p class="comment-form-email"><label for="email">Correo <span class="required">*</span></label> <input id="email" name="email" type="text" value="" size="30" aria-required='true' /></p>
+<p class="comment-form-url"><label for="url">Sitio web</label> <input id="url" name="url" type="text" value="" size="30" /></p>
+<p class="comment-form-captcha">
+		<label for="captcha"><b>Captcha </b></label>
+		<span class="required">*</span>
+		<div style="clear:both;"></div>
+		<img src="http://conocimientolibre.cenditel.gob.ve/wp-content/plugins/captcha-code-authentication/captcha_code_file.php?rand=1439179857" />
+		<div style="clear:both;"></div>
+		<label for="captcha_code">Type the text displayed above:</label>
+		<input id="captcha_code" name="captcha_code" size="15" type="text" />
+		<div style="clear:both;"></div>
+		</p>												<p class="comment-form-comment"><label for="comment">Comentario</label> <textarea id="comment" name="comment" cols="45" rows="8" aria-required="true"></textarea></p>						<p class="form-allowed-tags">Usted puede utilizar las etiquetas <abbr title="Lenguaje de Marcado de Hipertexto">HTML</abbr> y atributos:  <code>&lt;a href=&quot;&quot; title=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=&quot;&quot;&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=&quot;&quot;&gt; &lt;strike&gt; &lt;strong&gt; </code></p>						<p class="form-submit">
+							<input name="submit" type="submit" id="submit" value="Publicar comentario" />
+							<input type='hidden' name='comment_post_ID' value='341' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='48' />
+						</p>
+											</form>
+							</div><!-- #respond -->
+						
+</div><!-- #comments -->
+
+				
+			</div><!-- #content -->
+		</div><!-- #primary -->
+
+
+
+	</div><!-- #main -->
+
+	<footer id="colophon" role="contentinfo">
+
+			
+
+
+			<div id="site-generator">
+				<html>
+
+<div id="imagen">
+<img src="/wp-content/themes/Bicentenario/images/logo.png">
+</div>
+
+<TABLE id="tabla">
+<tr>
+<div id="enlaces_titulo"><p>Enlaces de interes</p></div>
+
+</tr>
+
+     <TR>
+
+	
+
+          <TD><ul id="menu1">
+	<li><a href="http://www.mct.gob.ve/" target="_blank" alt="Ministerio del Poder Popular para Ciencia, Tecnología e Industrias Intermedias" title="Ministerio del Poder Popular para Ciencia, Tecnología e Industrias Intermedias">MppCTii</a></li>
+	<li> <a href="http://www.me.gob.ve/" target="_blank" alt="Ministerio del Poder Popular para la Educación" title="Ministerio del Poder Popular para la Educación">MppE</a></li>
+	<li> <a href="http://www.fundacite-merida.gob.ve" target="_blank" alt="Fundacite Mérida" title="Fundacite Mérida">Fundacite</a></li>
+	<li> <a href="http://www.fidetel.gob.ve" target="_blank" alt="Fondo de Investigación y Desarrollo de las Telecomunicaciones" title="Fondo de Investigación y Desarrollo de las Telecomunicaciones">FIDETEL</a> </li>
+</ul> </TD> 
+
+	<TD> <ul id="menu2">
+	<li><a href="http://www.minci.gob.ve" target="_blank" alt="Ministerio del Poder Popular para la Comunicacion e Informacion" title="Ministerio del Poder Popular para la Comunicacion e Informacion">Minci</a></li>
+	<li> <a href="http://www.minamb.gob.ve/" target="_blank" alt="Ministerio del Poder Popular para el Ambiente" title="Ministerio del Poder Popular para el Ambiente">MppA</a></li>
+	<li> <a href="http://www.cnti.gob.ve" target="_blank" alt="Centro Nacional de Tecnologías de Información" title="Centro Nacional de Tecnologías de Información">Cnti</a></li>
+	<li> <a href="http://www.mpcomunas.gob.ve" target="_blank" alt="Ministerio del Poder Popular para las Comunas y Protección Social" title="Ministerio del Poder Popular para las Comunas y Protección Social">MppCPS</a> </li>
+</ul></TD>
+     
+	<TD><ul id="menu3">
+	<li><a href="http://www.ministeriodelacultura.gob.ve" target="_blank" alt="Ministerio del Poder Popular para la Cultura" title="Ministerio del Poder Popular para la Cultura">MppC</a></li>
+	<li> <a href="http://www.mppeu.gob.ve/" target="_blank" alt="Ministerio del Poder Popular para la Educación Universitaria" title="Ministerio del Poder Popular para la Educación Universitaria">MppEU</a></li>
+	<li> <a href="http://www.suscerte.gob.ve" target="_blank" alt="Superintendencia de Servicios de Certificación Electrónica" title="Superintendencia de Servicios de Certificación Electrónica">SUSCERTE</a> </li>
+	<li> <a href="http://www.cantv.net/" target="_blank" alt="CANTV" title="CANTV"> CANTV</a></li>
+	</ul> </TD> 
+
+      </TR> 
+</TABLE>
+<div id="pie">
+<p>
+FUNDACIÓN CENTRO NACIONAL DE DESARROLLO E INVESTIGACIÓN EN TECNOLOGÍAS LIBRES (CENDITEL) Avenida Alberto Carnevali, vía La Hechicera, Edificio CENDITEL. Teléfono: (0274)6574336 - 6574958. Apartado Postal: 078. Código Postal: 5101A. RIF: G-20007349-7. Mérida-Venezuela</p>
+</div>
+
+</html>
+
+
+		
+			
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+</body>
+</html>

@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="es-PE">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="es-PE">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="es-PE">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="es-PE">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>La liberación de la dictadura del software. Parte II &#8211; La manipulación del mercado en la escasez artificial del conocimiento | Conocimiento Libre</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="stylesheet" type="text/css" media="all" href="http://conocimientolibre.cenditel.gob.ve/wp-content/themes/proyecto_communita/style.css" />
+<link rel="pingback" href="http://conocimientolibre.cenditel.gob.ve/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="http://conocimientolibre.cenditel.gob.ve/wp-content/themes/proyecto_communita/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+<link rel="alternate" type="application/rss+xml" title="Conocimiento Libre &raquo; Feed" href="http://conocimientolibre.cenditel.gob.ve/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Conocimiento Libre &raquo; Feed de comentarios" href="http://conocimientolibre.cenditel.gob.ve/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Conocimiento Libre &raquo; La liberación de la dictadura del software. Parte II &#8211; La manipulación del mercado en la escasez artificial del conocimiento Feed de comentarios" href="http://conocimientolibre.cenditel.gob.ve/2013/05/27/la-liberacion-de-la-dictadura-del-software-parte-ii-la-manipulacion-del-mercado-en-la-escasez-artificial-del-conocimiento/feed/" />
+<link rel='stylesheet' id='rbanner-css-css'  href='http://conocimientolibre.cenditel.gob.ve/wp-content/plugins/random-banner//css/rbanner.css?ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='videojs-plugin-css'  href='http://conocimientolibre.cenditel.gob.ve/wp-content/plugins/videojs-html5-video-player-for-wordpress/plugin-styles.css?ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='videojs-css'  href='http://conocimientolibre.cenditel.gob.ve/wp-content/plugins/videojs-html5-video-player-for-wordpress/videojs/video-js.css?ver=3.6.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://conocimientolibre.cenditel.gob.ve/wp-includes/js/comment-reply.min.js?ver=3.6.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://conocimientolibre.cenditel.gob.ve/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://conocimientolibre.cenditel.gob.ve/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='El desarrollo tecnológico como problema político-ideológico. A propósito de la discusión pública de la Ley de Infogobierno' href='http://conocimientolibre.cenditel.gob.ve/2013/05/22/el-desarrollo-tecnologico-como-problema-politico-ideologico-a-proposito-de-la-discusion-publica-de-la-ley-de-infogobierno/' />
+<link rel='next' title='Discusión del Proyecto de Ley de Infogobierno: significado de las tecnologías de información libres para el futuro de la sociedad venezolana.' href='http://conocimientolibre.cenditel.gob.ve/2013/05/30/discusion-del-proyecto-de-ley-de-infogobierno-significado-de-las-tecnologias-de-informacion-libres-para-el-futuro-de-la-sociedad-venezolana/' />
+<meta name="generator" content="WordPress 3.6.1" />
+<link rel='canonical' href='http://conocimientolibre.cenditel.gob.ve/2013/05/27/la-liberacion-de-la-dictadura-del-software-parte-ii-la-manipulacion-del-mercado-en-la-escasez-artificial-del-conocimiento/' />
+<link rel='shortlink' href='http://conocimientolibre.cenditel.gob.ve/?p=46' />
+
+		<script type="text/javascript">
+			if(typeof videojs != "undefined") {
+				videojs.options.flash.swf = "http://conocimientolibre.cenditel.gob.ve/wp-content/plugins/videojs-html5-video-player-for-wordpress/videojs/video-js.swf";
+			}
+			document.createElement("video");document.createElement("audio");document.createElement("track");
+		</script>
+			<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+</head>
+
+<body class="single single-post postid-46 single-format-standard singular two-column right-sidebar">
+<div id="page" class="hfeed">
+	<header id="branding" role="banner">
+			<hgroup>
+				<h1 id="site-title"><span><a href="http://conocimientolibre.cenditel.gob.ve/" title="Conocimiento Libre" rel="home">Conocimiento Libre</a></span></h1>
+				<h2 id="site-description">Reflexiones críticas para la apropiación del Conocimiento Libre en Venezuela</h2>
+			</hgroup>
+
+						<a href="http://conocimientolibre.cenditel.gob.ve/">
+									<img src="http://conocimientolibre.cenditel.gob.ve/files/2013/05/cropped-Obra-Mural-CENDITEL-web.jpg" width="1000" height="288" alt="" />
+							</a>
+			
+								<form method="get" id="searchform" action="http://conocimientolibre.cenditel.gob.ve/">
+		<label for="s" class="assistive-text">Search</label>
+		<input type="text" class="field" name="s" id="s" placeholder="Search" />
+		<input type="submit" class="submit" name="submit" id="searchsubmit" value="Search" />
+	</form>
+			
+			<nav id="access" role="navigation">
+				<h3 class="assistive-text">Main menu</h3>
+								<div class="skip-link"><a class="assistive-text" href="#content" title="Skip to primary content">Skip to primary content</a></div>
+				<div class="skip-link"><a class="assistive-text" href="#secondary" title="Skip to secondary content">Skip to secondary content</a></div>
+								<div class="menu"><ul><li ><a href="http://conocimientolibre.cenditel.gob.ve/" title="Inicio">Inicio</a></li><li class="page_item page-item-2"><a href="http://conocimientolibre.cenditel.gob.ve/elblog/">Sobre el Blog</a></li></ul></div>
+			</nav><!-- #access -->
+	</header><!-- #branding -->
+
+
+	<div id="main">
+		<div id="primary">
+			<div id="content" role="main">
+
+				
+					<nav id="nav-single">
+						<h3 class="assistive-text">Post navigation</h3>
+						<span class="nav-previous"><a href="http://conocimientolibre.cenditel.gob.ve/2013/05/22/el-desarrollo-tecnologico-como-problema-politico-ideologico-a-proposito-de-la-discusion-publica-de-la-ley-de-infogobierno/" rel="prev"><span class="meta-nav">&larr;</span> Previous</a></span>
+						<span class="nav-next"><a href="http://conocimientolibre.cenditel.gob.ve/2013/05/30/discusion-del-proyecto-de-ley-de-infogobierno-significado-de-las-tecnologias-de-informacion-libres-para-el-futuro-de-la-sociedad-venezolana/" rel="next">Next <span class="meta-nav">&rarr;</span></a></span>
+					</nav><!-- #nav-single -->
+
+					
+<article id="post-46" class="post-46 post type-post status-publish format-standard hentry category-ley-de-infogobierno category-neutralidad-tecnologica">
+	<header class="entry-header">
+		<h1 class="entry-title">La liberación de la dictadura del software. Parte II &#8211; La manipulación del mercado en la escasez artificial del conocimiento</h1>
+
+				<div class="entry-meta">
+			<span class="sep">Posted on </span><a href="http://conocimientolibre.cenditel.gob.ve/2013/05/27/la-liberacion-de-la-dictadura-del-software-parte-ii-la-manipulacion-del-mercado-en-la-escasez-artificial-del-conocimiento/" title="12:12 am" rel="bookmark"><time class="entry-date" datetime="2013-05-27T00:12:24+00:00" pubdate>Mayo 27, 2013</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="http://conocimientolibre.cenditel.gob.ve/author/jcontreras/" title="View all posts by jcontreras" rel="author">jcontreras</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p><em>José J. Contreras</em> <a href="#adscripcion">(1)</a></p>
+<p align="JUSTIFY">El presente artículo es el segundo de una trilogía dedicada a revisar el tema de la dictadura del software desde la perspectiva liberal. Ello, a propósito del proyecto de “Ley de Infogobierno” que se encuentra en segunda discusión en la Asamblea Nacional y en el cual se establece el uso de software libre como de uso obligatorio por parte de las organizaciones gubernamentales. En este momento, intentaremos revelar otra arista de esta perspectiva liberal del problema de la dictadura del software. Abordaremos aquí, el problema del monopolio de la propiedad intelectual y sus artificios para hacer escaso el bien inmaterial que llamamos “conocimiento” a través de los contratos de licencia del software.</p>
+<p align="JUSTIFY">La propiedad intelectual es un artificio legal para resolver un supuesto “fallo de mercado”. El artificio consiste en brindar la exclusividad de explotación de una invención por un tiempo limitado. Esta protección, se supone, es consecuencia de que la investigación que conduce a una invención es muy costosa y los riesgos muy altos. En consecuencia, no es económicamente racional invertir en investigación. Esto trae un tremendo problema social porque es más que evidente los invaluables beneficios sociales que pueden traer consigo las innovaciones. El asunto se complica porque, una vez que el conocimiento es alcanzado, su distribución es de muy bajo costo. De aquí que, la propiedad intelectual lo que busca es hacer escaso el conocimiento, evitando temporalmente que pueda ser copiado. Se crea un monopolio legal artificial que sirva de incentivo para promover la inversión en innovación. Este monopolio legal, se dice, permite resolver este problema en el que falla la espontaneidad del mercado.</p>
+<p align="JUSTIFY">Pues bien, esta lógica de intervención estatal en la espontaneidad del mercado es ajena al liberalismo. Es cierto que ha sido aplicada dentro del paquete de medidas llamadas “neoliberales” promovidas por el Banco Mundial y el Fondo Monetario Internacional en conjunto con la Organización Mundial del Comercio y la Organización Mundial para la Propiedad Intelectual. Sí, es cierto, sin embargo, la lógica que la sustenta no está consustanciada con los principios de la teoría liberal. Para el liberalismo, si el mercado es libre, no falla. Punto.</p>
+<p align="JUSTIFY">Para teóricos liberales como <a title="Ludwig Von Mises" href="http://es.wikipedia.org/wiki/Von_Mises" target="_blank">Mises</a> o <a title="Friedrich Hayek" href="http://es.wikipedia.org/wiki/Friedrich_Hayek" target="_blank">Hayek</a> el mercado es un orden espontáneo el cual se regula por sí mismo. En el mercado concurren los individuos con sus intereses particulares a intentar obtener el máximo beneficio al mínimo costo. Ello promueve tanto la competencia entre individuos y organizaciones para lograr obtener el máximo beneficio como la co-operación para reducir costos y hacer del mercado un mecanismo viable.</p>
+<p align="JUSTIFY"><a title="Friedrich Hayek" href="http://conocimientolibre.cenditel.gob.ve/files/2013/05/Friedrich_Hayek_portrait.jpg"><img class="alignleft size-full wp-image-56" src="http://conocimientolibre.cenditel.gob.ve/files/2013/05/Friedrich_Hayek_portrait.jpg" alt="Friedrich Hayek" width="168" height="218" /></a>Ahora bien, al confluir en la sociedad multitudes innumerables de individuos con sus visiones particulares del mundo y sus intereses egoístas, se alcanzan niveles de complejidad que imposibilitan poder contar con un conocimiento total de la sociedad. ¿Por qué? Según Friedrich Hayek existen dos tipos de conocimientos: el explícito y el tácito. El conocimiento explícito es el que podemos llevar a palabras e incluso escribir. Éste es el que puede terminar en teorías, procedimientos y libros. Sin embargo, el conocimiento que puede hacerse explícito es sólo una muy pequeña proporción. El conocimiento es en su gran mayoría tácito. Es decir, en su mayoría, el conocimiento no puede ser explicitado. Es a eso lo que hoy día indicamos como “cultura”.</p>
+<p align="JUSTIFY"><a href="http://conocimientolibre.cenditel.gob.ve/files/2013/05/Ludwig_von_Mises.jpg"><img class="alignright size-full wp-image-54" src="http://conocimientolibre.cenditel.gob.ve/files/2013/05/Ludwig_von_Mises.jpg" alt="Ludwig Mises" width="220" height="300" /></a>Desde la teoría liberal de Hayek, el mercado es el orden (“<a title="Catalaxia" href="http://en.wikipedia.org/wiki/Catalaxy" target="_blank">Catalaxia</a>” lo llamaba Mises) que permite por sí mismo lograr el mayor beneficio posible para la mayoría. Según esta teoría, el orden del mercado permite acomodar los intereses a través de la libre escogencia del mercado alcanzándose niveles de equilibrio. De hecho, el mercado es un mecanismo democrático en el que las grandes mayorías van determinando en sus escogencias los mejores bienes y eliminando los peores. No existe un cerebro central que tome las decisiones, el mercado va logrando por sí mismo el mejor equilibrio.</p>
+<p align="JUSTIFY">Como la sociedad es tan compleja y no existe posibilidad de que un individuo u organización de individuos logre hacer explícito todo el conocimiento, es imposible que el orden pueda ser planificado o manipulado. Lo que debe hacerse, según esta teoría, es crear políticas que faciliten que el orden fluya, que la catalaxia se alcance, que el orden tenga lugar y de manera espontánea. Toda intervención que intente alterar el orden espontáneo del mercado lo afecta negativamente.</p>
+<p align="JUSTIFY">Asimismo, es importante también destacar que el mercado promueve por sí mismo no sólo la co-operación y la competencia sino también la innovación. Los individuos y organizaciones intentarán innovar para presentar productos más atractivos que los hagan más competitivos. Por ello, la teoría liberal no podría celebrar el “fallo de mercado” en el que se basa la “propiedad intelectual”. De hecho, Hayek lo refiere explícitamente y dice:</p>
+<blockquote>
+<p align="JUSTIFY">“&#8230;En el caso de esos otros bienes inmateriales, de carácter también limitado, como son las obras literarias o los distintos descubrimientos, incide la circunstancia de que, una vez realizados, pueden ser fácilmente reproducidos de forma ilimitada, por lo que sólo a través de alguna disposición legal —arbitrada quizá con la idea de propiciar la aparición de tales valores inmateriales— pueden convertirse en escasos, incentivándose así su producción. Ahora bien, no es en modo alguno evidente que el fomento de dicha escasez artificial sea la manera más efectiva de estimular el correspondiente proceso creativo. <span style="text-decoration: underline">Personalmente, dudo mucho que, de no haber existido los derechos de autor, hubiera dejado de escribirse ninguna de las grandes obras literarias</span> &#8230;” <em>(énfasis nuestro) <a href="#Hayek">(Hayek, 1999)</a></em></p>
+</blockquote>
+<p align="JUSTIFY">La pregunta se hace aquí nuevamente evidente. ¿Quién ejerce la dictadura del software? ¿Quién ejerce el monopolio? En el caso de los sistemas operativos de escritorio, la corporación Multinacional Microsoft a través de artilugios leguleyos de la llamada propiedad intelectual. El artilugio que utiliza son los llamados “contratos de licencia” que restringen el uso del sistema operativo Windows en sus diversas versiones. En resumen, cuando usted adquiere el software Windows, usted no termina de ser el dueño del producto adquirido. Usted adquiere un derecho de uso. En otras palabras, es como si usted fuese a comprar un vehículo pero termina alquilándolo.</p>
+<p align="JUSTIFY">Pero, claro, alguien podría argumentar que pragmáticamente la “propiedad intelectual” funciona. Sin embargo, Hayek nos dice:</p>
+<blockquote>
+<p align="JUSTIFY">“&#8230;los estudios realizados al efecto no han logrado demostrar que los derechos de patente favorezcan la aparición de nuevos descubrimientos. Implican más bien una antieconómica concentración del esfuerzo investigador en problemas cuya solución es más bien obvia, al tiempo que favorecen el que el primero en resolver los problemas en cuestión, aunque sea por escaso margen, goce durante un largo período de tiempo del monopolio del uso de la correspondiente receta industrial ”  <a href="#Hayek"> (ídem)</a>.</p>
+</blockquote>
+<p align="JUSTIFY">La propiedad intelectual no puede ser celebrada ni siquiera desde la teoría liberal: no promueve la innovación; es una intromisión arrogante en el orden espontáneo del mercado y, afecta la competencia y co-operación libre y propias de la sociedad liberal.</p>
+<p align="JUSTIFY">La propiedad intelectual es anti-liberal.</p>
+<p>&#8212;-</p>
+<p><a name="adscripcion"></a> (1) Investigador del Centro Nacional de Desarrollo e Investigación en Tecnologías Libres (Cenditel): jcontreras@cenditel.gob.ve</p>
+<p><a name="Hayek"></a> (2) Hayek, Friedrich (1999) Los orígenes de la libertad, la propiedad y la justicia. Extracto de La Fatal Arrogancia. Los Errores del Socialismo. Unión Editorial. Madrid-España. Pp. 65-77. Disponible <a title="La Fatal Arrogancia" href="http://www.hacer.org/pdf/arrogancia.pdf" target="_blank">aquí</a>.</p>
+<p>&nbsp;</p>
+			</div><!-- .entry-content -->
+
+	<footer class="entry-meta">
+		This entry was posted in <a href="http://conocimientolibre.cenditel.gob.ve/category/ley-de-infogobierno/" title="Ver todas las entradas publicadas en Ley de Infogobierno" rel="category tag">Ley de Infogobierno</a>, <a href="http://conocimientolibre.cenditel.gob.ve/category/neutralidad-tecnologica/" title="Ver todas las entradas publicadas en Neutralidad Tecnológica" rel="category tag">Neutralidad Tecnológica</a> by <a href="http://conocimientolibre.cenditel.gob.ve/author/jcontreras/">jcontreras</a>. Bookmark the <a href="http://conocimientolibre.cenditel.gob.ve/2013/05/27/la-liberacion-de-la-dictadura-del-software-parte-ii-la-manipulacion-del-mercado-en-la-escasez-artificial-del-conocimiento/" title="Permalink to La liberación de la dictadura del software. Parte II &#8211; La manipulación del mercado en la escasez artificial del conocimiento" rel="bookmark">permalink</a>.		
+			</footer><!-- .entry-meta -->
+</article><!-- #post-46 -->
+
+						<div id="comments">
+	
+	
+			<h2 id="comments-title">
+			One thought on &ldquo;<span>La liberación de la dictadura del software. Parte II &#8211; La manipulación del mercado en la escasez artificial del conocimiento</span>&rdquo;		</h2>
+
+		
+		<ol class="commentlist">
+				<li class="post pingback">
+		<p>Pingback: <a href='http://conocimientolibre.cenditel.gob.ve/2013/06/08/la-liberacion-de-la-dictadura-del-software-parte-iii-colaboracion-y-competencia-liberal/' rel='external nofollow' class='url'>La Liberación de la dictadura del software. Parte III &#8211; Colaboración y competencia liberal. | Conocimiento Libre</a></p>
+	</li><!-- #comment-## -->
+		</ol>
+
+		
+	
+									<div id="respond" class="comment-respond">
+				<h3 id="reply-title" class="comment-reply-title">Agregue un comentario <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2013/05/27/la-liberacion-de-la-dictadura-del-software-parte-ii-la-manipulacion-del-mercado-en-la-escasez-artificial-del-conocimiento/#respond" style="display:none;">Cancelar respuesta</a></small></h3>
+									<form action="http://conocimientolibre.cenditel.gob.ve/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+																			<p class="comment-notes">Su dirección de correo no se hará público. Los campos requeridos están marcados <span class="required">*</span></p>							<p class="comment-form-author"><label for="author">Nombre <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" aria-required='true' /></p>
+<p class="comment-form-email"><label for="email">Correo <span class="required">*</span></label> <input id="email" name="email" type="text" value="" size="30" aria-required='true' /></p>
+<p class="comment-form-url"><label for="url">Sitio web</label> <input id="url" name="url" type="text" value="" size="30" /></p>
+<p class="comment-form-captcha">
+		<label for="captcha"><b>Captcha </b></label>
+		<span class="required">*</span>
+		<div style="clear:both;"></div>
+		<img src="http://conocimientolibre.cenditel.gob.ve/wp-content/plugins/captcha-code-authentication/captcha_code_file.php?rand=1332328734" />
+		<div style="clear:both;"></div>
+		<label for="captcha_code">Type the text displayed above:</label>
+		<input id="captcha_code" name="captcha_code" size="15" type="text" />
+		<div style="clear:both;"></div>
+		</p>												<p class="comment-form-comment"><label for="comment">Comentario</label> <textarea id="comment" name="comment" cols="45" rows="8" aria-required="true"></textarea></p>						<p class="form-allowed-tags">Usted puede utilizar las etiquetas <abbr title="Lenguaje de Marcado de Hipertexto">HTML</abbr> y atributos:  <code>&lt;a href=&quot;&quot; title=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=&quot;&quot;&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=&quot;&quot;&gt; &lt;strike&gt; &lt;strong&gt; </code></p>						<p class="form-submit">
+							<input name="submit" type="submit" id="submit" value="Publicar comentario" />
+							<input type='hidden' name='comment_post_ID' value='46' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+						</p>
+											</form>
+							</div><!-- #respond -->
+						
+</div><!-- #comments -->
+
+				
+			</div><!-- #content -->
+		</div><!-- #primary -->
+
+
+
+	</div><!-- #main -->
+
+	<footer id="colophon" role="contentinfo">
+
+			
+
+
+			<div id="site-generator">
+				<html>
+
+<div id="imagen">
+<img src="/wp-content/themes/Bicentenario/images/logo.png">
+</div>
+
+<TABLE id="tabla">
+<tr>
+<div id="enlaces_titulo"><p>Enlaces de interes</p></div>
+
+</tr>
+
+     <TR>
+
+	
+
+          <TD><ul id="menu1">
+	<li><a href="http://www.mct.gob.ve/" target="_blank" alt="Ministerio del Poder Popular para Ciencia, Tecnología e Industrias Intermedias" title="Ministerio del Poder Popular para Ciencia, Tecnología e Industrias Intermedias">MppCTii</a></li>
+	<li> <a href="http://www.me.gob.ve/" target="_blank" alt="Ministerio del Poder Popular para la Educación" title="Ministerio del Poder Popular para la Educación">MppE</a></li>
+	<li> <a href="http://www.fundacite-merida.gob.ve" target="_blank" alt="Fundacite Mérida" title="Fundacite Mérida">Fundacite</a></li>
+	<li> <a href="http://www.fidetel.gob.ve" target="_blank" alt="Fondo de Investigación y Desarrollo de las Telecomunicaciones" title="Fondo de Investigación y Desarrollo de las Telecomunicaciones">FIDETEL</a> </li>
+</ul> </TD> 
+
+	<TD> <ul id="menu2">
+	<li><a href="http://www.minci.gob.ve" target="_blank" alt="Ministerio del Poder Popular para la Comunicacion e Informacion" title="Ministerio del Poder Popular para la Comunicacion e Informacion">Minci</a></li>
+	<li> <a href="http://www.minamb.gob.ve/" target="_blank" alt="Ministerio del Poder Popular para el Ambiente" title="Ministerio del Poder Popular para el Ambiente">MppA</a></li>
+	<li> <a href="http://www.cnti.gob.ve" target="_blank" alt="Centro Nacional de Tecnologías de Información" title="Centro Nacional de Tecnologías de Información">Cnti</a></li>
+	<li> <a href="http://www.mpcomunas.gob.ve" target="_blank" alt="Ministerio del Poder Popular para las Comunas y Protección Social" title="Ministerio del Poder Popular para las Comunas y Protección Social">MppCPS</a> </li>
+</ul></TD>
+     
+	<TD><ul id="menu3">
+	<li><a href="http://www.ministeriodelacultura.gob.ve" target="_blank" alt="Ministerio del Poder Popular para la Cultura" title="Ministerio del Poder Popular para la Cultura">MppC</a></li>
+	<li> <a href="http://www.mppeu.gob.ve/" target="_blank" alt="Ministerio del Poder Popular para la Educación Universitaria" title="Ministerio del Poder Popular para la Educación Universitaria">MppEU</a></li>
+	<li> <a href="http://www.suscerte.gob.ve" target="_blank" alt="Superintendencia de Servicios de Certificación Electrónica" title="Superintendencia de Servicios de Certificación Electrónica">SUSCERTE</a> </li>
+	<li> <a href="http://www.cantv.net/" target="_blank" alt="CANTV" title="CANTV"> CANTV</a></li>
+	</ul> </TD> 
+
+      </TR> 
+</TABLE>
+<div id="pie">
+<p>
+FUNDACIÓN CENTRO NACIONAL DE DESARROLLO E INVESTIGACIÓN EN TECNOLOGÍAS LIBRES (CENDITEL) Avenida Alberto Carnevali, vía La Hechicera, Edificio CENDITEL. Teléfono: (0274)6574336 - 6574958. Apartado Postal: 078. Código Postal: 5101A. RIF: G-20007349-7. Mérida-Venezuela</p>
+</div>
+
+</html>
+
+
+		
+			
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+</body>
+</html>

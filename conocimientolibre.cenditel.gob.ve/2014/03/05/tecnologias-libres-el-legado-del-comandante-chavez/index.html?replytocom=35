@@ -1,0 +1,427 @@
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="es-PE">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="es-PE">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="es-PE">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="es-PE">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>Tecnologías libres: el legado del Comandante Chávez | Conocimiento Libre</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="stylesheet" type="text/css" media="all" href="http://conocimientolibre.cenditel.gob.ve/wp-content/themes/proyecto_communita/style.css" />
+<link rel="pingback" href="http://conocimientolibre.cenditel.gob.ve/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="http://conocimientolibre.cenditel.gob.ve/wp-content/themes/proyecto_communita/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+<link rel="alternate" type="application/rss+xml" title="Conocimiento Libre &raquo; Feed" href="http://conocimientolibre.cenditel.gob.ve/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Conocimiento Libre &raquo; Feed de comentarios" href="http://conocimientolibre.cenditel.gob.ve/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Conocimiento Libre &raquo; Tecnologías libres: el legado del Comandante Chávez Feed de comentarios" href="http://conocimientolibre.cenditel.gob.ve/2014/03/05/tecnologias-libres-el-legado-del-comandante-chavez/feed/" />
+<link rel='stylesheet' id='rbanner-css-css'  href='http://conocimientolibre.cenditel.gob.ve/wp-content/plugins/random-banner//css/rbanner.css?ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='videojs-plugin-css'  href='http://conocimientolibre.cenditel.gob.ve/wp-content/plugins/videojs-html5-video-player-for-wordpress/plugin-styles.css?ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='videojs-css'  href='http://conocimientolibre.cenditel.gob.ve/wp-content/plugins/videojs-html5-video-player-for-wordpress/videojs/video-js.css?ver=3.6.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://conocimientolibre.cenditel.gob.ve/wp-includes/js/comment-reply.min.js?ver=3.6.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://conocimientolibre.cenditel.gob.ve/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://conocimientolibre.cenditel.gob.ve/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='¿Por qué el Proyecto Canaima Bicentenario?' href='http://conocimientolibre.cenditel.gob.ve/2014/02/13/por-que-el-proyecto-bicentenario/' />
+<link rel='next' title='Tras el velo de la “Neutralidad”: De la Libertad como empresa económica a la Libertad como bien público' href='http://conocimientolibre.cenditel.gob.ve/2014/04/04/tras-el-velo-de-la-neutralidad-de-la-libertad-como-empresa-economica-a-la-libertad-como-bien-publico/' />
+<meta name="generator" content="WordPress 3.6.1" />
+<link rel='canonical' href='http://conocimientolibre.cenditel.gob.ve/2014/03/05/tecnologias-libres-el-legado-del-comandante-chavez/' />
+<link rel='shortlink' href='http://conocimientolibre.cenditel.gob.ve/?p=303' />
+<meta name='robots' content='noindex,nofollow' />
+
+		<script type="text/javascript">
+			if(typeof videojs != "undefined") {
+				videojs.options.flash.swf = "http://conocimientolibre.cenditel.gob.ve/wp-content/plugins/videojs-html5-video-player-for-wordpress/videojs/video-js.swf";
+			}
+			document.createElement("video");document.createElement("audio");document.createElement("track");
+		</script>
+			<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+</head>
+
+<body class="single single-post postid-303 single-format-standard singular two-column right-sidebar">
+<div id="page" class="hfeed">
+	<header id="branding" role="banner">
+			<hgroup>
+				<h1 id="site-title"><span><a href="http://conocimientolibre.cenditel.gob.ve/" title="Conocimiento Libre" rel="home">Conocimiento Libre</a></span></h1>
+				<h2 id="site-description">Reflexiones críticas para la apropiación del Conocimiento Libre en Venezuela</h2>
+			</hgroup>
+
+						<a href="http://conocimientolibre.cenditel.gob.ve/">
+									<img src="http://conocimientolibre.cenditel.gob.ve/files/2013/05/cropped-Obra-Mural-CENDITEL-web.jpg" width="1000" height="288" alt="" />
+							</a>
+			
+								<form method="get" id="searchform" action="http://conocimientolibre.cenditel.gob.ve/">
+		<label for="s" class="assistive-text">Search</label>
+		<input type="text" class="field" name="s" id="s" placeholder="Search" />
+		<input type="submit" class="submit" name="submit" id="searchsubmit" value="Search" />
+	</form>
+			
+			<nav id="access" role="navigation">
+				<h3 class="assistive-text">Main menu</h3>
+								<div class="skip-link"><a class="assistive-text" href="#content" title="Skip to primary content">Skip to primary content</a></div>
+				<div class="skip-link"><a class="assistive-text" href="#secondary" title="Skip to secondary content">Skip to secondary content</a></div>
+								<div class="menu"><ul><li ><a href="http://conocimientolibre.cenditel.gob.ve/" title="Inicio">Inicio</a></li><li class="page_item page-item-2"><a href="http://conocimientolibre.cenditel.gob.ve/elblog/">Sobre el Blog</a></li></ul></div>
+			</nav><!-- #access -->
+	</header><!-- #branding -->
+
+
+	<div id="main">
+		<div id="primary">
+			<div id="content" role="main">
+
+				
+					<nav id="nav-single">
+						<h3 class="assistive-text">Post navigation</h3>
+						<span class="nav-previous"><a href="http://conocimientolibre.cenditel.gob.ve/2014/02/13/por-que-el-proyecto-bicentenario/" rel="prev"><span class="meta-nav">&larr;</span> Previous</a></span>
+						<span class="nav-next"><a href="http://conocimientolibre.cenditel.gob.ve/2014/04/04/tras-el-velo-de-la-neutralidad-de-la-libertad-como-empresa-economica-a-la-libertad-como-bien-publico/" rel="next">Next <span class="meta-nav">&rarr;</span></a></span>
+					</nav><!-- #nav-single -->
+
+					
+<article id="post-303" class="post-303 post type-post status-publish format-standard hentry category-neutralidad-tecnologica">
+	<header class="entry-header">
+		<h1 class="entry-title">Tecnologías libres: el legado del Comandante Chávez</h1>
+
+				<div class="entry-meta">
+			<span class="sep">Posted on </span><a href="http://conocimientolibre.cenditel.gob.ve/2014/03/05/tecnologias-libres-el-legado-del-comandante-chavez/" title="10:58 pm" rel="bookmark"><time class="entry-date" datetime="2014-03-05T22:58:26+00:00" pubdate>Marzo 5, 2014</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="http://conocimientolibre.cenditel.gob.ve/author/jcontreras/" title="View all posts by jcontreras" rel="author">jcontreras</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p>5 de marzo de 2014</p>
+<p><iframe width="584" height="438" src="http://www.youtube.com/embed/YYRJuz1QTQQ?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<p>Hace algunos días algunos miembros de la así llamada “comunidad de software libre” en Venezuela publicaron, en inglés y español, un manifiesto intitulado “<a title="comunicado a favor de la neutralidad de la red" href="https://www.change.org/es/peticiones/p%C3%BAblico-en-general-comunicado-a-favor-de-la-libertad-y-neutralidad-de-la-red" target="_blank">Comunicado a favor de la libertad y neutralidad de la red</a>”. No voy a entrar en el detalle de la argumentación que es bastante pobre. Lo que me llama la atención es que en Venezuela, en 2014, gente de la así llamada “comunidad de software libre” hablen sin vergüenza de la “neutralidad” de la red. Tema que fue en varias oportunidades tópico de reflexión para nuestro Comandante Supremo Hugo Chávez.</p>
+<p>La Revolución Bolivariana creó un centro de investigación y desarrollo en Tecnologías Libres (<a title="Enlace a Cenditel" href="http://www.cenditel.gob.ve/" target="_blank">Cenditel</a>) en 2006 basado en la premisa de que “<a title="Reflexiones desde Cenditel Vol 1" href="http://www.cenditel.gob.ve/carpetas/archivos/fuente/288" target="_blank">la tecnología no es neutra</a>”. Dado que “la red” -la internet-, es una tecnología, debemos concluir necesariamente que si la tecnología no es neutra “la red” no puede ser neutra. Y no es que “la internet debería ser neutra” -como dirían incluso algunos cenditelitas actuales- “lo que pasa es que en la vida real no lo es”. No, no, “lo que pasa” es que la tecnología no es neutra y punto.</p>
+<p>¿Qué significa que una tecnología sea “neutra”?</p>
+<p>Cuando decimos que una “tecnología es neutra” lo que queremos decir es que ella no está cargada por sí misma de “valores”. Se supone que una tecnología es “neutra” porque ella, en sí misma, es un “objeto”. Todo objeto tecnológico simplemente está allí “listo para ser usado”. El objeto tecnológico neutro, llamémoslo “dispositivo”, no debe ser “contaminado” con intereses y valores personales porque al ser así pierde “objetividad”. Desde esta perspectiva una “tecnología” es libre si es “neutra”. Es a partir de aquí que ciertos movimientos de activistas del software libre propugnan por la “neutralidad” de la red.</p>
+<p>¿En qué se basa esta posibilidad? Me refiero a la posibilidad de que las cosas sean “objetos”, es decir entes en sí mismos libres de cualquier valoración.</p>
+<p>Esta posibilidad se basa en un dualismo aparecido desde los principios de Occidente pero que toma fuerza y predominio en la época moderna. Me refiero al dualismo “sujeto-objeto”. Cuando creemos que un “objeto” es una cosa en sí despojada de toda valoración, es porque creemos que eso que hoy día llamamos “valores” son “subjetividades” propias del observador, también conocido como “sujeto”. Para que una propuesta sea verdadera, esta debe ser “objetiva” y esto significa que ella debe hablar del objeto en sí, despojado de las subjetividades del observador. La época moderna se monta de esta manera sobre la base de un discurso soportado en la búsqueda por dar cuenta de un mundo en el que los seres son “objetos neutrales” y los sujetos deben dar cuenta de ese mundo sin contaminarlo con sus valoraciones particulares. Es por eso que la matemática cobra un papel fundamental. Una ciencia seria debe ser tan rigurosa como la matemática. Es a eso lo que todavía hoy día algunos se atreven a llamar “ciencia pura”, una ciencia despojada de toda valoración subjetiva.</p>
+<p>Pues hagámonos la pregunta trivial ¿Tiene asidero eso de la ciencia “objetiva”?, o preguntado de otro modo, ¿tiene asidero eso de la “ciencia neutra”?</p>
+<p>Hace ya casi noventa años que el físico <a title="Werner Heisenberg" href="http://es.wikipedia.org/wiki/Werner_Heisenberg" target="_blank">Werner Heisenberg</a> publicaba su famoso “<a title="Principio de Incertidumbre de Heisenberg" href="http://es.wikipedia.org/wiki/Principio_de_incertidumbre" target="_blank">Principio de Incertidumbre</a>”. Allí, el famoso científico se percataba de un asunto deslumbrante y era que cualquier medición que se hiciera, ésta siempre estaría perturbada por el “sistema de medición”. El “observador” modifica los datos en cierta manera, o mejor dicho, toda “medición” está mediada por el observador.</p>
+<p>El “Principio de Incertidumbre de Heisenberg” dio al traste con la supuesta objetividad de la ciencia hace ya ochenta y nueve años y esto ocurrió desde la ciencia misma.</p>
+<p>Si la tecnología se entiende como la aplicación de los principios científicos y la ciencia no puede ser neutra, entonces a la tecnología tampoco puede ser “neutra”. Por eso era que <a title="Andrew Feenberg" href="http://en.wikipedia.org/wiki/Andrew_Feenberg" target="_blank">Feenberg</a> nos hablaba de la “<a title="La razón impura" href="http://wiki.cenditel.gob.ve/wiki/Feenberg-Raz%C3%B3n_Impura" target="_blank">razón impura</a>&#8220;. Se esperaba contar con una &#8220;razón pura&#8221; que diese sentido a una &#8220;ciencia pura&#8221;. Al ser la razón y la ciencia, en principio, impuras, la red y la tecnología son -por añadidura- también impuras.</p>
+<p>Nuestra posición se afianzaría aún más si viésemos que todo el edificio conceptual de la fulana “objetividad” de la ciencia está basado en el “Principio de No Contradicción” enarbolado por Parménides al inicio de Occidente y que este principio tiene una serie de contradicciones intrínsecas y reveladas desde los tiempos de Heráclito&#8230; Pero creo que no nos hace falta ir tan allá. Nos es suficiente con Heisenberg y quizá con Nietzsche:</p>
+<blockquote><p>“En algún apartado rincón del universo vertido centelleantemente en innumerables sistemas solares, hubo una vez una estrella en la que unos animales inteligentes descubrieron el conocimiento. Fue el minuto más arrogante y más falaz de la &#8216;historia universal&#8217; 1: de todos modos sólo fue un minuto.”</p></blockquote>
+<p style="text-align: right">1873, “<a title="sobre verdad y mentira en sentido extramoral" href="http://es.wikipedia.org/wiki/Sobre_verdad_y_mentira_en_sentido_extramoral" target="_blank">Sobre verdad y mentira en sentido extramoral</a>”</p>
+<p>Para usar un término macinteryano, la creencia en una tecnología “neutra” se basa en una de esas tantas “profecías” modernas. “Profecías” que prometían que algún día se lograría la famosa neutralidad, pero el asunto es que eso nunca se pudo lograr porque no se puede, así como nunca se logró tampoco fundamentar racionalmente la moral que es lo que intenta mostrar <a title="Alasdair MacIntyre" href="http://es.wikipedia.org/wiki/Alasdair_MacIntyre" target="_blank">MacIntyre</a> por su parte. Sin embargo, nuestra civilización se montó sobre la base de esta creencia. Montamos todo nuestro edificio tecnológico sobre la creencia de que ella, la tecnología, era neutra.</p>
+<p>Hace ya bastante tiempo que el imperio se percató de este asunto. <a title="Edgardo Lander" href="http://es.wikipedia.org/wiki/Edgardo_Lander" target="_blank">Lander</a> (2005) muestra en un excelente y bien documentado artículo intitulado “<a title="la ciencia neoliberal" href="http://www.scielo.org.ve/scielo.php?pid=S1315-64112005000200003&amp;script=sci_arttext" target="_blank">La Ciencia Neoliberal</a>” cómo a partir de la década de los ochenta se empiezan a dar una cantidad de movimientos en países como Estados Unidos y Canadá que tenían por objetivo mercantilizar la ciencia. Se cambió completamente la legislación de propiedad intelectual borrando distinciones claves como “descubrimiento” e “invención” lo cual llevó a la posibilidad incluso de patentar formas de vida&#8230; La universidad deja de ser el espacio para la investigación “pura” que busca el crecimiento del conocimiento como un fín en sí mismo. Se potencia así el capitalismo académico y las universidades se convierten en centros de I+D arrendados por las corporaciones multinacionales. La regulación finalmente termina permitiendo que la investigación subsidiada por los impuestos públicos pueda ser apropiada por intereses privados. En fin, el imperio hace ya más de tres décadas se percató de que la ciencia y la tecnología no son neutras y que sí son medios sin igual para la dominación y la explotación capitalista.</p>
+<p>El adjetivo de “libres” que califica al sustantivo “tecnologías” en el nombre de Cenditel no refiere a la libertad de ser “neutrales”. Refiere más bien a la libertad de una ciencia y una tecnología para el bien común y no para el beneficio de unos pocos en desmedro de las mayorías.</p>
+<p>Aunque a veces pareciese haber cierta comunidad de intereses entre nuestra actitud cenditelita y el quehacer de los grupos activistas europeos que propugnan por la “neutralidad” de la red, esta común-unidad no va mucho más allá de compartir un enemigo común. Aunque ya esto es bastante.</p>
+<p>Los compatriotas que están ahora propugnando por la “neutralidad” de la red, no están haciendo más que “seguir” a los activistas europeos. No hace falta explicar en detalle que tras este “seguidismo” hay una relación de dependencia neocolonial que nos profundiza en nuestra definición histórica y esencial de “colonia”. Es contra esto, en la intención de redefinirnos para cambiar las relaciones de dependencia que aparece éste nuestro centro.</p>
+<p>Cenditel nace en el contexto de la revolución bolivariana y por eso decía Chávez:</p>
+<blockquote><p>“&#8230;Así como Bolívar tenía cañones y caballos, hombres y mujeres armados para derrotar al imperio español, ahí están nuestros cañones y nuestros hombres y mujeres armados con las armas de la inteligencia y el saber para lograr la independencia científico-tecnológica ”</p></blockquote>
+<p>Esto lo decía, justo después de exclamar:</p>
+<blockquote><p>“¡Es la independencia lo que estamos buscando!”</p></blockquote>
+<p style="text-align: right">2006, “<a title="La Sociedad del Talento" href="http://wiki.cenditel.gob.ve/wiki/La-Sociedad-del-Talento" target="_blank">La Sociedad del Talento</a>”.</p>
+<p>Para Chávez, la tecnología no era “neutra”, ella era una herramienta para cuidar, fortalecer y cultivar el bien más preciado: la independencia. Pero ¿independencia para qué? Simón Rodríguez nos lo decía claramente en una cita muy famosa:</p>
+<blockquote><p>“Los hombres de estos últimos tiempos&#8230; quieren vivir</p>
+<p>&nbsp;</p>
+<p style="text-align: center">SIN REYES Y SIN CONGRESOS,<br />
+no quieren tener<br />
+AMOS ni TURORES<br />
+quieren ser dueños<br />
+de sus personas, de sus bienes y de su voluntad;<br />
+sin que por eso entiendan<br />
+vivir como ANIMALES FEROCES,<br />
+(que es lo que suponen los defensores del absolutismo manifiesto o paliado)<br />
+Quieren gobernarse por la RAZON<br />
+que es la autoridad de la naturaleza.</p>
+<p>RAZON es figura abstracta de la FACULTAD DE PENSAR”</p></blockquote>
+<p style="text-align: right">1828, “<a title="Sociedades Americanas" href="http://www.bibliotecayacucho.gob.ve/fba/index.php?id=97&amp;backPID=103&amp;begin_at=104&amp;tt_products=152" target="_blank">Sociedades Americanas</a>”</p>
+<p>Pero, ¡caramba!, todo este edificio moderno de la razón como fundamento procura precisamente la “objetividad”. Es decir, la búsqueda ilustrada, la búsqueda de la independencia por la que luchaba Bolívar, precisamente lo que tenía por objetivo era la libertad de actuar de manera racional, de manera objetiva&#8230; Eso que nosotros hemos dicho acá que -ya hace algún tiempo- se viene mostrando como una profecía sin posibilidad de ser cumplida.</p>
+<p>¿Entonces qué? ¿Es toda esta “revolución” una expresión más de la arrogancia y la falacia de la “historia universal” de la que nos hablaba Nietzsche? ¿Es Cenditel un sin sentido, un estertor de una época feneciente?</p>
+<p>Seguramente sí&#8230; seguramente seremos una especie de Quijotes intentando vivir según la cosmovisión de un mundo ya inexistente. Sí, posiblemente&#8230;</p>
+<p>Sin embargo, es también posible que Bolívar, Rodríguez y demás pensadores ilustrados aunque veían con claridad muchas cosas no les era dado ver otras en su momento. Algo interesante que nos fue ocurriendo, desde la ciencia misma por cierto, fue que pudimos caer en cuenta que la razón no era única, ni universal. Pudimos percatarnos que las culturas contaban con racionalidades distintas y hasta inconmensurables. Pudimos percatarnos que a la unidad la subyace la diversidad.</p>
+<p>Hace algunas semanas cuando celebrábamos aquí el bicentenario de la “Batalla de La <a href="http://conocimientolibre.cenditel.gob.ve/files/2014/03/Simon_Bolivar_Charles_Gill.jpg"><img class="alignright size-medium wp-image-308" alt="Simon_Bolivar_Charles_Gill" src="http://conocimientolibre.cenditel.gob.ve/files/2014/03/Simon_Bolivar_Charles_Gill-223x300.jpg" width="223" height="300" /></a>Victoria” <a title="por qué el proyecto bicentenario" href="http://conocimientolibre.cenditel.gob.ve/2014/02/13/por-que-el-proyecto-bicentenario/" target="_blank">recordábamos</a> aquel famoso libro intitulado “<a title="Declaración de los Derechos del Hombre y el Ciudadano" href="http://es.wikisource.org/wiki/Declaraci%C3%B3n_de_los_Derechos_del_Hombre_y_del_Ciudadano" target="_blank">Declaración de los derechos del hombre y del ciudadano</a>” y veíamos que todos, todos, los derechos derivaban de la posibilidad de tener patria. Pues bien, cuando en 1810 Bolívar hace aquel famoso viaje diplomático a Londres acompañado por Andrés Bello y Luis López Méndez, y en el que conoce a Francisco de Miranda, se hizo un retrato poco conocido pintado por Charles Gill. En este retrato, al joven Bolívar puede vérsele una medalla prendada del tricolor mirandino. En la medalla, una inscripción que decía “Sin Libertad no hay Patria”.</p>
+<p>La patria es posible sobre la base de la <em>libertad para razonar.</em> Pero la razón no es única, ella es unidad de la diversidad, es una uni-diversidad. La patria se soporta en la libertad para el despliegue de nuestra racionalidad desde su uni-diversidad desde la cual hemos sido, somos y seremos.</p>
+<p>La técnica juega aquí un papel fundamental como el modo de producción de nuestra racionalidad uni-diversa. Una tecnología libre, una tecnología verdaderamente libre, es una que busca aportar allí en el cuidado, despliegue y cultivo de esa racionalidad a partir de la cual somos una patria. Por ello, una tecnología libre es la que abona al bien común, puesto que la patria (el pueblo desde el que somos) es el bien que nos es más común.</p>
+<p style="text-align: right">¿Neutro esto?&#8230;<br />
+¿Toche?</p>
+<p>Decía Chávez:</p>
+<blockquote><p>“Vamos a inventar nuestro propio modelo, no se trata de copiar ninguno, de ninguna parte, de ninguna época, por eso les digo y les insisto trabajando y avanzando en todo el frente en lo social, en lo político, en lo económico, en lo científico y tecnológico .”</p></blockquote>
+<p>por eso decía más adelante:</p>
+<blockquote><p>“Yo pido colaboración a todos, todas las empresas del estado, es muy importante esto, la creación del software, nuestro software, Software Libre .”</p></blockquote>
+<p style="text-align: right">2006, “<a title="La Sociedad del Talento" href="http://wiki.cenditel.gob.ve/wiki/La-Sociedad-del-Talento" target="_blank">La Sociedad del Talento</a>”</p>
+<p>El software libre en nuestro contexto es aquel que aporta en el cultivo de nuestra venezolanidad, de nuestro ser suramericano y, desde allí, a nuestra universalidad. Ese es, desde mi humilde perspectiva, el legado de Chávez en torno a la tecnología. La tecnología bolivariana, la tecnología chavista, es una tecnología libre y fundamentadora.</p>
+<p>Al inicio de este post hay un vídeo con un corto discurso del Comandante Chávez&#8230; Si no lo ha visto aún, véalo, allí está mucho mejor explicado que en este espacio.</p>
+<p style="text-align: right"><em>José Joaquín Contreras</em></p>
+<p>P.D. Un detalle curioso, el retrato de Simón Bolívar de Charles Gill se quemó en un incendio ocurrido el 9 de abril de 1948 en la Biblioteca Nacional de Colombia, Bogotá. Ocurría en ese momento el “bogotazo” que daría pie -hace más de sesenta años- a esa guerra civil colombiana que aún no ha terminado&#8230;</p>
+			</div><!-- .entry-content -->
+
+	<footer class="entry-meta">
+		This entry was posted in <a href="http://conocimientolibre.cenditel.gob.ve/category/neutralidad-tecnologica/" title="Ver todas las entradas publicadas en Neutralidad Tecnológica" rel="category tag">Neutralidad Tecnológica</a> by <a href="http://conocimientolibre.cenditel.gob.ve/author/jcontreras/">jcontreras</a>. Bookmark the <a href="http://conocimientolibre.cenditel.gob.ve/2014/03/05/tecnologias-libres-el-legado-del-comandante-chavez/" title="Permalink to Tecnologías libres: el legado del Comandante Chávez" rel="bookmark">permalink</a>.		
+			</footer><!-- .entry-meta -->
+</article><!-- #post-303 -->
+
+						<div id="comments">
+	
+	
+			<h2 id="comments-title">
+			8 thoughts on &ldquo;<span>Tecnologías libres: el legado del Comandante Chávez</span>&rdquo;		</h2>
+
+		
+		<ol class="commentlist">
+				<li class="comment even thread-even depth-1" id="li-comment-31">
+		<article id="comment-31" class="comment">
+			<footer class="comment-meta">
+				<div class="comment-author vcard">
+					<img alt='' src='http://0.gravatar.com/avatar/ce51638d5d5bd8f84a0ca18e7d245117?s=68&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D68&amp;r=G' class='avatar avatar-68 photo' height='68' width='68' /><span class="fn"><a href='http://www.richzendy.org' rel='external nofollow' class='url'>Richzendy</a></span> on <a href="http://conocimientolibre.cenditel.gob.ve/2014/03/05/tecnologias-libres-el-legado-del-comandante-chavez/#comment-31"><time pubdate datetime="2014-03-06T15:54:18+00:00">Marzo 6, 2014 at 3:54 pm</time></a> <span class="says">said:</span>
+									</div><!-- .comment-author .vcard -->
+
+				
+			</footer>
+
+			<div class="comment-content"><p>Cuando se habla de neutralidad de la red, se habla de derechos consagrados en la carta magna y en la declaración universal de los derechos humanos, al derecho a la privacidad de los datos y al derecho que tiene cada persona a la libre información de la red, sin que esto signifique el libertinaje o que las personas tengan carta abierta a cometer delitos, puesto que si cometes un delito en Internet hay los mecanismos y leyes para poder tomar cartas en el asunto, ya que la red es un medio, no es un fin.</p>
+<p>Yo creo que no pensarías igual, si el día de mañana tuvieras  un gobierno de derecha (si, ya se el cuento de no volveran y bla, bla, bla.) y tus derechos a un acceso libre a la información y a la privacidad sean vulnerados, usando las mismas leyes y organismos que actualmente promueve el gobierno.</p>
+<p>Nadie dice que una persona que este cometiendo un delito no puede ser espiada en sus comunicaciones, o que  un sitio web pueda ser bloqueado por que está haciendo apología del delito o cometiendo uno, al contrario, esas personas deben ser investigadas y encarceladas y sus sitios web echados abajo, pero hacerlo sin una orden judicial de por medio, vulnera los derechos de todos, por que si al caso vamos, tumbamos facebook y twitter por que los escuálidos se comunican por allí y colocan fotos? tumbamos youtube por que colocan videos de GNB atacando gente? yo pienso que no, esos websites son medios y un tribunal está en su deber y derecho de pedir los datos de los usuarios que pueden haber o no cometido un delito publicando información indebida en esos sitios y enjuiciarlos.</p>
+<p> Al no apoyar la neutralidad de la RED, estás apoyando al gobierno de los Estados Unidos en su práctica de intervenir, almacenar y monitorizar todas nuestras comunicaciones sin orden previa.</p>
+</div>
+
+			<div class="reply">
+				<a class='comment-reply-link' href='/2014/03/05/tecnologias-libres-el-legado-del-comandante-chavez/?replytocom=31#respond' onclick='return addComment.moveForm("comment-31", "31", "respond", "303")'>Reply <span>&darr;</span></a>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-32">
+		<article id="comment-32" class="comment">
+			<footer class="comment-meta">
+				<div class="comment-author vcard">
+					<img alt='' src='http://1.gravatar.com/avatar/5f11bef84975458e4b40dd3892bd8f5d?s=68&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D68&amp;r=G' class='avatar avatar-68 photo' height='68' width='68' /><span class="fn"><a href='http://sysadmin.lgs.com.ve' rel='external nofollow' class='url'>Loris Santamaria</a></span> on <a href="http://conocimientolibre.cenditel.gob.ve/2014/03/05/tecnologias-libres-el-legado-del-comandante-chavez/#comment-32"><time pubdate datetime="2014-03-07T20:36:07+00:00">Marzo 7, 2014 at 8:36 pm</time></a> <span class="says">said:</span>
+									</div><!-- .comment-author .vcard -->
+
+				
+			</footer>
+
+			<div class="comment-content"><p>Entiendo que nos indicas a los «miembros de la así llamada “comunidad de software libre”» que la tecnología no es neutra ya que ella es expresión de la clase dominante y en este caso hablamos de una «tecnología bolivariana, una tecnología chavista, es una tecnología libre y fundamentadora».</p>
+<p>En efecto hay que darte la razón, la tecnología como tal es siempre expresión de la clase dominante que en este caso estaría representada por el Gobierno Bolivariano y su proyecto social, sin embargo existe al menos un motivo por el cual el Gobierno Bolivariano debe mantenerse neutral (o al menos intentar mantenerse neutral) en lo que respecta a la red (Internet).</p>
+<p>Este motivo son los derechos humanos, entre los cuales encontramos el derecho a la libertad de expresión y el derecho a la información: En reafirmar el uso de la tecnología (en este caso Internet) como instrumento de un proyecto político y social, al mismo tiempo estás justificando su (ab)uso en contra de ideas no afines a dicho proyecto, cosa que cercenará los derechos humanos (consagrados en la constitución) de algunos ciudadanos.</p>
+<p>Nuestros derechos no son negociables y es nuestro deber defenderlos de los abusos de la clase dominante, por bonito que sean sus mensajes o sus intenciones.</p>
+</div>
+
+			<div class="reply">
+				<a class='comment-reply-link' href='/2014/03/05/tecnologias-libres-el-legado-del-comandante-chavez/?replytocom=32#respond' onclick='return addComment.moveForm("comment-32", "32", "respond", "303")'>Reply <span>&darr;</span></a>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+	<li class="comment byuser comment-author-jcontreras bypostauthor even thread-even depth-1" id="li-comment-33">
+		<article id="comment-33" class="comment">
+			<footer class="comment-meta">
+				<div class="comment-author vcard">
+					<img alt='' src='http://1.gravatar.com/avatar/97467bfbbe91d89ee1dab227f6537feb?s=68&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D68&amp;r=G' class='avatar avatar-68 photo' height='68' width='68' /><span class="fn"><a href='http://josejcontreras.wordpress.com' rel='external nofollow' class='url'>jcontreras</a></span> on <a href="http://conocimientolibre.cenditel.gob.ve/2014/03/05/tecnologias-libres-el-legado-del-comandante-chavez/#comment-33"><time pubdate datetime="2014-03-08T03:04:08+00:00">Marzo 8, 2014 at 3:04 am</time></a> <span class="says">said:</span>
+									</div><!-- .comment-author .vcard -->
+
+				
+			</footer>
+
+			<div class="comment-content"><p>Creo que no han entendido&#8230; Si les parece lean este artículo -&gt; <a href="http://tinyurl.com/nldmsxh" rel="nofollow">http://tinyurl.com/nldmsxh</a> pero léanlo de verdad porque si no no se puede conversar.</p>
+</div>
+
+			<div class="reply">
+				<a class='comment-reply-link' href='/2014/03/05/tecnologias-libres-el-legado-del-comandante-chavez/?replytocom=33#respond' onclick='return addComment.moveForm("comment-33", "33", "respond", "303")'>Reply <span>&darr;</span></a>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+	<li class="comment byuser comment-author-jcontreras bypostauthor odd alt thread-odd thread-alt depth-1" id="li-comment-34">
+		<article id="comment-34" class="comment">
+			<footer class="comment-meta">
+				<div class="comment-author vcard">
+					<img alt='' src='http://1.gravatar.com/avatar/97467bfbbe91d89ee1dab227f6537feb?s=68&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D68&amp;r=G' class='avatar avatar-68 photo' height='68' width='68' /><span class="fn"><a href='http://josejcontreras.wordpress.com' rel='external nofollow' class='url'>jcontreras</a></span> on <a href="http://conocimientolibre.cenditel.gob.ve/2014/03/05/tecnologias-libres-el-legado-del-comandante-chavez/#comment-34"><time pubdate datetime="2014-03-08T03:09:23+00:00">Marzo 8, 2014 at 3:09 am</time></a> <span class="says">said:</span>
+									</div><!-- .comment-author .vcard -->
+
+				
+			</footer>
+
+			<div class="comment-content"><p>Este escrito también puede servir para la discusión: <a href="http://tinyurl.com/q854c6v" rel="nofollow">http://tinyurl.com/q854c6v</a></p>
+</div>
+
+			<div class="reply">
+				<a class='comment-reply-link' href='/2014/03/05/tecnologias-libres-el-legado-del-comandante-chavez/?replytocom=34#respond' onclick='return addComment.moveForm("comment-34", "34", "respond", "303")'>Reply <span>&darr;</span></a>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+	<li class="comment even thread-even depth-1" id="li-comment-35">
+		<article id="comment-35" class="comment">
+			<footer class="comment-meta">
+				<div class="comment-author vcard">
+					<img alt='' src='http://1.gravatar.com/avatar/5f11bef84975458e4b40dd3892bd8f5d?s=68&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D68&amp;r=G' class='avatar avatar-68 photo' height='68' width='68' /><span class="fn"><a href='http://sysadmin.lgs.com.ve' rel='external nofollow' class='url'>Loris Santamaria</a></span> on <a href="http://conocimientolibre.cenditel.gob.ve/2014/03/05/tecnologias-libres-el-legado-del-comandante-chavez/#comment-35"><time pubdate datetime="2014-03-09T01:30:30+00:00">Marzo 9, 2014 at 1:30 am</time></a> <span class="says">said:</span>
+									</div><!-- .comment-author .vcard -->
+
+				
+			</footer>
+
+			<div class="comment-content"><p>Muchas gracias por indicar esos dos documentos en particular el segundo me pareció muy interesante.</p>
+<p>Aún no estoy seguro si capto bien la relación entre estos documentos y nuestra (¿ingenua?) solicitud de que el estado no se meta con el tráfico de internet así que sería bueno tener una aclaratoria de tu parte.</p>
+<p>Sin embargo quiero aprovechar para comentar acerca de una pregunta que deja en el aire el segundo documento y es esta:</p>
+<p>«los MSL se muestran lógicas de producción que trascienden la simplicidad de la dicotomía “bienes privados (mercado) &#8211; bienes públicos (finanzas públicas)” con la que cuentan las teorías económicas actuales. En otras palabras, el mecanismo de co-operación y competencia en el intercambio entre los participantes de los MSL no puede reducirse al mecanismo de mercado de la ScL. De aquí que, o bien nos encontramos ante un modo de intercambio distinto en un nuevo modo de<br />
+evolución económica de la ScL, o bien nos encontramos ante un tipo de relación social que puede ser heraldo de otro modo social al que aún no alcanzamos a explicar suficientemente»</p>
+<p>En efecto algo que no se ha estudiado a fondo es que la combinación Software Libre/Internet constituye un modo de producción completamente nuevo, un modo de producción en el cual la reproducción tiene costo cero y al tener costo cero se crea una situación de oferta infinita. En esa situación particular, muy similar a lo que en física se llamaría una &#8220;singularidad&#8221;, la total libertad de mercado propugnada por Mises y Hayek coincide con la riqueza universal auspiciada por Marx, sin la necesidad de recurrir al autoritarismo de los socialismos de estampo soviético.</p>
+<p>En fin en la combinación Software Libre/Internet se hace realidad por primera vez aquel anhelo de &#8220;de cada quien según sus posibilidades para cada quien según sus necesidades&#8221;.</p>
+<p>Hace un tiempo escribí algo al respecto:</p>
+<p><a href="http://sysadmin.lgs.com.ve/post/64952771691/la-carga-politica-del-software-libre" rel="nofollow">http://sysadmin.lgs.com.ve/post/64952771691/la-carga-politica-del-software-libre</a></p>
+<p>Saludos</p>
+</div>
+
+			<div class="reply">
+				<a class='comment-reply-link' href='/2014/03/05/tecnologias-libres-el-legado-del-comandante-chavez/?replytocom=35#respond' onclick='return addComment.moveForm("comment-35", "35", "respond", "303")'>Reply <span>&darr;</span></a>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-37">
+		<article id="comment-37" class="comment">
+			<footer class="comment-meta">
+				<div class="comment-author vcard">
+					<img alt='' src='http://1.gravatar.com/avatar/989999b3abe9cf2d766d48d2ef915348?s=68&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D68&amp;r=G' class='avatar avatar-68 photo' height='68' width='68' /><span class="fn"><a href='http://tatica.org' rel='external nofollow' class='url'>Tatica Leandro</a></span> on <a href="http://conocimientolibre.cenditel.gob.ve/2014/03/05/tecnologias-libres-el-legado-del-comandante-chavez/#comment-37"><time pubdate datetime="2014-03-29T00:41:16+00:00">Marzo 29, 2014 at 12:41 am</time></a> <span class="says">said:</span>
+									</div><!-- .comment-author .vcard -->
+
+				
+			</footer>
+
+			<div class="comment-content"><p>Tener una actitud crítica frente a las cosas que no son correctas no debería ser sinónimo de &#8220;Derecha&#8221;, &#8220;Fascista&#8221; u &#8220;Oligarca&#8221;. Pienso que aplaudir acciones incorrectas solo por miedo a la crítica es bastante triste. A veces tenemos que escuchar a especialistas imparciales y pedir a nuestros superiores (padres, jefes y/o gobierno) que rectifiquen y mejoren, y eso no debería ser delito.</p>
+<p>Ahora, al autor del artículo: Cuando menciona &#8211; algunos miembros de la así llamada “comunidad de software libre”- dejeme recordarle que son ellos los que desarrollan, traducen y apoyan al Software Libre en el cual están basadas las tecnologías que se usan en el Gobierno, en las Canaimas y en los Satélites&#8230; ¿O no creerán que todo el Software Libre utilizado en Venezuela viene den CNTI?</p>
+</div>
+
+			<div class="reply">
+				<a class='comment-reply-link' href='/2014/03/05/tecnologias-libres-el-legado-del-comandante-chavez/?replytocom=37#respond' onclick='return addComment.moveForm("comment-37", "37", "respond", "303")'>Reply <span>&darr;</span></a>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+	<li class="comment even thread-even depth-1" id="li-comment-38">
+		<article id="comment-38" class="comment">
+			<footer class="comment-meta">
+				<div class="comment-author vcard">
+					<img alt='' src='http://1.gravatar.com/avatar/95e749d8eb046c6c9b196afdaba117cb?s=68&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D68&amp;r=G' class='avatar avatar-68 photo' height='68' width='68' /><span class="fn">ghostbar</span> on <a href="http://conocimientolibre.cenditel.gob.ve/2014/03/05/tecnologias-libres-el-legado-del-comandante-chavez/#comment-38"><time pubdate datetime="2014-03-29T04:24:16+00:00">Marzo 29, 2014 at 4:24 am</time></a> <span class="says">said:</span>
+									</div><!-- .comment-author .vcard -->
+
+				
+			</footer>
+
+			<div class="comment-content"><p>Considere éste artículo una respuesta: <a href="https://medium.com/des-venezuela/b09cdef37105" rel="nofollow">https://medium.com/des-venezuela/b09cdef37105</a></p>
+</div>
+
+			<div class="reply">
+				<a class='comment-reply-link' href='/2014/03/05/tecnologias-libres-el-legado-del-comandante-chavez/?replytocom=38#respond' onclick='return addComment.moveForm("comment-38", "38", "respond", "303")'>Reply <span>&darr;</span></a>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-40">
+		<article id="comment-40" class="comment">
+			<footer class="comment-meta">
+				<div class="comment-author vcard">
+					<img alt='' src='http://1.gravatar.com/avatar/189ba37a5902ab7aff8a13052d96489b?s=68&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D68&amp;r=G' class='avatar avatar-68 photo' height='68' width='68' /><span class="fn">Santiago Roca</span> on <a href="http://conocimientolibre.cenditel.gob.ve/2014/03/05/tecnologias-libres-el-legado-del-comandante-chavez/#comment-40"><time pubdate datetime="2014-04-03T17:30:29+00:00">Abril 3, 2014 at 5:30 pm</time></a> <span class="says">said:</span>
+									</div><!-- .comment-author .vcard -->
+
+				
+			</footer>
+
+			<div class="comment-content"><p>En este artículo articulé una posición sobre este tema, de un modo evidentemente no neutral, pero con la idea de que alcancemos algunos puntos de entendimiento.</p>
+<p><a href="http://www.rebelion.org/noticia.php?id=182861" rel="nofollow">http://www.rebelion.org/noticia.php?id=182861</a></p>
+</div>
+
+			<div class="reply">
+				<a class='comment-reply-link' href='/2014/03/05/tecnologias-libres-el-legado-del-comandante-chavez/?replytocom=40#respond' onclick='return addComment.moveForm("comment-40", "40", "respond", "303")'>Reply <span>&darr;</span></a>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+		</ol>
+
+		
+	
+									<div id="respond" class="comment-respond">
+				<h3 id="reply-title" class="comment-reply-title">A&ntilde;dir un comentario a <a href="#comment-35">Loris Santamaria</a> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2014/03/05/tecnologias-libres-el-legado-del-comandante-chavez/#respond">Cancelar respuesta</a></small></h3>
+									<form action="http://conocimientolibre.cenditel.gob.ve/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+																			<p class="comment-notes">Su dirección de correo no se hará público. Los campos requeridos están marcados <span class="required">*</span></p>							<p class="comment-form-author"><label for="author">Nombre <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" aria-required='true' /></p>
+<p class="comment-form-email"><label for="email">Correo <span class="required">*</span></label> <input id="email" name="email" type="text" value="" size="30" aria-required='true' /></p>
+<p class="comment-form-url"><label for="url">Sitio web</label> <input id="url" name="url" type="text" value="" size="30" /></p>
+<p class="comment-form-captcha">
+		<label for="captcha"><b>Captcha </b></label>
+		<span class="required">*</span>
+		<div style="clear:both;"></div>
+		<img src="http://conocimientolibre.cenditel.gob.ve/wp-content/plugins/captcha-code-authentication/captcha_code_file.php?rand=1347065470" />
+		<div style="clear:both;"></div>
+		<label for="captcha_code">Type the text displayed above:</label>
+		<input id="captcha_code" name="captcha_code" size="15" type="text" />
+		<div style="clear:both;"></div>
+		</p>												<p class="comment-form-comment"><label for="comment">Comentario</label> <textarea id="comment" name="comment" cols="45" rows="8" aria-required="true"></textarea></p>						<p class="form-allowed-tags">Usted puede utilizar las etiquetas <abbr title="Lenguaje de Marcado de Hipertexto">HTML</abbr> y atributos:  <code>&lt;a href=&quot;&quot; title=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=&quot;&quot;&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=&quot;&quot;&gt; &lt;strike&gt; &lt;strong&gt; </code></p>						<p class="form-submit">
+							<input name="submit" type="submit" id="submit" value="Publicar comentario" />
+							<input type='hidden' name='comment_post_ID' value='303' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='35' />
+						</p>
+											</form>
+							</div><!-- #respond -->
+						
+</div><!-- #comments -->
+
+				
+			</div><!-- #content -->
+		</div><!-- #primary -->
+
+
+
+	</div><!-- #main -->
+
+	<footer id="colophon" role="contentinfo">
+
+			
+
+
+			<div id="site-generator">
+				<html>
+
+<div id="imagen">
+<img src="/wp-content/themes/Bicentenario/images/logo.png">
+</div>
+
+<TABLE id="tabla">
+<tr>
+<div id="enlaces_titulo"><p>Enlaces de interes</p></div>
+
+</tr>
+
+     <TR>
+
+	
+
+          <TD><ul id="menu1">
+	<li><a href="http://www.mct.gob.ve/" target="_blank" alt="Ministerio del Poder Popular para Ciencia, Tecnología e Industrias Intermedias" title="Ministerio del Poder Popular para Ciencia, Tecnología e Industrias Intermedias">MppCTii</a></li>
+	<li> <a href="http://www.me.gob.ve/" target="_blank" alt="Ministerio del Poder Popular para la Educación" title="Ministerio del Poder Popular para la Educación">MppE</a></li>
+	<li> <a href="http://www.fundacite-merida.gob.ve" target="_blank" alt="Fundacite Mérida" title="Fundacite Mérida">Fundacite</a></li>
+	<li> <a href="http://www.fidetel.gob.ve" target="_blank" alt="Fondo de Investigación y Desarrollo de las Telecomunicaciones" title="Fondo de Investigación y Desarrollo de las Telecomunicaciones">FIDETEL</a> </li>
+</ul> </TD> 
+
+	<TD> <ul id="menu2">
+	<li><a href="http://www.minci.gob.ve" target="_blank" alt="Ministerio del Poder Popular para la Comunicacion e Informacion" title="Ministerio del Poder Popular para la Comunicacion e Informacion">Minci</a></li>
+	<li> <a href="http://www.minamb.gob.ve/" target="_blank" alt="Ministerio del Poder Popular para el Ambiente" title="Ministerio del Poder Popular para el Ambiente">MppA</a></li>
+	<li> <a href="http://www.cnti.gob.ve" target="_blank" alt="Centro Nacional de Tecnologías de Información" title="Centro Nacional de Tecnologías de Información">Cnti</a></li>
+	<li> <a href="http://www.mpcomunas.gob.ve" target="_blank" alt="Ministerio del Poder Popular para las Comunas y Protección Social" title="Ministerio del Poder Popular para las Comunas y Protección Social">MppCPS</a> </li>
+</ul></TD>
+     
+	<TD><ul id="menu3">
+	<li><a href="http://www.ministeriodelacultura.gob.ve" target="_blank" alt="Ministerio del Poder Popular para la Cultura" title="Ministerio del Poder Popular para la Cultura">MppC</a></li>
+	<li> <a href="http://www.mppeu.gob.ve/" target="_blank" alt="Ministerio del Poder Popular para la Educación Universitaria" title="Ministerio del Poder Popular para la Educación Universitaria">MppEU</a></li>
+	<li> <a href="http://www.suscerte.gob.ve" target="_blank" alt="Superintendencia de Servicios de Certificación Electrónica" title="Superintendencia de Servicios de Certificación Electrónica">SUSCERTE</a> </li>
+	<li> <a href="http://www.cantv.net/" target="_blank" alt="CANTV" title="CANTV"> CANTV</a></li>
+	</ul> </TD> 
+
+      </TR> 
+</TABLE>
+<div id="pie">
+<p>
+FUNDACIÓN CENTRO NACIONAL DE DESARROLLO E INVESTIGACIÓN EN TECNOLOGÍAS LIBRES (CENDITEL) Avenida Alberto Carnevali, vía La Hechicera, Edificio CENDITEL. Teléfono: (0274)6574336 - 6574958. Apartado Postal: 078. Código Postal: 5101A. RIF: G-20007349-7. Mérida-Venezuela</p>
+</div>
+
+</html>
+
+
+		
+			
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+</body>
+</html>

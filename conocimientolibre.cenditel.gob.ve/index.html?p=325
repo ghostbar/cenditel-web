@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="es-PE">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="es-PE">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="es-PE">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="es-PE">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>Tras el velo de la “Neutralidad”: De la Libertad como empresa económica a la Libertad como bien público | Conocimiento Libre</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="stylesheet" type="text/css" media="all" href="http://conocimientolibre.cenditel.gob.ve/wp-content/themes/proyecto_communita/style.css" />
+<link rel="pingback" href="http://conocimientolibre.cenditel.gob.ve/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="http://conocimientolibre.cenditel.gob.ve/wp-content/themes/proyecto_communita/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+<link rel="alternate" type="application/rss+xml" title="Conocimiento Libre &raquo; Feed" href="http://conocimientolibre.cenditel.gob.ve/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Conocimiento Libre &raquo; Feed de comentarios" href="http://conocimientolibre.cenditel.gob.ve/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Conocimiento Libre &raquo; Tras el velo de la “Neutralidad”: De la Libertad como empresa económica a la Libertad como bien público Feed de comentarios" href="http://conocimientolibre.cenditel.gob.ve/2014/04/04/tras-el-velo-de-la-neutralidad-de-la-libertad-como-empresa-economica-a-la-libertad-como-bien-publico/feed/" />
+<link rel='stylesheet' id='rbanner-css-css'  href='http://conocimientolibre.cenditel.gob.ve/wp-content/plugins/random-banner//css/rbanner.css?ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='videojs-plugin-css'  href='http://conocimientolibre.cenditel.gob.ve/wp-content/plugins/videojs-html5-video-player-for-wordpress/plugin-styles.css?ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='videojs-css'  href='http://conocimientolibre.cenditel.gob.ve/wp-content/plugins/videojs-html5-video-player-for-wordpress/videojs/video-js.css?ver=3.6.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://conocimientolibre.cenditel.gob.ve/wp-includes/js/comment-reply.min.js?ver=3.6.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://conocimientolibre.cenditel.gob.ve/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://conocimientolibre.cenditel.gob.ve/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Tecnologías libres: el legado del Comandante Chávez' href='http://conocimientolibre.cenditel.gob.ve/2014/03/05/tecnologias-libres-el-legado-del-comandante-chavez/' />
+<link rel='next' title='La Neutralidad de la Red y la Libertad de Expresión' href='http://conocimientolibre.cenditel.gob.ve/2014/04/15/la-neutralidad-de-la-red-y-la-libertad-de-expresion/' />
+<meta name="generator" content="WordPress 3.6.1" />
+<link rel='canonical' href='http://conocimientolibre.cenditel.gob.ve/2014/04/04/tras-el-velo-de-la-neutralidad-de-la-libertad-como-empresa-economica-a-la-libertad-como-bien-publico/' />
+<link rel='shortlink' href='http://conocimientolibre.cenditel.gob.ve/?p=325' />
+
+		<script type="text/javascript">
+			if(typeof videojs != "undefined") {
+				videojs.options.flash.swf = "http://conocimientolibre.cenditel.gob.ve/wp-content/plugins/videojs-html5-video-player-for-wordpress/videojs/video-js.swf";
+			}
+			document.createElement("video");document.createElement("audio");document.createElement("track");
+		</script>
+			<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+</head>
+
+<body class="single single-post postid-325 single-format-standard singular two-column right-sidebar">
+<div id="page" class="hfeed">
+	<header id="branding" role="banner">
+			<hgroup>
+				<h1 id="site-title"><span><a href="http://conocimientolibre.cenditel.gob.ve/" title="Conocimiento Libre" rel="home">Conocimiento Libre</a></span></h1>
+				<h2 id="site-description">Reflexiones críticas para la apropiación del Conocimiento Libre en Venezuela</h2>
+			</hgroup>
+
+						<a href="http://conocimientolibre.cenditel.gob.ve/">
+									<img src="http://conocimientolibre.cenditel.gob.ve/files/2013/05/cropped-Obra-Mural-CENDITEL-web.jpg" width="1000" height="288" alt="" />
+							</a>
+			
+								<form method="get" id="searchform" action="http://conocimientolibre.cenditel.gob.ve/">
+		<label for="s" class="assistive-text">Search</label>
+		<input type="text" class="field" name="s" id="s" placeholder="Search" />
+		<input type="submit" class="submit" name="submit" id="searchsubmit" value="Search" />
+	</form>
+			
+			<nav id="access" role="navigation">
+				<h3 class="assistive-text">Main menu</h3>
+								<div class="skip-link"><a class="assistive-text" href="#content" title="Skip to primary content">Skip to primary content</a></div>
+				<div class="skip-link"><a class="assistive-text" href="#secondary" title="Skip to secondary content">Skip to secondary content</a></div>
+								<div class="menu"><ul><li ><a href="http://conocimientolibre.cenditel.gob.ve/" title="Inicio">Inicio</a></li><li class="page_item page-item-2"><a href="http://conocimientolibre.cenditel.gob.ve/elblog/">Sobre el Blog</a></li></ul></div>
+			</nav><!-- #access -->
+	</header><!-- #branding -->
+
+
+	<div id="main">
+		<div id="primary">
+			<div id="content" role="main">
+
+				
+					<nav id="nav-single">
+						<h3 class="assistive-text">Post navigation</h3>
+						<span class="nav-previous"><a href="http://conocimientolibre.cenditel.gob.ve/2014/03/05/tecnologias-libres-el-legado-del-comandante-chavez/" rel="prev"><span class="meta-nav">&larr;</span> Previous</a></span>
+						<span class="nav-next"><a href="http://conocimientolibre.cenditel.gob.ve/2014/04/15/la-neutralidad-de-la-red-y-la-libertad-de-expresion/" rel="next">Next <span class="meta-nav">&rarr;</span></a></span>
+					</nav><!-- #nav-single -->
+
+					
+<article id="post-325" class="post-325 post type-post status-publish format-standard hentry category-neutralidad-tecnologica category-politica-tecnologica category-responsabilidad-tecnopolitica category-soberania-tecnologica category-tecnologias-libres tag-neutralidad-tecnologica tag-politica-tecnologica tag-tecnologias-libres">
+	<header class="entry-header">
+		<h1 class="entry-title">Tras el velo de la “Neutralidad”: De la Libertad como empresa económica a la Libertad como bien público</h1>
+
+				<div class="entry-meta">
+			<span class="sep">Posted on </span><a href="http://conocimientolibre.cenditel.gob.ve/2014/04/04/tras-el-velo-de-la-neutralidad-de-la-libertad-como-empresa-economica-a-la-libertad-como-bien-publico/" title="1:58 pm" rel="bookmark"><time class="entry-date" datetime="2014-04-04T13:58:16+00:00" pubdate>Abril 4, 2014</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="http://conocimientolibre.cenditel.gob.ve/author/sroca/" title="View all posts by sroca" rel="author">sroca</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p align="RIGHT">Santiago José Roca</p>
+<p align="JUSTIFY">Resulta interesante que uno de los hitos tecnológicos más importantes de nuestros tiempos, la red de redes, se encuentre relacionado con uno de los conceptos ideológicos así mismo más importantes: la libertad. Resulta más interesante cuando nos encontramos con que el problema de la libertad se entremezcla con argumentos en favor de la neutralidad de las tecnologías; en particular, tomando en consideración que Internet es una obra humana y, por tanto, su historia está impregnada de vicisitudes políticas y culturales que parecen refutar tal neutralidad.</p>
+<p align="JUSTIFY">Hace unas semanas algunos blogueros y activistas venezolanos pronunciaron una declaración en la que manifestaron su oposición al gobierno utilizando como argumento el recurso a la neutralidad de las redes<a href="#sdfootnote1sym" name="sdfootnote1anc"><sup>1</sup></a>. Haremos referencia a este comunicado más adelante. En las líneas que siguen intentaremos aportar algunos elementos – no neutrales – para contribuir con una discusión útil sobre esta materia. Para ello, es necesario distinguir entre la “neutralidad” de la tecnología como criterio de definición, y los usos especiales del término &#8220;neutralidad&#8221; aplicados a una forma de tecnología en particular. Comencemos por revisar el primer uso, y luego revisaremos el segundo pensando precisamente en Internet.</p>
+<p align="JUSTIFY"><b>1. Neutralidad de la tecnología y neutralidad de las redes</b></p>
+<p align="JUSTIFY">La discusión sobre la neutralidad de la tecnología es complicada y participan en ella personas de todo el mundo. Parece que las diferencias surgen, en principio, a partir de qué cosa se entiende por tecnología. Quienes se proponen elaborar una comprensión sociológica de la tecnología estarán de acuerdo con que la tecnología no es neutral. En cambio, quienes al hablar de tecnología lo hacen desde una comprensión más instrumentalista, serán defensores de la neutralidad. Visto así, parece irresoluble el conflicto, de forma que trataremos simplemente de apuntar algunos aspectos para apuntalar una perspectiva más social que instrumentalista sobre esta discusión.</p>
+<p align="JUSTIFY">Si la tecnología es neutra, entonces se desenvuelve y se modifica debido al imperativo de la eficacia y no por presiones &#8220;externas&#8221;, tales como intereses y valores sociales. Si preguntamos en qué consiste la razón de ser de Internet, posiblemente se nos responderá que el fin de Internet es &#8220;transmitir datos eficientemente a través de una red distribuida&#8221;, mas con ello quedaría al descubierto que la red se reduce a la infraestructura y al flujo de datos, haciendo abstracción de todo lo demás. Así, la tecnología es neutral porque la discusión sobre la tendencia política de los servidores y de los protocolos de red está fuera de lugar. Para nosotros, no queda mucho para discernir por esa vía.</p>
+<p align="JUSTIFY">Para no ahondar en un discurso teórico, apuntaremos solamente dos aspectos en contra de esta posición:</p>
+<p align="JUSTIFY">(1) El concepto de tecnología abarca más que los instrumentos, objetos caracterizados por su razón funcional, pero enmarcados en un contexto social. El concepto amplio de tecnología también incluye el saber asociado al manejo de los dispositivos, los sistemas tecnológicos, los modos organizacionales e incluso las relaciones humanas mediadas funcionalmente por la tecnología. La clave es no perder de vista que los dispositivos y sistemas emergen en el contexto de las relaciones sociales: aunque su razón interna sea funcional, su origen y su propósito es social. De ahí la importancia de recordar la intrincada red de interacciones humanas que ha dado origen a Internet tal como la conocemos hoy día.</p>
+<p align="JUSTIFY">Se reconoce comúnmente que Internet surgió como un proyecto militar, que fue dado a los académicos y luego fue puesto a control de la empresa privada a mediados de los años 90 en el marco de una política de desregulación económica. Manuel Castells<a href="#sdfootnote2sym" name="sdfootnote2anc"><sup>2</sup></a> afirma que en el desarrollo de Internet se encontraron las culturas del hacker, del académico y de las comunidades virtuales. Adam Fish<a href="#sdfootnote3sym" name="sdfootnote3anc"><sup>3</sup></a>, antropólogo estadounidense, encuentra que en la discusión sobre Internet se hallan cuatro discursos, todos de raíz liberal, cada uno de los cuales define de forma diferente al protagonista: la corporación, el estado, el individuo o las personalidades destacadas. Nuria Almirón<a href="#sdfootnote4sym" name="sdfootnote4anc"><sup>4</sup></a>, entre otros, hace referencia al mito libertario del origen de Internet, y todos los que siguen a los movimientos de activistas conocen que tal mito continúa dándole aliento. En los últimos años hemos sido testigos de las contradicciones entre las empresas de Internet y la industria cultural (como en el caso de la Ley SOPA), así como de los esfuerzos de entes como la National Security Agency, entre otros, para controlar a la red. De tal forma que si la razón funcional tiene un lugar merecido, no se puede afirmar que la red sea exclusivamente un espacio de avance reducido al ámbito instrumental.</p>
+<p align="JUSTIFY">(2) Con esto, no estamos sugiriendo que existe una brecha entre el carácter funcional de los dispositivos y el contexto social. Más bien nos parece necesario situar cada dimensión en una relación representativa del fenómeno amplio de la tecnología. La neutralidad de la tecnología no queda evidenciada por el hecho de que el objeto pueda ser utilizado siempre con los mismos resultados con independencia del contexto social. En cambio, su carácter no-neutral puede observarse, desde la perspectiva sociológica, en que el objeto tecnológico llega a ser tal gracias a la presión social sobre el acto de creación y a numerosos actos de apropiación del artefacto. Evidentemente, la funcionalidad de un dispositivo sienta un precedente para el desarrollo tecnológico subsiguiente, pero no es un fenómeno aislado.</p>
+<p align="JUSTIFY">Para nosotros, tanto como la apropiación tecnológica – concepto en el cual pueden escabullirse aún alegatos de neutralidad porque solemos reducir “apropiación” al “uso” – es importante el concepto de diseño. Con académicos como Andrew Feenberg<a href="#sdfootnote5sym" name="sdfootnote5anc"><sup>5</sup></a>, afirmamos que las relaciones sociales son un vehículo para la traducción de intereses y valores en códigos técnicos, y por lo tanto, en funciones. Esto quiere decir que el dispositivo tecnológico – el objeto funcional – es resultado de una voluntad de creación, alimentada por presiones sociales, que finalmente ha tomado forma técnica. El objeto técnico es expresión de la intención que se imprimió en el diseño, y a partir de entonces pasa a formar parte de los sistemas técnicos, donde se combina la apropiación funcional del dispositivo como su apropiación simbólica, para generar nuevas formas de presión social sobre el diseño tecnológico.</p>
+<p align="JUSTIFY">Es conocido el ejemplo de Langdon Winner<a href="#sdfootnote6sym" name="sdfootnote6anc"><sup>6</sup></a> sobre los pasos elevados de Long Island, en Nueva York. Los pasos elevados que eran construidos entre los años veinte y treinta eran inusualmente bajos, y con ello favorecían el tránsito de vehículos particulares en ciertas zonas y evitaban el tránsito de transporte masivo. ¿Qué se lograba con esto? Limitar la circulación de las clases populares a determinadas locaciones. No eran pasos “neutros”, aunque fueran arquitectónicamente correctos y cualquiera hubiera podido, materialmente, transitar por ellos. Eran pasos que formaban parte de una determinada visión de la ciudad y que todavía hoy le dan forma.</p>
+<p align="JUSTIFY">Ahora, intentemos aclarar el concepto de neutralidad de la red. La neutralidad de la red es un convención sostenida entre actores comerciales para garantizar que gobiernos o proveedores de servicios no favorezcan a algunos actores en detrimento de otros. El concepto comenzó a popularizarse a partir del trabajo<a href="#sdfootnote7sym" name="sdfootnote7anc"><sup>7</sup></a> del académico estadounidense Tim Wu<a href="#sdfootnote8sym" name="sdfootnote8anc"><sup>8</sup></a> y desde entonces se ha convertido en moneda corriente en las diatribas entre operadores, servidores de contenidos, activistas y gobiernos para decidir asuntos en torno a la red. De acuerdo con Wu: “La neutralidad de la red se define como un principio de diseño de las redes. La idea es que una red de información pública de máxima utilidad debe aspirar a tratar a todos los contenidos, sitios y plataformas de modo equitativo. Esto permite a la red transportar todas las clases de información y de soportar todos los tipos de aplicación”<a href="#sdfootnote9sym" name="sdfootnote9anc"><sup>9</sup></a>.</p>
+<p align="JUSTIFY">A partir de su creación, este concepto se encontró emparentado con la creencia en la igualdad de ofertas en el mercado y con el rechazo al monopolio económico. Tiene éxito como idea gracias al auge de la no regulación pública del mercado, y finalmente se abraza, como suele suceder en estos casos, con la defensa de las libertades políticas, y en particular con la libertad de expresión. De acuerdo con otra definición: “Que Internet sea una red neutra equivale a afirmar que en Internet nadie puede privilegiar ni bloquear una conexión entre dos nodos cualquiera de la Red. De este modo, una vez tengo acceso a Internet &#8230; nada ni nadie, ni siquiera -y especialmente- el operador con el que tengo contratado mi acceso a Internet puede impedirme que conecte con un nodo cualquiera”. A partir de esto se señala que “La neutralidad es el pilar sobre el que se apoyan todas las cosas buenas que nacen de Internet: su carácter radicalmente democrático, su carácter libre. La neutralidad de la Red es el equivalente electrónico del binomio democracia y libertad de expresión”<a href="#sdfootnote10sym" name="sdfootnote10anc"><sup>10</sup></a>.</p>
+<p align="JUSTIFY">Pero la neutralidad de la red no es una forma “natural” de organizar el desarrollo de la red. Ni siquiera es un modo universalmente aceptado de hacerlo. En la entrada de Wikipedia sobre la neutralidad de la red se hace referencias a sus adherentes (empresas proveedoras de contenidos como Google, ciertas personalidades y activistas) y detractores (<i>think tanks</i> conservadores, operadores de banda ancha, otras personalidades)<a href="#sdfootnote11sym" name="sdfootnote11anc"><sup>11</sup></a>. Incluso, cada vez hay más información acerca de que la neutralidad es más una pugna entre los proveedores de servicios (Internet Service Providers &#8211; ISP) y los gestores de contenidos (Google, Yahoo!), donde prácticamente han sido excluidos los gobiernos como no sea por la presión que ejercen el lobby y los fondos privados para dirimir conflictos y hacer aprobar regulaciones<a href="#sdfootnote12sym" name="sdfootnote12anc"><sup>12</sup></a>.</p>
+<p align="JUSTIFY">Así mismo, el concepto de neutralidad de la red no se puede equiparar con conceptos como el de igualdad ante la ley, porque esta igualdad nace del carácter originario de la ciudadanía como garantía del reconocimiento de los derechos por parte del poder político, en tanto que la neutralidad es, aparte de un ideal atractivo, una convención comercial. En palabras de Wo: “Pienso que es importante diferenciar claramente entre el <i>principio</i> de neutralidad de la ley y una <i>ley</i> de neutralidad de la red”; para él, las leyes tienen como propósito solventar diferencias económicas que pueden tener efectos perjudiciales para la economía o para la nación<a href="#sdfootnote13sym" name="sdfootnote13anc"><sup>13</sup></a>. La neutralidad de la red es una forma de garantizar que ningún actor se aprovechará de una situación aventajada en el mercado para beneficios particulares. Es un principio relacionado con los derechos económicos, y en particular con la libertad de empresa y la prohibición del monopolio. Y como concepto, surge de la matriz de políticas económicas que favorecen la no regulación pública del mercado, por lo que uno de sus efectos es prevenir que los estados puedan regular el negocio tras Internet.</p>
+<p align="JUSTIFY">A nosotros no nos preocupa necesariamente la idea de neutralidad de redes que enfrenta actores económicos, aunque nuestra posición está a favor de los usuarios en tanto que ciudadanos y no como consumidores y, por tanto, consideramos que hay aspectos valiosos en el concepto, como por ejemplo la posibilidad de mantener la red bajo dominio <i>público</i>. Nuestra preocupación se orienta al problema de la invisibilización del Estado y de la comunidad política nacional. En otras palabras, el tema que la “neutralidad de la red” nos plantea es hasta qué punto la esfera pública – suponiendo idealmente que Internet puede ser un espacio de construcción de la esfera pública – puede ser marcada por la regla de exclusión del poder político de la regulación pública de los asuntos comunes; entre ellos, el mercado. Lo que debemos definir es si la “neutralidad de la red” será un valuarte de los derechos ciudadanos, o si más bien se estará convirtiendo en otra forma de expansión del fundamentalismo de mercado en dos pasos: la exclusión de la política – el Estado, las comunidades – de la discusión económica para limitar el foco a las relaciones de mercado, y la asignación de valores concretos y de recursos a manos de los agentes más poderosos en este campo, es decir, las empresas.</p>
+<p align="JUSTIFY"><b>2. De la libertad de Internet a la Libertad como bien de la República</b></p>
+<p align="JUSTIFY">Ahora bien ¿cómo podemos interpretar el problema de la libertad – que sustenta el mito de Internet – desde en enfoque más cercano a nuestra realidad? Si nos adentramos en la ideología que sustenta en cierto modo el relato de Internet, encontramos que la idea de libertad se define principalmente como la “ausencia de restricciones”. Se trata de una noción de libertad que, arraigada en el liberalismo-anarquismo estadounidense, propugna la libertad individual y que, quizá sin suponerlo, se cruza en ocasiones con el liberalismo del fundamentalismo de mercados. En este sentido, puede desembocar en una idea de libertad desentendida del ser social, o que a lo sumo considera que el bien social es un resultado de la interacción de los intereses individuales. Se trata sobre todo de una concepción individualista de la libertad, que puede ayudar a sustentar la libertad de empresa y en particular la ausencia de participación de agentes como el Estado en la regulación económica, y por tanto, también de Internet. En el contexto de la internacionalización de las políticas de desregulación económica y de la deslocalización de las economías de la información, la libertad así entendida favorece a los capitales en detrimento de los Pueblos.</p>
+<p align="JUSTIFY">El ideal republicano – bolivariano – que sustenta la Constitución venezolana, concibe la libertad en conjunto con el ejercicio de la responsabilidad que conlleva el cultivo de las virtudes cívicas. Lo público no es la arena del mercado, sino espacio de construcción colectiva de lo común. La libertad, en este caso, es un bien común que integra la libertad individual con el bien colectivo. No se es &#8220;libre&#8221; en términos individualistas y negativos, sino en términos colectivos y afirmativos de una identidad plural.</p>
+<p align="JUSTIFY">La unidad entre libertad y justicia social, fundada en la búsqueda de la igualdad, permite sostener doctrinariamente la voluntad de constituir un Estado Democrático y Social de Derecho y de Justicia. Además, la visión comunitarista de la sociedad, implementada a través de la democracia directa, nutre la defensa de la soberanía popular. Más allá del ideal de la libertad negativa, fundada en el individualismo, el ideal republicano-bolivariano de libertad se orienta hacia el cultivo de la responsabilidad y proporciona la razón de una sociedad organizada en torno a la solidaridad y la reciprocidad. Por lo tanto no es extraño que en los últimos planes de la Nación se hable formalmente de Socialismo, en cuanto que representa un modo de elaborar sistémicamente la preocupación por el bien común en estos términos.</p>
+<p align="JUSTIFY">Es el Estado venezolano, Estado Democrático y Social de Derecho y de Justicia, quien tiene la potestad de definir los asuntos públicos en representación de los ciudadanos. Esto no quiere decir que se da la espalda a los acuerdos internacionales, que son compromisos asumidos por el Estado, sino que se busca darle la importancia debida al papel del Estado como garante de las condiciones de vida en colectivo y como facilitador del desarrollo integral de la Nación. Por otra parte, en nuestro país se trabaja desde hace varios años para trascender desde el Estado burocrático – representativo hacia un Estado más comunal y participativo. Tal es la plataforma más óptima para oponerse a las críticas de quienes defienden la libertad de empresa y la libertad de mercado por encima de la soberanía popular. Y en eso se va el interés de fundar una sociedad inspirada en la libertad y en la justicia social; organizada en torno a la reciprocidad y la solidaridad. La otra idea de libertad, de carácter colonialista, nos parece compañera de la dependencia y, por tanto, mucho menos deseable.</p>
+<p align="JUSTIFY">Desde esta perspectiva, pueden comprenderse las tecnologías libres como una forma de democratizar – en términos participativos y protagónicos – el desarrollo tecnológico. De ahí que aspiramos a que las propuestas sociotécnicas que vienen aparejadas con el desarrollo de tecnologías libres nos ayuden a conformar una base social y productiva para fomentar la soberanía popular y la Independencia de nuestro país<a href="#sdfootnote14sym" name="sdfootnote14anc"><sup>14</sup></a>. El gobierno venezolano se ha preocupado de fomentar el uso de las tecnologías – en particular de las tecnologías libres – hasta el punto en que el actual Plan de Desarrollo Económico y Social de la Nación formula el objetivo estratégico de “impulsar el desarrollo y uso de equipos electrónicos y aplicaciones informáticas en tecnologías libres y estándares abiertos” (1.5.3); para lo cual se proponen los objetivos generales de “garantizar el impulso de la formación y transferencia de conocimiento” (1.5.3.1); garantizar en el ámbito estatal “el uso de equipos electrónicos y aplicaciones informáticas en tecnologías libres y estándares abiertos” (1.5.3.2); e impulsar “la creación de centros tecnológicos en centros educativos, universitarios, técnicos, medios que garanticen procesos formativos integrales y continuos (1.5.3.3)”<a href="#sdfootnote15sym" name="sdfootnote15anc"><sup>15</sup></a>.</p>
+<p align="JUSTIFY">Si este intento de síntesis extrema del sentido político de la Constitución y de los Planes de la Nación no está del todo desviado de la realidad, no es difícil entender por qué puede entrar en conflicto con la expansión de los intereses de las entidades corporativo-nacionales del centro capitalista, cuya influencia es determinante en el plano internacional. Además, entra en conflicto con la noción individualista de “libertad” y con la versión de “libertad” que subyace en las políticas neoliberales de fomento del libre mercado. Pensamos que quienes se oponen a ese proyecto blandiendo la imagen de la libertad individual contra la libertad republicana han internalizado, de forma consciente o no, un contexto interpretativo de raíces neocoloniales que se ha ido difundiendo desde hace décadas a través de los medios de comunicación, la educación y el mercado<a href="#sdfootnote16sym" name="sdfootnote16anc"><sup>16</sup></a>. En el siguiente punto vamos a hacer referencia a un caso particular que, según nos parece, ilustra este tema.</p>
+<p align="JUSTIFY"><b>3. La “neutralidad de la red” como discurso político en Venezuela</b></p>
+<p align="RIGHT">“<i>El que su tierra no adora, tiene espíritu prestado</i>”</p>
+<p align="RIGHT">Alí Primera, <i>El que cantó con Zamora</i></p>
+<p align="JUSTIFY">Nos parece que el nombrado comunicado a favor de la neutralidad de la red en Venezuela no se proponía otra cosa que crear una imagen negativa sobre el gobierno venezolano, en el contexto de la ofensiva comunicacional impulsada en las últimas semanas como una avanzadilla de la “revolución de terciopelo” que se promueve contra el país<a href="#sdfootnote17sym" name="sdfootnote17anc"><sup>17</sup></a>.</p>
+<p align="JUSTIFY">Los venezolanos estamos, de algún modo, acostumbrados a los ataques, incluso de parte de quienes defienden la libertad de las comunicaciones. Hace menos de dos años, un informe de la World Wide Web Foundation señalaba que “como Tailandia, la clasificación global de Venezuela para cada componente ha disminuido desde 2007, a excepción del Contenido de Web, donde el país disfrutó de una mejora modesta de un lugar. El área que ha visto la disminución más significativa es el Impacto Político. Una explicación probable se deriva del control de Hugo Chávez del gobierno y el límite sobre las libertades de prensa”<a href="#sdfootnote18sym" name="sdfootnote18anc"><sup>18</sup></a>. Cuando leímos los anexos metodológicos, nos dimos cuenta que la fuente de la información para las variables políticas eran instituciones como Freedom House y Reporteros Sin Fronteras, organizaciones que suelen apoyar el cambio de gobierno en países cuyas políticas no son afines con los intereses estadounidenses, y que cuentan con un historial de ataques contra la soberanía venezolana<a href="#sdfootnote19sym" name="sdfootnote19anc"><sup>19</sup></a>.</p>
+<p align="JUSTIFY">No obstante, la discusión en torno a la neutralidad de la red no es un problema retórico, sino que refleja la manera en que activistas y tecnólogos se posicionan en el escenario de un conflicto mundial donde Venezuela es sólo un campo de confrontación. El discurso sobre la neutralidad ha servido en las últimas semanas para polarizar el discurso a favor o en contra de la permanencia de un gobierno legítimo, atacado por la oposición política a través de medios no constitucionales. En este marco, algunos “partidarios de la neutralidad” se hacen eco de un discurso arraigado en el propio mito de Internet como una forma de atraer la simpatía de los activistas del conocimiento libre para dirigirla en contra de un gobierno. Pero también hacen poco caso de los logros de este gobierno en materia de tecnología y de tecnologías libres, y que han merecido, por ejemplo, reconocimientos de la UNESCO a programas como Infocentros<a href="#sdfootnote20sym" name="sdfootnote20anc"><sup>20</sup></a> y Canaima Educativo<a href="#sdfootnote21sym" name="sdfootnote21anc"><sup>21</sup></a>.</p>
+<p align="JUSTIFY">Nadie puede estar legítimamente en contra del libre flujo de información. Nadie puede negar tampoco que sobre esta base se han articulado importantes intereses económicos y políticos en favor del poder-mercado y en contra del interés público. Nuestro alegato en este caso es que la regulación del servicio de Internet es una prerrogativa del gobierno nacional y que el mismo debe establecer las formas en que debe hacerse, con respeto a los intereses de los ciudadanos, tal como se ha establecido en encuentros sobre la materia<a href="#sdfootnote22sym" name="sdfootnote22anc"><sup>22</sup></a>.</p>
+<p align="JUSTIFY">En tanto que en algunos países del mundo existe un control directo del tráfico de Internet<a href="#sdfootnote23sym" name="sdfootnote23anc"><sup>23</sup></a>, y en lugares con situaciones sociales muy complejas el gobierno ha decidido bloquear algunas aplicaciones, en nuestro país se alienta el conocimiento y la utilización masiva de tales herramientas<a href="#sdfootnote24sym" name="sdfootnote24anc"><sup>24</sup></a>. Hace poco el propio Presidente Maduro invitó a utilizar aplicaciones como Twitter para contrarrestar los ataques de la oposición. De acuerdo con una nota de AFP: “Mientras en Turquía las autoridades ordenan bloquear Twitter, el presidente de Venezuela alienta a sus partidarios a sumarse a la red social para abortar un &#8220;golpe de Estado 2.0&#8243;”<a href="#sdfootnote25sym" name="sdfootnote25anc"><sup>25</sup></a>. Para ello es imprescindible contar con una red libre, pero “libre” porque se encuentre sometida a la regulación pública y no porque sirva al dominio de intereses privados corporativos. Y “libre” porque facilite la deliberación política y no la sustituya por los titulares de la prensa y los mensajes sensacionalistas de las redes sociales.</p>
+<p align="JUSTIFY">Al final, el problema no es si el gobierno bloqueó o no algunas páginas de Internet. El verdadero tema de discusión es si el gobierno tiene el derecho o el deber de hacerlo en función de la representación democrática de todos los ciudadanos de nuestro país. Quienes firman los comunicados en favor del libre acceso y en contra del gobierno, hacen caso omiso de las circunstancias en las cuales se deben tomar decisiones difíciles, como por ejemplo los ataques masivos a la red del Consejo Nacional Electoral en pleno proceso electoral, el año pasado, o la manera en que ha circulado información falsa sobre los focos de conflicto en las últimas semanas<a href="#sdfootnote26sym" name="sdfootnote26anc"><sup>26</sup></a>, todo lo cual genera un cuadro de desestabilización que ya ha sido bien señalado<a href="#sdfootnote27sym" name="sdfootnote27anc"><sup>27</sup></a>. Incluso, grupos independientes presumen la utilización de <i>bots</i> de Internet para crear una matriz de opinión en contra del gobierno nacional<a href="#sdfootnote28sym" name="sdfootnote28anc"><sup>28</sup></a>. Esta falta de equilibrio en la evaluación de la situación venezolana no es ingenua, sino que se basa en el interés de proyectar una oposición diametral entre ciudadanía y estado; es decir, la ilusión de que las redes expresan el testimonio de ciudadanos que se resisten al ejercicio despótico de la autoridad del estado.</p>
+<p align="JUSTIFY">Resulta necesario reparar en que la invisibilización voluntaria del apoyo popular que hoy día tiene el gobierno de Nicolás Maduro, tal como se opera a diario en las redes sociales y en numerosos portales web, representa es una acción mucho más ofensiva para la democracia que el presunto bloqueo de páginas o aplicaciones que utilizan algunos sectores para retar al poder político (como los sitios que sirven al mercado negro de divisas o las aplicaciones que ayudan a quienes hacen uso de la violencia para manifestar su posición). Lo que queremos decir es que los tuits nunca deben pesar más que los votos, y que la puesta en escena en las redes de la oposición ciudadano-gobierno, en realidad contribuye a vulnerar los derechos políticos de las mayorías que han expresado su preferencia por el gobierno actual por medios mucho más democráticos que los que promueven los partidarios de la “primavera twitter” venezolana. Esta batalla se desenvuelve en la arena de la opinión pública, y lo que está en juego es la verdad y el derecho de las mayorías. La imagen de las redes como portavoces de las masas tiene, por lo tanto, su lado antidemocrático, en cuanto que la sustitución del diálogo por el espectáculo opaca la búsqueda del consenso que se debe hallar a través de la deliberación democrática, para nosotros, de carácter participativo y protagónico. Ahí está la discusión.</p>
+<div id="sdfootnote1">
+<p align="JUSTIFY"><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a>“Comunicado a favor de la libertad y neutralidad de la red”. Disponible en: <a href="https://www.change.org/es/peticiones/público-en-general-comunicado-a-favor-de-la-libertad-y-neutralidad-de-la-red">https://www.change.org/es/peticiones/p%C3%BAblico-en-general-comunicado-a-favor-de-la-libertad-y-neutralidad-de-la-red</a></p>
+</div>
+<div id="sdfootnote2">
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a>Castells, M. (2001). <i>La galaxia Internet</i>. España: Areté.</p>
+</div>
+<div id="sdfootnote3">
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a>Adam Fish (11/01/13) “The Internet: Who Built That?!” <a href="http://mediacultures.org/post/40250944767/the-internet-who-built-that">http://mediacultures.org/post/40250944767/the-Internet-who-built-that</a></p>
+</div>
+<div id="sdfootnote4">
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a>Almirón, N. (2002). <i>Los amos de la globalización. Internet y poder en la era de la información</i>. Barcelona, España: Plaza y Janés.</p>
+</div>
+<div id="sdfootnote5">
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a>Feenberg, A. (2002). <i>Transforming Technology. A Critical Theory Revisited</i>. EEUU: Oxford University Press.</p>
+</div>
+<div id="sdfootnote6">
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a>Winner, L. (1986) “¿Tienen política los artefactos?”. En <i>La ballena y el reactor</i>. España: Gedisa.</p>
+</div>
+<div id="sdfootnote7">
+<p><a href="#sdfootnote7anc" name="sdfootnote7sym">7</a>Wu, T. (2003). &#8220;Network Neutrality, Broadband Discrimination&#8221;. <i>SSRN Electronic Journal</i>. Disponible en: <a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=388863">http://papers.ssrn.com/sol3/papers.cfm?abstract_id=388863</a></p>
+</div>
+<div id="sdfootnote8">
+<p><a href="#sdfootnote8anc" name="sdfootnote8sym">8</a>Wikipedia. “Tim Wu”. Disponible en: <a href="http://en.wikipedia.org/wiki/Tim_Wu">http://en.wikipedia.org/wiki/Tim_Wu</a>.</p>
+</div>
+<div id="sdfootnote9">
+<p align="JUSTIFY"><a href="#sdfootnote9anc" name="sdfootnote9sym">9</a>“Network neutrality is best defined as a network design principle. The idea is that a maximally useful public information network aspires to treat all content, sites, and platforms equally. This allows the network to carry every form of information and support every kind of application”. En: “Network Neutrality FAQ”. Disponible en: <a href="http://timwu.org/network_neutrality.html">http://timwu.org/network_neutrality.html</a></p>
+</div>
+<div id="sdfootnote10">
+<p><a href="#sdfootnote10anc" name="sdfootnote10sym">10</a>Jose Alcántara, J. (2011). La neutralidad de la Red. Y por qué es una pésima idea acabar con ella. Madrid: Sociedad de las Indias Electrónicas. Disponible en: <a href="http://lasindias.com/la-neutralidad-de-la-red">http://lasindias.com/la-neutralidad-de-la-red</a></p>
+</div>
+<div id="sdfootnote11">
+<p><a href="#sdfootnote11anc" name="sdfootnote11sym">11</a>Wikipedia. “Net Neutrality”. Disponible en: <a href="http://en.wikipedia.org/wiki/Net_neutrality">http://en.wikipedia.org/wiki/Net_neutrality</a></p>
+</div>
+<div id="sdfootnote12">
+<p><a href="#sdfootnote12anc" name="sdfootnote12sym">12</a>Peña, P. (2014) “Neutralidad de la red: ¿un problema entre privados?”. Disponible en: <a href="http://www.derechosdigitales.org/6995/neutralidad-de-la-red-un-problema-entre-privados/">http://www.derechosdigitales.org/6995/neutralidad-de-la-red-un-problema-entre-privados/</a></p>
+</div>
+<div id="sdfootnote13">
+<p align="JUSTIFY"><a href="#sdfootnote13anc" name="sdfootnote13sym">13</a>“I think it’s important to differentiate sharply between the principle of network neutrality and a network neutrality law &#8230; To my mind, the basic justification for any law on network neutrality is an economic justification &#8212; preventing behavior that may be narrowly beneficial for the carrier but that has negative spillovers for the economy and the nation”. En: “Network Neutrality FAQ”. Disponible en: <a href="http://timwu.org/network_neutrality.html">http://timwu.org/network_neutrality.html</a></p>
+</div>
+<div id="sdfootnote14">
+<p><a href="#sdfootnote14anc" name="sdfootnote14sym">14</a>Roca, S. y Montilla, M. (2013) &#8220;Significado de las tecnologías de información libres para el futuro de la sociedad venezolana&#8221;. Disponible en: <a href="http://www.rebelion.org/noticia.php?id=168981">http://www.rebelion.org/noticia.php?id=168981</a></p>
+</div>
+<div id="sdfootnote15">
+<p align="JUSTIFY"><a href="#sdfootnote15anc" name="sdfootnote15sym">15</a>República Bolivariana de Venezuela. Ley del Plan de la Patria. Segundo Plan Socialista de Desarrollo Económico y Social de la Nación 2013-2019. Publicado en Gaceta Oficial de la República Bolivariana de Venezuela No 6.118 Extraordinario, 4 de diciembre de 2013</p>
+</div>
+<div id="sdfootnote16">
+<p><a href="#sdfootnote16anc" name="sdfootnote16sym">16</a>Varsavsky, O. (2007). <i>Ciencia, política y cientificismo</i>. Caracas: Monte Ávila Editores.</p>
+</div>
+<div id="sdfootnote17">
+<p><a href="#sdfootnote17anc" name="sdfootnote17sym">17</a>Weisbrot, M. (2014). The truth about Venezuela: a revolt of the well-off, not a &#8216;terror campaign&#8217;. <i>The Guardian</i>. Disponible en: <a href="http://www.theguardian.com/commentisfree/2014/mar/20/venezuela-revolt-truth-not-terror-campaign">http://www.theguardian.com/commentisfree/2014/mar/20/venezuela-revolt-truth-not-terror-campaign</a></p>
+</div>
+<div id="sdfootnote18">
+<p><a href="#sdfootnote18anc" name="sdfootnote18sym">18</a>World Wide Web Foundation (2012). <i>Web Index</i>. Disponible en: <a href="http://thewebindex.org/2012/10/2012-Web-Index-Key-Findings.pdf">http://thewebindex.org/2012/10/2012-Web-Index-Key-Findings.pdf</a></p>
+</div>
+<div id="sdfootnote19">
+<p><a href="#sdfootnote19anc" name="sdfootnote19sym">19</a>Roca, S. (2013) “La Internet en Venezuela no es suficientemente libre, según voceros del norte”. Disponible en: <a href="http://www.rebelion.org/noticia.php?id=162665">http://www.rebelion.org/noticia.php?id=162665</a></p>
+</div>
+<div id="sdfootnote20">
+<p><a href="#sdfootnote20anc" name="sdfootnote20sym">20</a>Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura – UNESCO (2011). “Infocentros en Venezuela trabajando por la inclusión tecnológica”. Disponible en: <a href="http://www.unesco.org/new/es/unesco/themes/icts/single-view/news/infocentros_trabajando_por_la_inclusion_tecnologica/">http://www.unesco.org/new/es/unesco/themes/icts/single-view/news/infocentros_trabajando_por_la_inclusion_tecnologica/</a></p>
+</div>
+<div id="sdfootnote21">
+<p><a href="#sdfootnote21anc" name="sdfootnote21sym">21</a>Correo del Orinoco (08-11-2013). &#8220;Unesco entrega reconocimiento a Venezuela por el proyecto Canaima&#8221;. Disponible en: <a href="http://www.correodelorinoco.gob.ve/politica/unesco-entrega-reconocimiento-a-gobierno-bolivariano-por-proyecto-canaima/">http://www.correodelorinoco.gob.ve/politica/unesco-entrega-reconocimiento-a-gobierno-bolivariano-por-proyecto-canaima/</a></p>
+</div>
+<div id="sdfootnote22">
+<p align="JUSTIFY"><a href="#sdfootnote22anc" name="sdfootnote22sym">22</a>Por ejemplo, es un punto de acuerdo que “la autoridad de política en materia de política pública relacionada con Internet es un derecho soberano de los Estados”. Unión Internacional de Telecomunicaciones (2004). &#8220;Cumbre Mundial de la Sociedad de la Información. Declaración de Principios&#8221;. Disponible en: <a href="http://www.itu.int/wsis/docs/geneva/official/dop-es.html">http://www.itu.int/wsis/docs/geneva/official/dop-es.html</a></p>
+</div>
+<div id="sdfootnote23">
+<p><a href="#sdfootnote23anc" name="sdfootnote23sym">23</a>Diario.es. (2013) “La vigilancia en Internet avanza con la complicidad de los gobiernos”. Disponible en: <a href="http://www.eldiario.es/turing/vigilancia_y_privacidad/vigilancia-espionaje-mundo-paises_0_144186025.html">http://www.eldiario.es/turing/vigilancia_y_privacidad/vigilancia-espionaje-mundo-paises_0_144186025.html</a></p>
+</div>
+<div id="sdfootnote24">
+<p align="JUSTIFY"><a href="#sdfootnote24anc" name="sdfootnote24sym">24</a>Un informe de OpenNet Initiative coloca a Venezuela a la par de Brasil, Argentina y Colombia en cuanto a niveles de penetración, y señala que no existe evidencia de que en nuestro país se implemente rutinariamente el filtrado de redes. Open Net Initiative (20013). “Venezuela”. Disponible en: <a href="https://opennet.net/research/profiles/venezuela">https://opennet.net/research/profiles/venezuela</a></p>
+</div>
+<div id="sdfootnote25">
+<p><a href="#sdfootnote25anc" name="sdfootnote25sym">25</a>El Nacional. “Maduro moviliza a usuarios de Twitter contra el &#8220;golpe 2.0&#8243;”. Disponible en: <a href="http://www.el-nacional.com/tecnologia/redes_sociales/Maduro-moviliza-usuarios-Twitter-golpe_0_376762520.html">http://www.el-nacional.com/tecnologia/redes_sociales/Maduro-moviliza-usuarios-Twitter-golpe_0_376762520.html</a></p>
+</div>
+<div id="sdfootnote26">
+<p><a href="#sdfootnote26anc" name="sdfootnote26sym">26</a>Serrano, P (2014). “Venezuela y Twitter, la orgía desinformativa”. Disponible en: <a href="http://www.eldiario.es/zonacritica/Venezuela-Twitter-orgia-desinformativa_6_229987023.html">http://www.eldiario.es/zonacritica/Venezuela-Twitter-orgia-desinformativa_6_229987023.html</a></p>
+</div>
+<div id="sdfootnote27">
+<p><a href="#sdfootnote27anc" name="sdfootnote27sym">27</a>“Comunidades de Software Libre repudian la manipulación mediática y el uso de Internet para fomentar terrorismo contra Venezuela”. Disponible en: <a href="https://www.change.org/es-LA/peticiones/a-todas-y-todos-comunidades-de-software-libre-repudian-la-manipulación-mediática-y-el-uso-de-internet-para-fomentar-terrorismo-contra-venezuela">https://www.change.org/es-LA/peticiones/a-todas-y-todos-comunidades-de-software-libre-repudian-la-manipulaci%C3%B3n-medi%C3%A1tica-y-el-uso-de-internet-para-fomentar-terrorismo-contra-venezuela</a></p>
+</div>
+<div id="sdfootnote28">
+<p><a href="#sdfootnote28anc" name="sdfootnote28sym">28</a>#YoSoyRed (2014) “¿Bots rezando por Venezuela? Un análisis de #PrayForVenezuela y los TT de protesta del 12F y 13F”. Disponible en: <a href="http://yosoyred.com/2014/02/bots-rezando-por-venezuela-un-analisis-de-prayforvenezuela-y-los-tt-de-protesta-del-12f-y-13f/">http://yosoyred.com/2014/02/bots-rezando-por-venezuela-un-analisis-de-prayforvenezuela-y-los-tt-de-protesta-del-12f-y-13f/</a></p>
+</div>
+			</div><!-- .entry-content -->
+
+	<footer class="entry-meta">
+		This entry was posted in <a href="http://conocimientolibre.cenditel.gob.ve/category/neutralidad-tecnologica/" title="Ver todas las entradas publicadas en Neutralidad Tecnológica" rel="category tag">Neutralidad Tecnológica</a>, <a href="http://conocimientolibre.cenditel.gob.ve/category/politica-tecnologica/" title="Ver todas las entradas publicadas en Política tecnológica" rel="category tag">Política tecnológica</a>, <a href="http://conocimientolibre.cenditel.gob.ve/category/responsabilidad-tecnopolitica/" title="Ver todas las entradas publicadas en Responsabilidad tecnopolítica" rel="category tag">Responsabilidad tecnopolítica</a>, <a href="http://conocimientolibre.cenditel.gob.ve/category/soberania-tecnologica/" title="Ver todas las entradas publicadas en Soberanía Tecnológica" rel="category tag">Soberanía Tecnológica</a>, <a href="http://conocimientolibre.cenditel.gob.ve/category/tecnologias-libres/" title="Ver todas las entradas publicadas en Tecnologías Libres" rel="category tag">Tecnologías Libres</a> and tagged <a href="http://conocimientolibre.cenditel.gob.ve/tag/neutralidad-tecnologica/" rel="tag">Neutralidad Tecnológica</a>, <a href="http://conocimientolibre.cenditel.gob.ve/tag/politica-tecnologica/" rel="tag">Política tecnológica</a>, <a href="http://conocimientolibre.cenditel.gob.ve/tag/tecnologias-libres/" rel="tag">Tecnologías Libres</a> by <a href="http://conocimientolibre.cenditel.gob.ve/author/sroca/">sroca</a>. Bookmark the <a href="http://conocimientolibre.cenditel.gob.ve/2014/04/04/tras-el-velo-de-la-neutralidad-de-la-libertad-como-empresa-economica-a-la-libertad-como-bien-publico/" title="Permalink to Tras el velo de la “Neutralidad”: De la Libertad como empresa económica a la Libertad como bien público" rel="bookmark">permalink</a>.		
+			</footer><!-- .entry-meta -->
+</article><!-- #post-325 -->
+
+						<div id="comments">
+	
+	
+	
+									<div id="respond" class="comment-respond">
+				<h3 id="reply-title" class="comment-reply-title">Agregue un comentario <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2014/04/04/tras-el-velo-de-la-neutralidad-de-la-libertad-como-empresa-economica-a-la-libertad-como-bien-publico/#respond" style="display:none;">Cancelar respuesta</a></small></h3>
+									<form action="http://conocimientolibre.cenditel.gob.ve/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+																			<p class="comment-notes">Su dirección de correo no se hará público. Los campos requeridos están marcados <span class="required">*</span></p>							<p class="comment-form-author"><label for="author">Nombre <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" aria-required='true' /></p>
+<p class="comment-form-email"><label for="email">Correo <span class="required">*</span></label> <input id="email" name="email" type="text" value="" size="30" aria-required='true' /></p>
+<p class="comment-form-url"><label for="url">Sitio web</label> <input id="url" name="url" type="text" value="" size="30" /></p>
+<p class="comment-form-captcha">
+		<label for="captcha"><b>Captcha </b></label>
+		<span class="required">*</span>
+		<div style="clear:both;"></div>
+		<img src="http://conocimientolibre.cenditel.gob.ve/wp-content/plugins/captcha-code-authentication/captcha_code_file.php?rand=1787376933" />
+		<div style="clear:both;"></div>
+		<label for="captcha_code">Type the text displayed above:</label>
+		<input id="captcha_code" name="captcha_code" size="15" type="text" />
+		<div style="clear:both;"></div>
+		</p>												<p class="comment-form-comment"><label for="comment">Comentario</label> <textarea id="comment" name="comment" cols="45" rows="8" aria-required="true"></textarea></p>						<p class="form-allowed-tags">Usted puede utilizar las etiquetas <abbr title="Lenguaje de Marcado de Hipertexto">HTML</abbr> y atributos:  <code>&lt;a href=&quot;&quot; title=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=&quot;&quot;&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=&quot;&quot;&gt; &lt;strike&gt; &lt;strong&gt; </code></p>						<p class="form-submit">
+							<input name="submit" type="submit" id="submit" value="Publicar comentario" />
+							<input type='hidden' name='comment_post_ID' value='325' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+						</p>
+											</form>
+							</div><!-- #respond -->
+						
+</div><!-- #comments -->
+
+				
+			</div><!-- #content -->
+		</div><!-- #primary -->
+
+
+
+	</div><!-- #main -->
+
+	<footer id="colophon" role="contentinfo">
+
+			
+
+
+			<div id="site-generator">
+				<html>
+
+<div id="imagen">
+<img src="/wp-content/themes/Bicentenario/images/logo.png">
+</div>
+
+<TABLE id="tabla">
+<tr>
+<div id="enlaces_titulo"><p>Enlaces de interes</p></div>
+
+</tr>
+
+     <TR>
+
+	
+
+          <TD><ul id="menu1">
+	<li><a href="http://www.mct.gob.ve/" target="_blank" alt="Ministerio del Poder Popular para Ciencia, Tecnología e Industrias Intermedias" title="Ministerio del Poder Popular para Ciencia, Tecnología e Industrias Intermedias">MppCTii</a></li>
+	<li> <a href="http://www.me.gob.ve/" target="_blank" alt="Ministerio del Poder Popular para la Educación" title="Ministerio del Poder Popular para la Educación">MppE</a></li>
+	<li> <a href="http://www.fundacite-merida.gob.ve" target="_blank" alt="Fundacite Mérida" title="Fundacite Mérida">Fundacite</a></li>
+	<li> <a href="http://www.fidetel.gob.ve" target="_blank" alt="Fondo de Investigación y Desarrollo de las Telecomunicaciones" title="Fondo de Investigación y Desarrollo de las Telecomunicaciones">FIDETEL</a> </li>
+</ul> </TD> 
+
+	<TD> <ul id="menu2">
+	<li><a href="http://www.minci.gob.ve" target="_blank" alt="Ministerio del Poder Popular para la Comunicacion e Informacion" title="Ministerio del Poder Popular para la Comunicacion e Informacion">Minci</a></li>
+	<li> <a href="http://www.minamb.gob.ve/" target="_blank" alt="Ministerio del Poder Popular para el Ambiente" title="Ministerio del Poder Popular para el Ambiente">MppA</a></li>
+	<li> <a href="http://www.cnti.gob.ve" target="_blank" alt="Centro Nacional de Tecnologías de Información" title="Centro Nacional de Tecnologías de Información">Cnti</a></li>
+	<li> <a href="http://www.mpcomunas.gob.ve" target="_blank" alt="Ministerio del Poder Popular para las Comunas y Protección Social" title="Ministerio del Poder Popular para las Comunas y Protección Social">MppCPS</a> </li>
+</ul></TD>
+     
+	<TD><ul id="menu3">
+	<li><a href="http://www.ministeriodelacultura.gob.ve" target="_blank" alt="Ministerio del Poder Popular para la Cultura" title="Ministerio del Poder Popular para la Cultura">MppC</a></li>
+	<li> <a href="http://www.mppeu.gob.ve/" target="_blank" alt="Ministerio del Poder Popular para la Educación Universitaria" title="Ministerio del Poder Popular para la Educación Universitaria">MppEU</a></li>
+	<li> <a href="http://www.suscerte.gob.ve" target="_blank" alt="Superintendencia de Servicios de Certificación Electrónica" title="Superintendencia de Servicios de Certificación Electrónica">SUSCERTE</a> </li>
+	<li> <a href="http://www.cantv.net/" target="_blank" alt="CANTV" title="CANTV"> CANTV</a></li>
+	</ul> </TD> 
+
+      </TR> 
+</TABLE>
+<div id="pie">
+<p>
+FUNDACIÓN CENTRO NACIONAL DE DESARROLLO E INVESTIGACIÓN EN TECNOLOGÍAS LIBRES (CENDITEL) Avenida Alberto Carnevali, vía La Hechicera, Edificio CENDITEL. Teléfono: (0274)6574336 - 6574958. Apartado Postal: 078. Código Postal: 5101A. RIF: G-20007349-7. Mérida-Venezuela</p>
+</div>
+
+</html>
+
+
+		
+			
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+</body>
+</html>

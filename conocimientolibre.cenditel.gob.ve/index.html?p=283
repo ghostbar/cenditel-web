@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="es-PE">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="es-PE">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="es-PE">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="es-PE">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>¿Pueden las tecnologías libres ayudarnos a superar el rentismo petrolero? | Conocimiento Libre</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="stylesheet" type="text/css" media="all" href="http://conocimientolibre.cenditel.gob.ve/wp-content/themes/proyecto_communita/style.css" />
+<link rel="pingback" href="http://conocimientolibre.cenditel.gob.ve/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="http://conocimientolibre.cenditel.gob.ve/wp-content/themes/proyecto_communita/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+<link rel="alternate" type="application/rss+xml" title="Conocimiento Libre &raquo; Feed" href="http://conocimientolibre.cenditel.gob.ve/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Conocimiento Libre &raquo; Feed de comentarios" href="http://conocimientolibre.cenditel.gob.ve/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Conocimiento Libre &raquo; ¿Pueden las tecnologías libres ayudarnos a superar el rentismo petrolero? Feed de comentarios" href="http://conocimientolibre.cenditel.gob.ve/2014/01/31/pueden-las-tecnologias-libres-ayudarnos-a-superar-el-rentismo-petrolero/feed/" />
+<link rel='stylesheet' id='rbanner-css-css'  href='http://conocimientolibre.cenditel.gob.ve/wp-content/plugins/random-banner//css/rbanner.css?ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='videojs-plugin-css'  href='http://conocimientolibre.cenditel.gob.ve/wp-content/plugins/videojs-html5-video-player-for-wordpress/plugin-styles.css?ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='videojs-css'  href='http://conocimientolibre.cenditel.gob.ve/wp-content/plugins/videojs-html5-video-player-for-wordpress/videojs/video-js.css?ver=3.6.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://conocimientolibre.cenditel.gob.ve/wp-includes/js/comment-reply.min.js?ver=3.6.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://conocimientolibre.cenditel.gob.ve/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://conocimientolibre.cenditel.gob.ve/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='En homenaje a Salvador Allende y al pueblo chileno. Una pregunta en torno a nuestro destino y nuestra obligación.' href='http://conocimientolibre.cenditel.gob.ve/2014/01/12/en-homenaje-a-salvador-allende-y-al-pueblo-chileno-nuestra-responsabilidad-como-tecnicos/' />
+<link rel='next' title='¿Por qué el Proyecto Canaima Bicentenario?' href='http://conocimientolibre.cenditel.gob.ve/2014/02/13/por-que-el-proyecto-bicentenario/' />
+<meta name="generator" content="WordPress 3.6.1" />
+<link rel='canonical' href='http://conocimientolibre.cenditel.gob.ve/2014/01/31/pueden-las-tecnologias-libres-ayudarnos-a-superar-el-rentismo-petrolero/' />
+<link rel='shortlink' href='http://conocimientolibre.cenditel.gob.ve/?p=283' />
+
+		<script type="text/javascript">
+			if(typeof videojs != "undefined") {
+				videojs.options.flash.swf = "http://conocimientolibre.cenditel.gob.ve/wp-content/plugins/videojs-html5-video-player-for-wordpress/videojs/video-js.swf";
+			}
+			document.createElement("video");document.createElement("audio");document.createElement("track");
+		</script>
+			<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+</head>
+
+<body class="single single-post postid-283 single-format-standard singular two-column right-sidebar">
+<div id="page" class="hfeed">
+	<header id="branding" role="banner">
+			<hgroup>
+				<h1 id="site-title"><span><a href="http://conocimientolibre.cenditel.gob.ve/" title="Conocimiento Libre" rel="home">Conocimiento Libre</a></span></h1>
+				<h2 id="site-description">Reflexiones críticas para la apropiación del Conocimiento Libre en Venezuela</h2>
+			</hgroup>
+
+						<a href="http://conocimientolibre.cenditel.gob.ve/">
+									<img src="http://conocimientolibre.cenditel.gob.ve/files/2013/05/cropped-Obra-Mural-CENDITEL-web.jpg" width="1000" height="288" alt="" />
+							</a>
+			
+								<form method="get" id="searchform" action="http://conocimientolibre.cenditel.gob.ve/">
+		<label for="s" class="assistive-text">Search</label>
+		<input type="text" class="field" name="s" id="s" placeholder="Search" />
+		<input type="submit" class="submit" name="submit" id="searchsubmit" value="Search" />
+	</form>
+			
+			<nav id="access" role="navigation">
+				<h3 class="assistive-text">Main menu</h3>
+								<div class="skip-link"><a class="assistive-text" href="#content" title="Skip to primary content">Skip to primary content</a></div>
+				<div class="skip-link"><a class="assistive-text" href="#secondary" title="Skip to secondary content">Skip to secondary content</a></div>
+								<div class="menu"><ul><li ><a href="http://conocimientolibre.cenditel.gob.ve/" title="Inicio">Inicio</a></li><li class="page_item page-item-2"><a href="http://conocimientolibre.cenditel.gob.ve/elblog/">Sobre el Blog</a></li></ul></div>
+			</nav><!-- #access -->
+	</header><!-- #branding -->
+
+
+	<div id="main">
+		<div id="primary">
+			<div id="content" role="main">
+
+				
+					<nav id="nav-single">
+						<h3 class="assistive-text">Post navigation</h3>
+						<span class="nav-previous"><a href="http://conocimientolibre.cenditel.gob.ve/2014/01/12/en-homenaje-a-salvador-allende-y-al-pueblo-chileno-nuestra-responsabilidad-como-tecnicos/" rel="prev"><span class="meta-nav">&larr;</span> Previous</a></span>
+						<span class="nav-next"><a href="http://conocimientolibre.cenditel.gob.ve/2014/02/13/por-que-el-proyecto-bicentenario/" rel="next">Next <span class="meta-nav">&rarr;</span></a></span>
+					</nav><!-- #nav-single -->
+
+					
+<article id="post-283" class="post-283 post type-post status-publish format-standard hentry category-fortalecimiento-colaborativo category-ley-de-infogobierno category-politica-tecnologica category-tecnologias-libres tag-ley-de-infogobierno tag-politica-tecnologica tag-software-libre tag-tecnologias-libres">
+	<header class="entry-header">
+		<h1 class="entry-title">¿Pueden las tecnologías libres ayudarnos a superar el rentismo petrolero?</h1>
+
+				<div class="entry-meta">
+			<span class="sep">Posted on </span><a href="http://conocimientolibre.cenditel.gob.ve/2014/01/31/pueden-las-tecnologias-libres-ayudarnos-a-superar-el-rentismo-petrolero/" title="10:14 pm" rel="bookmark"><time class="entry-date" datetime="2014-01-31T22:14:19+00:00" pubdate>Enero 31, 2014</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="http://conocimientolibre.cenditel.gob.ve/author/sroca/" title="View all posts by sroca" rel="author">sroca</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p style="text-align:right">Santiago José Roca</p>
+<p style="text-align:justify"><strong>Introducción: El rentismo como problema del trabajo, la producción y la cultura</strong></p>
+<p style="text-align:justify">La economía venezolana puede caracterizarse como una economía de capitalismo rentístico, es decir, una economía basada en la obtención de la renta internacional proveniente de la explotación mineral. Con ello, el Estado venezolano tiene una participación importante en el comercio mundial como exportador de materia prima pero, en contraste, se reduce la importancia de otros factores de producción, tales como el capital y el trabajo. De este modo, se crean ciertas distorsiones en el esquema de producción capitalista, tales como la disociación entre la inversión productiva y la obtención de excedentes, los cuales son sustituidos por la renta (Baptista, 2010, 143-146). Así, en una economía como ésta, es posible que los excedentes y los salarios no se correspondan proporcionalmente con la inversión y con el trabajo realizados, respectivamente.</p>
+<p style="text-align:justify">Por lo tanto, el rentismo aparece para nosotros como problema en dos sentidos: en cuanto que afecta la materialización de cadenas productivas sostenibles, dadas las irregularidades que crea en la economía doméstica; y en cuanto que contribuye con la creación de una cultura productiva parasitaria, que no encuentra relación entre el esfuerzo y el logro, y que considera que los resultados deben ser – por norma – proporcionalmente más altos que la inversión. Tomando en cuenta ambas dimensiones, puede decirse que el rentismo es un problema de producción material y de cultura productiva.</p>
+<p style="text-align:justify">Ciertamente, el problema del rentismo no es desconocido en el contexto institucional venezolano. El Plan de la Patria señala, como parte del Gran Objetivo Histórico N° 2, el imperativo de construir el Socialismo Bolivariano como alternativa al modelo capitalista. Para ello se propone el objetivo de trascender del “modelo rentista petrolero capitalista hacia el modelo económico productivo socialista” (2.1.); así como también fomentar una “cultura del trabajo que se contraponga al rentismo petrolero, desmontando la estructura oligopólica y monopólica existente” (2.1.4.). Dentro de este último objetivo, se propone particularmente “construir una cultura del trabajo que se contraponga al rentismo mediante el impulso de la formación desde la praxis del trabajo, conciencia del trabajador y trabajadora, como sujetos activos del proceso de transformación y participación democrática del trabajo, orientada a los más altos intereses nacionales” (2.1.4.1.) . De tal forma que también en el Plan se comprende el rentismo como un asunto que atañe tanto a las actividades socioeconómicas como a la cultura de la producción y del trabajo.</p>
+<p style="text-align:justify">Tomando en cuenta que en nuestro país tenemos una estructura productiva dependiente de la renta, nos preguntamos cuál puede ser el aporte del conocimiento y de las tecnologías libres en la creación de un tejido socioproductivo alternativo, mucho más independiente del papel redistribuidor del Estado, y que encarne formas educación y de producción de bienes tangibles e intangibles que se hallen más allá de los límites del capitalismo. Nos preguntamos, en suma, sobre el aporte del conocimiento y las tecnologías libres a la construcción de un sistema de relaciones sociales post-capitalistas adaptado a la realidad venezolana.</p>
+<p style="text-align:justify"><strong>¿De cuáles tecnologías libres estamos hablando?</strong></p>
+<p style="text-align:justify">Ahora bien, ¿a qué nos referimos cuando hablamos de “tecnologías libres”? La Ley de Infogobierno, aprobada en el 2013, puede servirnos como referencia para una aproximación. De acuerdo con el artículo 5 de la Ley, el Conocimiento Libre se define como “todo aquel conocimiento que puede ser aprendido, interpretado, aplicado, enseñado y compartido libremente y sin restricciones” (numeral 4). Así mismo, las tecnologías de información libres son definidas como “aquellas tecnologías con estándares abiertos que garantizan el acceso a todo el código fuente y la transferencia del conocimiento asociado para su comprensión; libertad de modificación; libertad de uso en cualquier área, aplicación o propósito y libertad de publicación del código fuente y sus modificaciones” (numeral 18).</p>
+<p style="text-align:justify">En consonancia con esto, el software libre se comprende como la categoría de los programas informáticos “cuya licencia el autor o desarrollador garantiza al usuario el acceso al código fuente y lo autoriza a usar el programa con cualquier propósito, copiarlo, modificarlo y redistribuirlo con o sin modificaciones, preservando en todo caso el derecho moral al reconocimiento de autoría” (numeral 16). Y así mismo, se entiende el hardware libre como la categoría de los “dispositivos de hardware, componentes electrónicos o mecánicos &#8230; cuyas especificaciones y diagramas esquemáticos son de acceso público, garantizando el total acceso al conocimiento de su funcionamiento y fabricación, y que reconociendo los derechos de autor, no están sometidos a normativas legales del sistema de patentes de apropiación privativa” (numeral 8), y donde rigen las libertades análogas a las del software libre.</p>
+<p style="text-align:justify">Las tecnologías libres también se encuentran integradas en el Plan de Desarrollo Económico y Social de la Nación 2013-2019 (Plan de la Patria). Allí formula el objetivo estratégico de “impulsar el desarrollo y uso de equipos electrónicos y aplicaciones informáticas en tecnologías libres y estándares abiertos” (1.5.3); para lo cual se proponen los objetivos generales de “garantizar el impulso de la formación y transferencia de conocimiento” (1.5.3.1); garantizar en el ámbito estatal “el uso de equipos electrónicos y aplicaciones informáticas en tecnologías libres y estándares abiertos” (1.5.3.2); e impulsar “la creación de centros tecnológicos en centros educativos, universitarios, técnicos, medios que garanticen procesos formativos integrales y continuos (1.5.3.3)”.</p>
+<p style="text-align:justify">Vemos que, en general, el conocimiento libre se define normativamente como una concepción en la cual el conocimiento puede ser comprendido y compartido sin restricciones excluyentes. Dichas restricciones suelen ser definidas como de dos tipos: jurídicas, cuando toca a las normas que rigen la generación y uso de las manifestaciones y productos del conocimiento (como las leyes de propiedad intelectual basadas en el derecho capitalista); y económicas, cuando se establecen barreras mercantiles para el acceso y la apropiación social del conocimiento (como el pago de regalías y de licencias de uso).</p>
+<p style="text-align:justify">No obstante, las restricciones para el acceso al conocimiento también pueden ser sociales, en cuanto a que las diferencias generadas por la distribución desigual de bienes tangibles e intangibles se convierten en obstáculo para la generación y la apropiación del saber. En este sentido es que la democratización y la socialización del conocimiento son prioridades políticas que contribuyen a fomentar el desarrollo humano integral. No se trata de generar condiciones de “acceso” como si el problema consistiera en adquirir bienes en el mercado, sino de generar condiciones de apropiación social del conocimiento. Por lo tanto, visto así, el saber se arranca del sistema conceptual capitalista y de la jurisprudencia mercantil, en el cual se espera que el conocimiento y la tecnología sean producidos en un marco de la desregulación política y sean objeto de transacciones entre ofertantes y demandantes. El surgimiento del conocimiento y las tecnologías libres dependen no sólo del conjunto de libertades definidas formalmente, puesto que éstas son consecuencia del margen de democracia política y de justicia social que exista en un contexto determinado.</p>
+<p style="text-align:justify">Es necesario reparar también en que, al hablar de conocimiento y tecnología, no podemos circunscribirnos solamente a la dimensión física de dispositivos de software y hardware. La tecnología posee una dimensión social que incluye el saber tácito asociado al manejo de los instrumentos, los modos organizacionales para la producción de bienes tangibles e intangibles, e incluso las formas de imbricación de los sistemas tecnológicos en la vida social. La preeminencia de la racionalidad funcional y el criterio de eficacia abren cauces para un cierto determinismo tecnológico, y éste suele llevarnos a pensar que los dispositivos son cosas en sí mismas, que encuentran su razón de ser en su funcionalidad, y por lo cual perdemos de vista el contexto en el que surgen como resultado de la fusión entre intereses, valores y códigos técnicos. De ahí que sea más común ver la tecnología como un producto material, o un efecto, que como resultado de un proceso o de una conjunción de procesos humanos (Feenberg, 2002). En el sistema de producción capitalista, la tecnología es resultado de fuerzas sociales en pugna, una de cuyas expresiones, aunque no la única, es la competencia en el mercado, pero donde también se encuentra un ecosistema de agentes que influyen en el diseño y la manufactura de dispositivos y sistemas tecnológicos, tales como los gobiernos, las asociaciones de intereses, y los propios usuarios.</p>
+<p style="text-align:justify">Al decir esto, queremos hacer énfasis que el conocimiento y las tecnologías, para ser libres, deben ser más que “accesibles”, y que el grado de “accesibilidad” responde a determinadas coyunturas sociales en las cuales se decide, en condiciones políticas (por medio de la lucha y el consenso), de qué modo se desplegarán los procesos de generación y circulación de saberes, la distribución de bienes y, en suma, los fines hacia los cuales se mueve una sociedad. Por lo tanto una tecnología será no sólo accesible, sino liberadora, en cuanto que forma parte de procesos de emancipación y desarrollo integral del ser humano. Como señaló hace un tiempo un activista del conocimiento libre, además de ser de “código abierto”, el software libre (con sentido socialista) debe ser: “libre de capital, libre de compañías, libre del mercado, libre de la propiedad, libre de burocratismo y libre de explotación” (Samán, 2007).</p>
+<p style="text-align:justify">Visto así, el conocimiento y las tecnologías libres son el resultado de procesos de creación de valor social. En particular, son el resultado de ciclos de desenvolvimiento del saber y del trabajo humano. Porque ¿qué es el conocimiento, sino una forma de expresión y acumulación del trabajo? Trabajo vivo en el quehacer de los trabajadores intelectuales y manuales, en la forma de saber tácito. Trabajo también en el saber acumulado por generaciones, en la forma de saber explícito y estructurado. Trabajo cosificado en efectos materiales que también involucran el saber, tales como la manufactura de maquinarias, equipos, y los propios sistemas tecnológicos automatizados. Trabajo, en fin, traducido en un bien cultural como resultado de la suma, combinación y revolución de códigos cognitivos y el encuentro entre culturas que han participado y participan en su construcción como bien común.</p>
+<p style="text-align:justify">De ahí que si entendemos el conocimiento como resultados de procesos de construcción social, debemos preguntarnos por la estructura y el fondo de tales procesos, para rescatar en el saber lo que puede ayudar a reconocer la historia de nuestra constitución colectiva. Y así mismo, ayudar a que esta forma de consciencia nos ayude a formular modos de conocimiento que contribuyan con el devenir de nuestra sociedad, en un sentido que contribuya a hacerla más democrática e igualitaria. Tomemos por caso una aplicación de software. El software es una forma de reproducción de la vida social porque toma parte de actividades que tributan al mantenimiento de la innumerables actividades cotidianas. Si no estamos conscientes de ello, el hecho de que el software sea de código abierto tendrá poca importancia, porque una aplicación libre podrá servir igualmente para mediar en el despliegue de procesos de explotación que, antes de perpetuar irreflexivamente, deberíamos criticar. De ahí que la construcción del conocimiento y las tecnologías libres requiera un componente crítico que claramente no aparece allí donde se considera que la tecnología es sobre todo un efecto material y una mercancía.</p>
+<p style="text-align:justify">Por todo esto, el desarrollo de software libre, hardware libre y de modos organizacionales abiertos, representa una oportunidad no solamente para apoyar la apropiación social del conocimiento, sino incluso para revisar y transformar los procesos de producción social de bienes tangibles e intangibles; o en otras palabras, los modos de trabajo, de creación de cultura, y de generación de valor social. Las tecnologías libres vienen aparejadas con discusiones en torno a la propiedad, las leyes, el trabajo, el comercio, la energía, la educación, la comunicación, los métodos de investigación, entre muchos otros, que pueden servir como palanca para la formulación de propuestas y alternativas a los modelos hegemónicos. Y abren la posibilidad de implementar formas novedosas de organización para el aprendizaje, el trabajo y la producción. Por lo tanto, volviendo a nuestro tema, las tecnologías libres pueden ayudarnos a revisar en qué consiste el problema del rentismo y cómo hacer para superarlo, especialmente en cuanto que lo consideramos como un problema productivo y cultural.</p>
+<p style="text-align:justify">Para integrar el tema de las tecnologías libres con el problema del rentismo hay que comenzar por conocer qué cosas se encuentran alrededor del concepto de tecnologías libres, y reconocer que tal categoría encierra no sólo varias propuestas de producción de bienes tecnológicos (incluso divergentes, como en el caso de los movimientos de software libre), sino que también incluye un campo heterogéneo de ideas del campo de la filosofía política.</p>
+<p style="text-align:justify"><strong>Propuestas de integración del conocimiento libre en un marco nacional</strong></p>
+<p style="text-align:justify">Revisemos un ejemplo de cómo puede integrarse el fomento de las tecnologías libres con un marco de fortalecimiento político y económico nacional. Recientemente, Ecuador ha anunciado la intención de desplegar un proyecto de construcción de una economía social basada en el conocimiento libre. Dicho proyecto toma como eje el concepto de Yumak Kawsay, o Buen Conocer, el cual a su vez tiene referencia en el concepto de Sumak Kawsay, o Buen Vivir. El Buen Vivir se basa en una concepción alternativa de desarrollo socioeconómico, ajena al reduccionismo de los enfoques modernos del desarrollo. Tal concepto ilustra la mira estratégica del Plan Nacional de Desarrollo de Ecuador, o Plan Nacional para el Buen Vivir 2013-2017. En los términos de dicho Plan:</p>
+<p style="text-align:justify"><em>El Buen Vivir o Sumak Kawsay es una idea movilizadora que ofrece alternativas a los problemas contemporáneos de la humanidad. El Buen Vivir construye sociedades solidarias, corresponsables y recíprocas que viven en armonía con la naturaleza, a partir de un cambio en las relaciones de poder. El Sumak Kawsay fortalece la cohesión social, los valores comunitarios y la participación activa de individuos y colectividades en las decisiones relevantes para la construcción de su propio destino y felicidad. Se fundamenta en la equidad con respeto a la diversidad, cuya realización plena no puede exceder los límites de los ecosistemas que la han originado (&#8230;) El Buen Vivir no postula el no desarrollo, sino que aporta a una visión distinta de la economía, la política, las relaciones sociales y la preservación de la vida en el planeta. El Buen Vivir promueve la búsqueda comunitaria y sustentable de la felicidad colectiva, y una mejora de la calidad de vida a partir de los valores (p. 23).</em></p>
+<p style="text-align:justify">De tal forma que el Plan de Desarrollo toma como base una concepción holística del desarrollo que tiene como centro al ser humano, en contraste con la concepción de las teorías del desarrollo contemporáneas, típicamente reduccionistas, y que se enfocan en factores aislados como el crecimiento económico. Y aún más, representa una ruptura con modelos de crecimiento basados en la exportación de materia prima, y por tanto, se trata de una postura crítica frente a los modelos de crecimiento exógeno y el extractivismo petrolero. En otro pasaje se afirma, en cuanto al trabajo y la producción, lo siguiente:</p>
+<p style="text-align:justify"><em>El Socialismo del Buen Vivir cuestiona el patrón de acumulación hegemónico, es decir, la forma neoliberal de producir, crecer y distribuir. Proponemos la transición hacia una sociedad en la que la vida sea el bien supremo. Afirmamos la supremacía del trabajo – fin mismo de la producción y base para desplegar el talento – sobre el capital. En el trabajo nos reconocemos como seres sociales y como actores creativos, en ejercicio de derechos y libertades (ibidem, p. 24).</em></p>
+<p style="text-align:justify">La generación de conocimientos en este marco se encuentra orientada de la siguiente manera:</p>
+<p style="text-align:justify"><em>La estrategia de acumulación, distribución y redistribución, en concordancia con el Programa de Gobierno 2013-2017, propone una gestión del “conocimiento común y abierto”. Este modelo de gestión incluye la generación de ideas creativas, su aprovechamiento, la potencial producción de nuevos bienes y servicios y la distribución de sus beneficios. La gestión del conocimiento – visto como un bien público, común y abierto – expresa un principio según el mandato constitucional y es económicamente más eficiente que los modelos cerrados (ibidem, p. 67).</em></p>
+<p style="text-align:justify">Este enfoque ha nutrido la fundamentación de una estrategia de construcción de una sociedad del conocimiento común y abierto. Formalmente, tal proyecto, denominado Free/Libre Open Knowledge Society parte de que “no puede existir una política del ‘buen vivir’ que no está inspirada y enraizada en un conocimiento libre y abierto y en un próspero procomún” (FLOK, 2013). Como proyecto, es dirigido por el Ministerio Coordinador de Conocimiento y Talento Humano, la Secretaría Nacional de Educación Superior, Ciencia, Tecnología e Innovación (SENESCYT) y el Instituto de Altos Estudios Nacionales (IAEN); y cuenta con colectivo de asesores internacionales y especialistas nacionales como el vocero de la Fundación P2P, Michel Bawens, entre otros personajes.</p>
+<p style="text-align:justify">El fondo conceptual del proyecto se encuentra en la oposición entre el capitalismo cognitivo y el Buen Conocer. El capitalismo cognitivo es la manera en que el sistema de producción capitalista rige la generación y circulación de conocimientos, y está basado fundamentalmente en la división internacional del trabajo. Uno de los tópicos característicos del capitalismo cognitivo es la mercantilización del conocimiento, esto es, la creación de barreras artificiales para el acceso al conocimiento, tales como las patentes y el pago de licencias de uso. La lógica del capitalismo cognitivo persigue la maximización de la renta, por lo que, aunque la dinámica de las “economías del conocimiento” sea distintiva en un nivel superficial, el manejo de factores como el saber y el trabajo sigue fundamentalmente las pautas del capitalismo monopólico. Por otro lado, el capitalismo cognitivo es igualmente afín con el capitalismo dependiente (extractivista, rentista). Por estas cuestiones, el capitalismo cognitivo – y los estados-corporaciones como sujetos privilegiados en este sistema – encuentran opositores entre los defensores del conocimiento libre.</p>
+<p style="text-align:justify">En cuanto a lo que nos interesa observar, el proyecto FLOK-Society conjuga el interés de integrar una propuesta de económica que persigue objetivos políticos, con los medios y las herramientas que proporciona el enfoque del conocimiento libre. Nos merece especial atención la integración del ideal de Buen Vivir con la filosofía del conocimiento libre. En uno de los documentos bases del proyecto se explica lo siguiente:</p>
+<p style="text-align:justify"><em>En esta apuesta convergen dos grandes proyectos políticos: el del buen vivir de la revolución ciudadana de Ecuador, por un lado, y el del movimiento del software y cultura libre por otro. El primero recupera el concepto de Sumak Yachay de la cultura indígena andina como eje programático para una revolución ciudadana: definir y desarrollar una transformación social basada en el equilibrio con la naturaleza y las relaciones humanas que permite el florecimiento personal sin excluir ni someter a la naturaleza o al ser humano. El segundo gran proyecto político surge de la cultura hacker y del movimiento copyleft, el P2P y la defensa del procomún en la era tecnológica: la democratización del conocimiento y la técnica a través de las redes electrónicas, el empoderamiento social a través de los ilimitados recursos del conocimiento y la técnica e impulsados por la cooperación socio-técnica distribuida. Los logros y servicios que la comunidad internacional del software libre han generado en los últimos 20 años son el mejor ejemplo de gestión del conocimiento y de una economía productiva del Buen Vivir (Barandiaran y Vázquez, 2013, 7).</em></p>
+<p style="text-align:justify">¿Qué podemos aprender de propuestas como ésta en cuanto a la aplicación de los conceptos de conocimiento y tecnologías libres? Por una parte, hallamos que existen modos de conjugar el cultivo del conocimiento libre con estrategias de desenvolvimiento educativo y productivo en una escala nacional, tal como lo están haciendo en Ecuador y como se ha planteado también en Venezuela, que cuenta con varios años de experiencia en políticas orientadas al fomento del conocimiento libre.</p>
+<p style="text-align:justify">Así mismo, nos parece que, considerando el conocimiento y la tecnología como expresiones de los procesos de producción, de educación y de trabajo, es posible utilizar el enfoque del conocimiento libre para subvertir la matriz de relaciones capitalistas que afectan la creación de valor social, particularmente en cuanto a la generación de conocimiento, los regímenes de propiedad y la cultura del trabajo. De ahí la posibilidad de proponer modos para la superación del rentismo a partir del estudio de los modelos organizacionales que sirven de apoyo para la generación de tecnologías libres. Ejemplos de los temas que pueden aportar en esta materia son las iniciativas por el acceso abierto y el cultivo de los bienes comunes, los esquemas de trabajo abierto y colaborativo, formas novedosas de construcción colectiva de conocimiento a través de la comunicación digital, y las propuestas de producción distribuida.</p>
+<p style="text-align:justify">Y finalmente, concluimos también que las estrategias derivadas del conocimiento libre no tienen como objeto solamente la transformación de las cadenas productivas y de estrategias de enseñanza-aprendizaje, aunque se sirvan de ellas, sino que enfrentan los códigos y las relaciones económicas, políticas y culturales que son hegemónicos en el sistema capitalista. En este sentido, para ser coherente, la lucha por el conocimiento libre es una lucha por la emancipación del saber y del trabajo, que busca transformar las relaciones de convivencia y de creación de valor, apuntando a fomentar una manera diferente de entender el desarrollo humano y la propia civilización.</p>
+<p style="text-align:justify"><strong>¿Existen límites ideológicos en torno al conocimiento y las tecnologías libres?</strong></p>
+<p style="text-align:justify">Pensamos que así es. Sacando a ciertos empresarios capitalistas, que encuentran en las tecnologías libres un bien que puede capitalizarse en el mercado, entre quienes defienden el uso de tecnologías de información libres se encuentran quienes lo hacen desde una postura crítica hacia el capitalismo, sea porque se declaren detractores del capitalismo como sistema de relaciones socioeconómicas y culturales, o sea porque tienen una posición en contra el capitalismo contemporáneo, eminentemente monopólico. Existen diferencias entre ambas posturas. Haciendo una generalización arriesgada, podemos decir que entre los primeros se encuentran quienes abogan por un sistema de relaciones post-capitalistas, mientras que en el otro grupo se encuentran quienes no critican al capitalismo en sí, sino el dominio que tienen las grandes empresas en los mercados capitalistas. A estos podríamos comprenderlos más bien como hiper-capitalistas, y sus propuestas – basadas en el conocimiento libre – apuntan a construir lo que podríamos entender como un capitalismo de multitudes (y no de corporaciones).</p>
+<p style="text-align:justify">La distinción nos parece pertinente. No es lo mismo intentar cambiar las relaciones para transformar el sistema, que intentar modificar determinadas relaciones pero siempre dentro del sistema. Los activistas por la cultura libre pueden oponerse a la creación de barreras artificiales al acceso al conocimiento, tales como las licencias y las regalías. Tales barreras son obstáculos para la participación de más productores en el mercado y su eliminación conduciría hipotéticamente a un mercado más equitativo. Pero esto no necesariamente implica el cuestionamiento los modelos de desarrollo incrementalistas y extractivistas. El conocimiento libre, en sociedades como las nuestras, debe apuntar a la consolidación de prácticas económicas que garanticen la preeminencia de los derechos fundamentales y no se conviertan en herramienta para la exclusión social. De ahí que nuestra forma de comprender el conocimiento libre debe ser tan amplia como la del pensamiento post-capitalista y, por qué no, con un enfoque ecosocialista.</p>
+<p style="text-align:justify">Pero existe otro aspecto que nos llama más la atención. Algunos defensores del conocimiento libre se apoyan en una narrativa que supone el fin de las sociedades nacionales. Pero la narrativa de la supresión de las sociedades nacionales ha conducido precisamente al auge de las políticas neoliberales y a la expansión del control de las corporaciones. La crisis capitalista en Europa fue causada en parte por la desnacionalización de la vida en común; esto es, por la pérdida de soberanía popular sobre los asuntos públicos. En nuestro contexto, la posibilidad de encontrarnos en comunidad representa una fortaleza, y las propuestas de implementar modelos basados en las tecnologías libres deben enfocarse en la cohesión de las sociedades nacionales y en la integración nuestroamericana (incluyendo la integración Sur-Sur). Evidentemente, esto no significa negarse a la integración en redes transfronterizas, lo cual incluso forma parte de la dimensión internacionalista y anticapitalista del conocimiento libre. Pero es necesario insistir en que la soberanía sobre los asuntos económicos, tecnológicos y culturales de una sociedad deriva de la soberanía política, es decir, de la capacidad que tenga una sociedad para decidir sus propios asuntos y dar respuestas a sus necesidades.</p>
+<p style="text-align:justify">Por lo tanto, la mejor garantía de que el conocimiento sea libre es que la comunidad conserve la soberanía sobre sus propios asuntos y lo decida así, en el mejor sentido que proporciona el concepto de democracia directa. Ya en el 2006, el entonces Presidente Hugo Chávez nos decía: “Esto de la propiedad intelectual no es más que una trampa (&#8230;) El conocimiento no puede ser privatizado. El conocimiento es universal como la luz del sol”; y entonces pedía colaboración a los activistas y las empresas para “la creación de software, nuestro software, software libre” (2010). “Libre” no solamente porque fuera de acceso abierto, sino sobre todo porque fuera “nuestro”: un bien común que responda a nuestra realidad y a nuestra identidad cultural en un sentido pluralista. La vinculación del conocimiento con una comunidad política consciente de su identidad plural proporciona coherencia al activismo y lleva el foco del espacio – quizá difuso – de lo “común” hacia el espacio de lo “público”.</p>
+<p style="text-align:justify">Nos parece necesario incluir otro punto. No se trata de embarcarnos en la creencia de que la implementación de sistemas tecnológicos distribuidos resolverá todos los problemas sociales. Tal posición, además de idealista, se encuentra viciada de cierto determinismo tecnológico. El despliegue de nuevos sistemas tecnológicos debe ser el resultado de la implementación de formas alternativas de construcción de la voluntad política colectiva. Las tecnologías libres serán herramientas liberadoras ahí donde se haya decidido soberanamente sobre los fines de un colectivo y los medios para alcanzarlos. Y de igual forma, la posibilidad de construir consensos sociales impulsará formas de regulación pública que favorecerán la consolidación del conocimiento y las tecnologías libres.</p>
+<p style="text-align:justify"><strong>Conclusiones</strong></p>
+<p style="text-align:justify">Las tecnologías libres pueden servir como palanca para superar el rentismo siempre y cuando las consideremos como un medio para revisar y transformar los factores involucrados en procesos como la educación y la producción. Dicha posibilidad desaparece si sólo las consideramos como herramientas para sostener y facilitar acciones específicas, en cuyo caso puede que las estemos utilizando ciegamente como instrumentos para prolongar las exigencias del capitalismo y, en nuestro caso, del capitalismo rentístico.</p>
+<p style="text-align:justify">El software y el hardware libre son más que dispositivos cuyas especificaciones técnicas pueden ser consultadas, modificadas y compartidas. El desarrollo de tecnologías libres implica involucrarse con modelos abiertos de creación y producción, lo cual permite abordar el cambio de las relaciones de trabajo y las formas de aprendizaje, así como fomentar otros modos de socialización de la propiedad. Por ejemplo, el enfoque de hardware libre supone la colaboración horizontal entre productores-productores y productores-usuarios de los bienes del conocimiento, con lo cual las barreras mercantiles entre quienes ofertan un bien y quienes lo utilizan se ven debilitadas, y se crean relaciones afines con modos de intercambio alternativos al mercado capitalista convencional.</p>
+<p style="text-align:justify">Estamos conscientes de que la discusión sobre el conocimiento libre no se encuentra libre de contradicciones. Sobre todo, es necesario mantenerse alertas sobre la introducción de nuevas formas de apropiación privada del saber y del trabajo que utilizan como vehículo el desarrollo de las comunicaciones digitales. Por tal razón consideramos que la apropiación de las tecnologías libres deriva del ejercicio de la soberanía popular, y se encuentra reñida con ideas que, tras la fachada de un “cosmopolitismo” neocolonial, sirven como cubierta para la expansión del capitalismo cognitivo.</p>
+<p style="text-align:justify">La diferencia en algunos casos es sutil. Hoy día es un lugar común afirmar, por ejemplo, que las plataformas que facilitan la carga de videos representan el punto más alto de la apropiación social de las tecnologías. Pero esta creencia oculta hechos como que dichas plataformas se basan en un modelo de negocios cerrados, se encuentran soportadas por servidores centralizados, son susceptibles de recibir la intervención de gobiernos extranjeros y están introduciendo nuevas formas de capitalización del saber de los usuarios. Finalmente, sus intereses responden más a los de las corporaciones que a los de los ciudadanos. En contraste, las arquitecturas <em>peer-to-peer</em>, propuestas por algunos como modo organizacional alternativo y basadas en tecnologías libres, facilitan la formación de redes distribuidas y por tanto, se supone, más autónomas.</p>
+<p style="text-align:justify">Es en tal sentido que nos hemos propuesto explorar el aporte de los modos de producción abiertos para la superación de las limitaciones de nuestra estructura económica. Por ejemplo, las tecnologías libres pueden apoyar el desarrollo de la industria nacional en una forma como la que menciona Álvarez (2012), quien ilustra algunas necesidades del aparato productivo venezolano: “La industrialización socialista requiere el fortalecimiento de las capacidades tecnológicas e innovativa, sobre todo en los sectores fabricantes de maquinarias, equipos y tecnologías de organización y gestión, toda vez que éstas tienen un impacto generalizado sobre la eficiencia de todas las actividades económicas” (165-166).</p>
+<p style="text-align:justify">Precisamente, la superación de la estructura económica y de la cultura rentista puede ser uno de los principales propósitos emanados de la aplicación de instrumentos como la Ley de Infogobierno que, en el artículo 70, propone varias formas de despliegue de la industria nacional de tecnologías de información libres. Por lo tanto, no es imposible pensar que puede ser la industria de las tecnologías de información libres (y no el sector energético) la que se encargue de motorizar el cambio que requiere el sistema socioeconómico venezolano a través de una vinculación adecuada entre el enfoque del conocimiento libre, el talento humano nacional y las potencialidades socioproductivas de nuestro país y de la región.</p>
+<p style="text-align:justify"><strong>Referencias</strong></p>
+<p style="text-align:justify">Álvarez, V. (2012). <em>Claves para la industrialización socialista</em>. Caracas: Centro Internacional Miranda.</p>
+<p style="text-align:justify">Baptista, A. (2010) <em>Teoría económica del capitalismo rentístico</em>. (2° ed.). Caracas: Banco Central de Venezuela.</p>
+<p style="text-align:justify">Barandiaran X. y Vázquez, D. (2013). <em>Sumak Yachay. Devenir Sociedad del Conocimiento Común y Abierto. Informe de investigación y planificación elaborado por el Instituto de Altos Estudios Nacionales del Ecuador</em>. Disponible en: http://flok-society.iaen.edu.ec/wp-content/uploads/2013/08/devenir-pachamama-del-conocimiento_v_1_4.pdf</p>
+<p style="text-align:justify">Chávez, H. (2010). <em>La Sociedad del Talento. Discurso pronunciado el 10 de noviembre de 2006</em>. Mérida: Centro Nacional de Desarrollo e Investigación en Tecnologías Libres &#8211; CENDITEL.</p>
+<p style="text-align:justify">Feenberg, A. (2002). <em>Transforming Technology. A critical theory revisited</em>. (2da. ed.). Nueva York, EEUU: Oxford University Press.</p>
+<p style="text-align:justify">Free / Libre Open Knowledge Society (2013). <em>Carta abierta a los Trabajadores del Procomún del Mundo</em>. Disponible en: www.floksociety.org/carta-abierta/</p>
+<p style="text-align:justify">República Bolivariana de Venezuela. <em>Ley de Infogobierno</em>. Publicado en Gaceta Oficial de la República Bolivariana de Venezuela No 40.274, 17 de octubre de 2013 .</p>
+<p style="text-align:justify">República Bolivariana de Venezuela. <em>Ley del Plan de la Patria. Segundo Plan Socialista de Desarrollo Económico y Social de la Nación 2013-2019</em>. Publicado en Gaceta Oficial de la República Bolivariana de Venezuela No 6.118 Extraordinario, 4 de diciembre de 2013 .</p>
+<p style="text-align:justify">República de Ecuador. <em>Plan Nacional de Desarrollo / Plan Nacional para el Buen Vivir 2013-2017</em>. Quito: Secretaría Nacional de Planificación y Desarrollo – Senplades, 2013.</p>
+<p>Samán, E. (2007) “Del Software Libre al Software Socialista”. Disponible en: www.aporrea.org/tecno/a29113.html</p>
+			</div><!-- .entry-content -->
+
+	<footer class="entry-meta">
+		This entry was posted in <a href="http://conocimientolibre.cenditel.gob.ve/category/fortalecimiento-colaborativo/" title="Ver todas las entradas publicadas en Fortalecimiento Colaborativo" rel="category tag">Fortalecimiento Colaborativo</a>, <a href="http://conocimientolibre.cenditel.gob.ve/category/ley-de-infogobierno/" title="Ver todas las entradas publicadas en Ley de Infogobierno" rel="category tag">Ley de Infogobierno</a>, <a href="http://conocimientolibre.cenditel.gob.ve/category/politica-tecnologica/" title="Ver todas las entradas publicadas en Política tecnológica" rel="category tag">Política tecnológica</a>, <a href="http://conocimientolibre.cenditel.gob.ve/category/tecnologias-libres/" title="Ver todas las entradas publicadas en Tecnologías Libres" rel="category tag">Tecnologías Libres</a> and tagged <a href="http://conocimientolibre.cenditel.gob.ve/tag/ley-de-infogobierno/" rel="tag">Ley de Infogobierno</a>, <a href="http://conocimientolibre.cenditel.gob.ve/tag/politica-tecnologica/" rel="tag">Política tecnológica</a>, <a href="http://conocimientolibre.cenditel.gob.ve/tag/software-libre/" rel="tag">Software Libre</a>, <a href="http://conocimientolibre.cenditel.gob.ve/tag/tecnologias-libres/" rel="tag">Tecnologías Libres</a> by <a href="http://conocimientolibre.cenditel.gob.ve/author/sroca/">sroca</a>. Bookmark the <a href="http://conocimientolibre.cenditel.gob.ve/2014/01/31/pueden-las-tecnologias-libres-ayudarnos-a-superar-el-rentismo-petrolero/" title="Permalink to ¿Pueden las tecnologías libres ayudarnos a superar el rentismo petrolero?" rel="bookmark">permalink</a>.		
+			</footer><!-- .entry-meta -->
+</article><!-- #post-283 -->
+
+						<div id="comments">
+	
+	
+	
+									<div id="respond" class="comment-respond">
+				<h3 id="reply-title" class="comment-reply-title">Agregue un comentario <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2014/01/31/pueden-las-tecnologias-libres-ayudarnos-a-superar-el-rentismo-petrolero/#respond" style="display:none;">Cancelar respuesta</a></small></h3>
+									<form action="http://conocimientolibre.cenditel.gob.ve/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+																			<p class="comment-notes">Su dirección de correo no se hará público. Los campos requeridos están marcados <span class="required">*</span></p>							<p class="comment-form-author"><label for="author">Nombre <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" aria-required='true' /></p>
+<p class="comment-form-email"><label for="email">Correo <span class="required">*</span></label> <input id="email" name="email" type="text" value="" size="30" aria-required='true' /></p>
+<p class="comment-form-url"><label for="url">Sitio web</label> <input id="url" name="url" type="text" value="" size="30" /></p>
+<p class="comment-form-captcha">
+		<label for="captcha"><b>Captcha </b></label>
+		<span class="required">*</span>
+		<div style="clear:both;"></div>
+		<img src="http://conocimientolibre.cenditel.gob.ve/wp-content/plugins/captcha-code-authentication/captcha_code_file.php?rand=1667689618" />
+		<div style="clear:both;"></div>
+		<label for="captcha_code">Type the text displayed above:</label>
+		<input id="captcha_code" name="captcha_code" size="15" type="text" />
+		<div style="clear:both;"></div>
+		</p>												<p class="comment-form-comment"><label for="comment">Comentario</label> <textarea id="comment" name="comment" cols="45" rows="8" aria-required="true"></textarea></p>						<p class="form-allowed-tags">Usted puede utilizar las etiquetas <abbr title="Lenguaje de Marcado de Hipertexto">HTML</abbr> y atributos:  <code>&lt;a href=&quot;&quot; title=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=&quot;&quot;&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=&quot;&quot;&gt; &lt;strike&gt; &lt;strong&gt; </code></p>						<p class="form-submit">
+							<input name="submit" type="submit" id="submit" value="Publicar comentario" />
+							<input type='hidden' name='comment_post_ID' value='283' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+						</p>
+											</form>
+							</div><!-- #respond -->
+						
+</div><!-- #comments -->
+
+				
+			</div><!-- #content -->
+		</div><!-- #primary -->
+
+
+
+	</div><!-- #main -->
+
+	<footer id="colophon" role="contentinfo">
+
+			
+
+
+			<div id="site-generator">
+				<html>
+
+<div id="imagen">
+<img src="/wp-content/themes/Bicentenario/images/logo.png">
+</div>
+
+<TABLE id="tabla">
+<tr>
+<div id="enlaces_titulo"><p>Enlaces de interes</p></div>
+
+</tr>
+
+     <TR>
+
+	
+
+          <TD><ul id="menu1">
+	<li><a href="http://www.mct.gob.ve/" target="_blank" alt="Ministerio del Poder Popular para Ciencia, Tecnología e Industrias Intermedias" title="Ministerio del Poder Popular para Ciencia, Tecnología e Industrias Intermedias">MppCTii</a></li>
+	<li> <a href="http://www.me.gob.ve/" target="_blank" alt="Ministerio del Poder Popular para la Educación" title="Ministerio del Poder Popular para la Educación">MppE</a></li>
+	<li> <a href="http://www.fundacite-merida.gob.ve" target="_blank" alt="Fundacite Mérida" title="Fundacite Mérida">Fundacite</a></li>
+	<li> <a href="http://www.fidetel.gob.ve" target="_blank" alt="Fondo de Investigación y Desarrollo de las Telecomunicaciones" title="Fondo de Investigación y Desarrollo de las Telecomunicaciones">FIDETEL</a> </li>
+</ul> </TD> 
+
+	<TD> <ul id="menu2">
+	<li><a href="http://www.minci.gob.ve" target="_blank" alt="Ministerio del Poder Popular para la Comunicacion e Informacion" title="Ministerio del Poder Popular para la Comunicacion e Informacion">Minci</a></li>
+	<li> <a href="http://www.minamb.gob.ve/" target="_blank" alt="Ministerio del Poder Popular para el Ambiente" title="Ministerio del Poder Popular para el Ambiente">MppA</a></li>
+	<li> <a href="http://www.cnti.gob.ve" target="_blank" alt="Centro Nacional de Tecnologías de Información" title="Centro Nacional de Tecnologías de Información">Cnti</a></li>
+	<li> <a href="http://www.mpcomunas.gob.ve" target="_blank" alt="Ministerio del Poder Popular para las Comunas y Protección Social" title="Ministerio del Poder Popular para las Comunas y Protección Social">MppCPS</a> </li>
+</ul></TD>
+     
+	<TD><ul id="menu3">
+	<li><a href="http://www.ministeriodelacultura.gob.ve" target="_blank" alt="Ministerio del Poder Popular para la Cultura" title="Ministerio del Poder Popular para la Cultura">MppC</a></li>
+	<li> <a href="http://www.mppeu.gob.ve/" target="_blank" alt="Ministerio del Poder Popular para la Educación Universitaria" title="Ministerio del Poder Popular para la Educación Universitaria">MppEU</a></li>
+	<li> <a href="http://www.suscerte.gob.ve" target="_blank" alt="Superintendencia de Servicios de Certificación Electrónica" title="Superintendencia de Servicios de Certificación Electrónica">SUSCERTE</a> </li>
+	<li> <a href="http://www.cantv.net/" target="_blank" alt="CANTV" title="CANTV"> CANTV</a></li>
+	</ul> </TD> 
+
+      </TR> 
+</TABLE>
+<div id="pie">
+<p>
+FUNDACIÓN CENTRO NACIONAL DE DESARROLLO E INVESTIGACIÓN EN TECNOLOGÍAS LIBRES (CENDITEL) Avenida Alberto Carnevali, vía La Hechicera, Edificio CENDITEL. Teléfono: (0274)6574336 - 6574958. Apartado Postal: 078. Código Postal: 5101A. RIF: G-20007349-7. Mérida-Venezuela</p>
+</div>
+
+</html>
+
+
+		
+			
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+</body>
+</html>

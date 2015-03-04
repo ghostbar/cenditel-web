@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="es-PE">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="es-PE">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="es-PE">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="es-PE">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>La guarimba de la “Neutralidad de la Red” | Conocimiento Libre</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="stylesheet" type="text/css" media="all" href="http://conocimientolibre.cenditel.gob.ve/wp-content/themes/proyecto_communita/style.css" />
+<link rel="pingback" href="http://conocimientolibre.cenditel.gob.ve/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="http://conocimientolibre.cenditel.gob.ve/wp-content/themes/proyecto_communita/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+<link rel="alternate" type="application/rss+xml" title="Conocimiento Libre &raquo; Feed" href="http://conocimientolibre.cenditel.gob.ve/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Conocimiento Libre &raquo; Feed de comentarios" href="http://conocimientolibre.cenditel.gob.ve/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Conocimiento Libre &raquo; La guarimba de la “Neutralidad de la Red” Feed de comentarios" href="http://conocimientolibre.cenditel.gob.ve/2014/04/30/la-guarimba-de-la-neutralidad-de-la-red/feed/" />
+<link rel='stylesheet' id='rbanner-css-css'  href='http://conocimientolibre.cenditel.gob.ve/wp-content/plugins/random-banner//css/rbanner.css?ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='videojs-plugin-css'  href='http://conocimientolibre.cenditel.gob.ve/wp-content/plugins/videojs-html5-video-player-for-wordpress/plugin-styles.css?ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='videojs-css'  href='http://conocimientolibre.cenditel.gob.ve/wp-content/plugins/videojs-html5-video-player-for-wordpress/videojs/video-js.css?ver=3.6.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://conocimientolibre.cenditel.gob.ve/wp-includes/js/comment-reply.min.js?ver=3.6.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://conocimientolibre.cenditel.gob.ve/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://conocimientolibre.cenditel.gob.ve/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='En torno a la polémica respecto a la neutralidad de la red de redes y su posible intervención por el Estado en Venezuela: Llamemos las cosas por su nombre.' href='http://conocimientolibre.cenditel.gob.ve/2014/04/21/en-torno-a-la-polemica-respecto-a-la-neutralidad-de-la-red-de-redes-y-su-posible-intervencion-por-el-estado-en-venezuela-llamemos-las-cosas-por-su-nombre/' />
+<link rel='next' title='El Conocimiento Libre: Artillería pesada contra el Imperialismo.' href='http://conocimientolibre.cenditel.gob.ve/2014/07/02/el-conocimiento-libre-artilleria-pesada-contra-el-imperialismo/' />
+<meta name="generator" content="WordPress 3.6.1" />
+<link rel='canonical' href='http://conocimientolibre.cenditel.gob.ve/2014/04/30/la-guarimba-de-la-neutralidad-de-la-red/' />
+<link rel='shortlink' href='http://conocimientolibre.cenditel.gob.ve/?p=355' />
+
+		<script type="text/javascript">
+			if(typeof videojs != "undefined") {
+				videojs.options.flash.swf = "http://conocimientolibre.cenditel.gob.ve/wp-content/plugins/videojs-html5-video-player-for-wordpress/videojs/video-js.swf";
+			}
+			document.createElement("video");document.createElement("audio");document.createElement("track");
+		</script>
+			<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+</head>
+
+<body class="single single-post postid-355 single-format-standard singular two-column right-sidebar">
+<div id="page" class="hfeed">
+	<header id="branding" role="banner">
+			<hgroup>
+				<h1 id="site-title"><span><a href="http://conocimientolibre.cenditel.gob.ve/" title="Conocimiento Libre" rel="home">Conocimiento Libre</a></span></h1>
+				<h2 id="site-description">Reflexiones críticas para la apropiación del Conocimiento Libre en Venezuela</h2>
+			</hgroup>
+
+						<a href="http://conocimientolibre.cenditel.gob.ve/">
+									<img src="http://conocimientolibre.cenditel.gob.ve/files/2013/05/cropped-Obra-Mural-CENDITEL-web.jpg" width="1000" height="288" alt="" />
+							</a>
+			
+								<form method="get" id="searchform" action="http://conocimientolibre.cenditel.gob.ve/">
+		<label for="s" class="assistive-text">Search</label>
+		<input type="text" class="field" name="s" id="s" placeholder="Search" />
+		<input type="submit" class="submit" name="submit" id="searchsubmit" value="Search" />
+	</form>
+			
+			<nav id="access" role="navigation">
+				<h3 class="assistive-text">Main menu</h3>
+								<div class="skip-link"><a class="assistive-text" href="#content" title="Skip to primary content">Skip to primary content</a></div>
+				<div class="skip-link"><a class="assistive-text" href="#secondary" title="Skip to secondary content">Skip to secondary content</a></div>
+								<div class="menu"><ul><li ><a href="http://conocimientolibre.cenditel.gob.ve/" title="Inicio">Inicio</a></li><li class="page_item page-item-2"><a href="http://conocimientolibre.cenditel.gob.ve/elblog/">Sobre el Blog</a></li></ul></div>
+			</nav><!-- #access -->
+	</header><!-- #branding -->
+
+
+	<div id="main">
+		<div id="primary">
+			<div id="content" role="main">
+
+				
+					<nav id="nav-single">
+						<h3 class="assistive-text">Post navigation</h3>
+						<span class="nav-previous"><a href="http://conocimientolibre.cenditel.gob.ve/2014/04/21/en-torno-a-la-polemica-respecto-a-la-neutralidad-de-la-red-de-redes-y-su-posible-intervencion-por-el-estado-en-venezuela-llamemos-las-cosas-por-su-nombre/" rel="prev"><span class="meta-nav">&larr;</span> Previous</a></span>
+						<span class="nav-next"><a href="http://conocimientolibre.cenditel.gob.ve/2014/07/02/el-conocimiento-libre-artilleria-pesada-contra-el-imperialismo/" rel="next">Next <span class="meta-nav">&rarr;</span></a></span>
+					</nav><!-- #nav-single -->
+
+					
+<article id="post-355" class="post-355 post type-post status-publish format-standard hentry category-neutralidad-tecnologica">
+	<header class="entry-header">
+		<h1 class="entry-title">La guarimba de la “Neutralidad de la Red”</h1>
+
+				<div class="entry-meta">
+			<span class="sep">Posted on </span><a href="http://conocimientolibre.cenditel.gob.ve/2014/04/30/la-guarimba-de-la-neutralidad-de-la-red/" title="2:21 pm" rel="bookmark"><time class="entry-date" datetime="2014-04-30T14:21:41+00:00" pubdate>Abril 30, 2014</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="http://conocimientolibre.cenditel.gob.ve/author/jcontreras/" title="View all posts by jcontreras" rel="author">jcontreras</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p>José J. Contreras<b><a href="#sdfootnote1sym" name="sdfootnote1anc"><sup>1</sup></a></b></p>
+<p>En medio del momento más álgido de las guarimbas de principios de 2014, algunos ciudadanos publicaron y firmaron un manifiesto que titularon “<a title="comunicado a favor de la neutralidad de la red" href="http://www.change.org/es/peticiones/p%C3%BAblico-en-general-comunicado-a-favor-de-la-libertad-y-neutralidad-de-la-red" target="_blank">Comunicado a favor de la libertad y neutralidad de la red</a>” en el que denunciaban supuestas violaciones por parte del Gobierno Bolivariano. La violación que mencionan y que destacaré en este momento fue la aparente restricción en el uso de algunos sitios web y cortes temporales regionales al acceso a internet por parte de un operador.</p>
+<p align="JUSTIFY"> <div class="wp-caption alignright" style="width: 310px"><img alt="" src="http://timwu.org/powerbar.jpg" width="300" height="244" /><p class="wp-caption-text">Fuente: timwu.org</p></div> ¿A qué es eso que denominan “neutralidad de la red”? Pues bien, la frase fue acuñada en 2003 por el profesor estadounidense <a title="Tim Wu" href="http://en.wikipedia.org/wiki/Tim_Wu" target="_blank">Tim Wu</a> y establece que para “<a title="Network Neutrality" href="http://timwu.org/network_neutrality.html" target="_blank">maximizar la utilidad de una red de información pública se debe tratar por igual a todos los contenidos, sitios y plataformas</a>” (traducción nuestra). La metáfora que ayuda a entender la idea de “neutralidad” en la Internet es la de la red de energía eléctrica. La red es “neutra” en el sentido de que cualquier dispositivo que cumpla con los requerimientos puede conectarse y hacer uso de la red sin discriminación alguna.</p>
+<p align="JUSTIFY"> Supongamos aquí que aceptamos la idea de que la red debe ser neutra. Bien, pero ¿debe concebirse esto como un principio inamovible? La respuesta la brinda el mismo Wu quien propone una norma marco que demanda “prohibir a los operadores de banda ancha ejercer cualquier restricción sobre el uso que hagan los usuarios de su conexión a internet, en ausencia de demostraciones de <i>daños</i>” (traducción nuestra, <a title="Network Neutrality Broadband discrimination" href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=388863" target="_blank">2003, Pp: 167,168</a>). ¿A qué llama Wu “<i>daños</i>”?</p>
+<p align="JUSTIFY"> “Usualmente los operadores prohíben a los usuarios el uso de aplicaciones y de conductas que puedan hacer daño a la red o a otros usuarios&#8230; Es verdad que este tipo de acción se desvía de la neutralidad de la red&#8230; Sin embargo, es claro que el operador actuó para resolver un problema de una externalidad negativa&#8230; Muy pocos argumentarían que esta acción está mal”. (traducción nuestra, <a title="Network Neutrality Broadband Discrimination" href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=388863" target="_blank">ídem, P. 152</a>).</p>
+<p align="JUSTIFY"> La “Neutralidad de la Red” no es un dogma inamovible tal y como lo expresa su creador. En el caso en que las conductas de algunos usuarios estén causando daño a otros ciudadanos, está justificado que el operador se desvíe de la “neutralidad” para resolver la externalidad negativa. Muy pocos argumentarían que eso está mal.</p>
+<p align="JUSTIFY"> &#8212;-</p>
+<p><strong>Referencias</strong></p>
+<p>Wu, Tim (2003). Network Neutrality, Broadband Discrimination. <em>Journal of Telecommunications and High Technology Law.</em> Vol. 2. p.141. Disponible en: <a href="http://ssrn.com/abstract=388863" target="_blank">http://ssrn.com/abstract=388863</a><a href="http://tinyurl.com/llfgl"><br />
+</a></p>
+<div id="sdfootnote1">
+<p><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a> Investigador de CENDITEL. jcontreras@cenditel.gob.ve</p>
+</div>
+			</div><!-- .entry-content -->
+
+	<footer class="entry-meta">
+		This entry was posted in <a href="http://conocimientolibre.cenditel.gob.ve/category/neutralidad-tecnologica/" title="Ver todas las entradas publicadas en Neutralidad Tecnológica" rel="category tag">Neutralidad Tecnológica</a> by <a href="http://conocimientolibre.cenditel.gob.ve/author/jcontreras/">jcontreras</a>. Bookmark the <a href="http://conocimientolibre.cenditel.gob.ve/2014/04/30/la-guarimba-de-la-neutralidad-de-la-red/" title="Permalink to La guarimba de la “Neutralidad de la Red”" rel="bookmark">permalink</a>.		
+			</footer><!-- .entry-meta -->
+</article><!-- #post-355 -->
+
+						<div id="comments">
+	
+	
+	
+									<div id="respond" class="comment-respond">
+				<h3 id="reply-title" class="comment-reply-title">Agregue un comentario <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2014/04/30/la-guarimba-de-la-neutralidad-de-la-red/#respond" style="display:none;">Cancelar respuesta</a></small></h3>
+									<form action="http://conocimientolibre.cenditel.gob.ve/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+																			<p class="comment-notes">Su dirección de correo no se hará público. Los campos requeridos están marcados <span class="required">*</span></p>							<p class="comment-form-author"><label for="author">Nombre <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" aria-required='true' /></p>
+<p class="comment-form-email"><label for="email">Correo <span class="required">*</span></label> <input id="email" name="email" type="text" value="" size="30" aria-required='true' /></p>
+<p class="comment-form-url"><label for="url">Sitio web</label> <input id="url" name="url" type="text" value="" size="30" /></p>
+<p class="comment-form-captcha">
+		<label for="captcha"><b>Captcha </b></label>
+		<span class="required">*</span>
+		<div style="clear:both;"></div>
+		<img src="http://conocimientolibre.cenditel.gob.ve/wp-content/plugins/captcha-code-authentication/captcha_code_file.php?rand=689812196" />
+		<div style="clear:both;"></div>
+		<label for="captcha_code">Type the text displayed above:</label>
+		<input id="captcha_code" name="captcha_code" size="15" type="text" />
+		<div style="clear:both;"></div>
+		</p>												<p class="comment-form-comment"><label for="comment">Comentario</label> <textarea id="comment" name="comment" cols="45" rows="8" aria-required="true"></textarea></p>						<p class="form-allowed-tags">Usted puede utilizar las etiquetas <abbr title="Lenguaje de Marcado de Hipertexto">HTML</abbr> y atributos:  <code>&lt;a href=&quot;&quot; title=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=&quot;&quot;&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=&quot;&quot;&gt; &lt;strike&gt; &lt;strong&gt; </code></p>						<p class="form-submit">
+							<input name="submit" type="submit" id="submit" value="Publicar comentario" />
+							<input type='hidden' name='comment_post_ID' value='355' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+						</p>
+											</form>
+							</div><!-- #respond -->
+						
+</div><!-- #comments -->
+
+				
+			</div><!-- #content -->
+		</div><!-- #primary -->
+
+
+
+	</div><!-- #main -->
+
+	<footer id="colophon" role="contentinfo">
+
+			
+
+
+			<div id="site-generator">
+				<html>
+
+<div id="imagen">
+<img src="/wp-content/themes/Bicentenario/images/logo.png">
+</div>
+
+<TABLE id="tabla">
+<tr>
+<div id="enlaces_titulo"><p>Enlaces de interes</p></div>
+
+</tr>
+
+     <TR>
+
+	
+
+          <TD><ul id="menu1">
+	<li><a href="http://www.mct.gob.ve/" target="_blank" alt="Ministerio del Poder Popular para Ciencia, Tecnología e Industrias Intermedias" title="Ministerio del Poder Popular para Ciencia, Tecnología e Industrias Intermedias">MppCTii</a></li>
+	<li> <a href="http://www.me.gob.ve/" target="_blank" alt="Ministerio del Poder Popular para la Educación" title="Ministerio del Poder Popular para la Educación">MppE</a></li>
+	<li> <a href="http://www.fundacite-merida.gob.ve" target="_blank" alt="Fundacite Mérida" title="Fundacite Mérida">Fundacite</a></li>
+	<li> <a href="http://www.fidetel.gob.ve" target="_blank" alt="Fondo de Investigación y Desarrollo de las Telecomunicaciones" title="Fondo de Investigación y Desarrollo de las Telecomunicaciones">FIDETEL</a> </li>
+</ul> </TD> 
+
+	<TD> <ul id="menu2">
+	<li><a href="http://www.minci.gob.ve" target="_blank" alt="Ministerio del Poder Popular para la Comunicacion e Informacion" title="Ministerio del Poder Popular para la Comunicacion e Informacion">Minci</a></li>
+	<li> <a href="http://www.minamb.gob.ve/" target="_blank" alt="Ministerio del Poder Popular para el Ambiente" title="Ministerio del Poder Popular para el Ambiente">MppA</a></li>
+	<li> <a href="http://www.cnti.gob.ve" target="_blank" alt="Centro Nacional de Tecnologías de Información" title="Centro Nacional de Tecnologías de Información">Cnti</a></li>
+	<li> <a href="http://www.mpcomunas.gob.ve" target="_blank" alt="Ministerio del Poder Popular para las Comunas y Protección Social" title="Ministerio del Poder Popular para las Comunas y Protección Social">MppCPS</a> </li>
+</ul></TD>
+     
+	<TD><ul id="menu3">
+	<li><a href="http://www.ministeriodelacultura.gob.ve" target="_blank" alt="Ministerio del Poder Popular para la Cultura" title="Ministerio del Poder Popular para la Cultura">MppC</a></li>
+	<li> <a href="http://www.mppeu.gob.ve/" target="_blank" alt="Ministerio del Poder Popular para la Educación Universitaria" title="Ministerio del Poder Popular para la Educación Universitaria">MppEU</a></li>
+	<li> <a href="http://www.suscerte.gob.ve" target="_blank" alt="Superintendencia de Servicios de Certificación Electrónica" title="Superintendencia de Servicios de Certificación Electrónica">SUSCERTE</a> </li>
+	<li> <a href="http://www.cantv.net/" target="_blank" alt="CANTV" title="CANTV"> CANTV</a></li>
+	</ul> </TD> 
+
+      </TR> 
+</TABLE>
+<div id="pie">
+<p>
+FUNDACIÓN CENTRO NACIONAL DE DESARROLLO E INVESTIGACIÓN EN TECNOLOGÍAS LIBRES (CENDITEL) Avenida Alberto Carnevali, vía La Hechicera, Edificio CENDITEL. Teléfono: (0274)6574336 - 6574958. Apartado Postal: 078. Código Postal: 5101A. RIF: G-20007349-7. Mérida-Venezuela</p>
+</div>
+
+</html>
+
+
+		
+			
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+</body>
+</html>

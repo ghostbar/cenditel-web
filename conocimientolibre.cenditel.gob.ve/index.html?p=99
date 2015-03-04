@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="es-PE">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="es-PE">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="es-PE">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="es-PE">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>Tecnología Libre y Cambio de Sistema  | Conocimiento Libre</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="stylesheet" type="text/css" media="all" href="http://conocimientolibre.cenditel.gob.ve/wp-content/themes/proyecto_communita/style.css" />
+<link rel="pingback" href="http://conocimientolibre.cenditel.gob.ve/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="http://conocimientolibre.cenditel.gob.ve/wp-content/themes/proyecto_communita/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+<link rel="alternate" type="application/rss+xml" title="Conocimiento Libre &raquo; Feed" href="http://conocimientolibre.cenditel.gob.ve/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Conocimiento Libre &raquo; Feed de comentarios" href="http://conocimientolibre.cenditel.gob.ve/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Conocimiento Libre &raquo; Tecnología Libre y Cambio de Sistema Feed de comentarios" href="http://conocimientolibre.cenditel.gob.ve/2013/06/03/tecnologia-libre-y-cambio-de-sistema/feed/" />
+<link rel='stylesheet' id='rbanner-css-css'  href='http://conocimientolibre.cenditel.gob.ve/wp-content/plugins/random-banner//css/rbanner.css?ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='videojs-plugin-css'  href='http://conocimientolibre.cenditel.gob.ve/wp-content/plugins/videojs-html5-video-player-for-wordpress/plugin-styles.css?ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='videojs-css'  href='http://conocimientolibre.cenditel.gob.ve/wp-content/plugins/videojs-html5-video-player-for-wordpress/videojs/video-js.css?ver=3.6.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://conocimientolibre.cenditel.gob.ve/wp-includes/js/comment-reply.min.js?ver=3.6.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://conocimientolibre.cenditel.gob.ve/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://conocimientolibre.cenditel.gob.ve/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Discusión del Proyecto de Ley de Infogobierno: significado de las tecnologías de información libres para el futuro de la sociedad venezolana.' href='http://conocimientolibre.cenditel.gob.ve/2013/05/30/discusion-del-proyecto-de-ley-de-infogobierno-significado-de-las-tecnologias-de-informacion-libres-para-el-futuro-de-la-sociedad-venezolana/' />
+<link rel='next' title='La Liberación de la dictadura del software. Parte III &#8211; Colaboración y competencia liberal.' href='http://conocimientolibre.cenditel.gob.ve/2013/06/08/la-liberacion-de-la-dictadura-del-software-parte-iii-colaboracion-y-competencia-liberal/' />
+<meta name="generator" content="WordPress 3.6.1" />
+<link rel='canonical' href='http://conocimientolibre.cenditel.gob.ve/2013/06/03/tecnologia-libre-y-cambio-de-sistema/' />
+<link rel='shortlink' href='http://conocimientolibre.cenditel.gob.ve/?p=99' />
+
+		<script type="text/javascript">
+			if(typeof videojs != "undefined") {
+				videojs.options.flash.swf = "http://conocimientolibre.cenditel.gob.ve/wp-content/plugins/videojs-html5-video-player-for-wordpress/videojs/video-js.swf";
+			}
+			document.createElement("video");document.createElement("audio");document.createElement("track");
+		</script>
+			<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+</head>
+
+<body class="single single-post postid-99 single-format-standard singular two-column right-sidebar">
+<div id="page" class="hfeed">
+	<header id="branding" role="banner">
+			<hgroup>
+				<h1 id="site-title"><span><a href="http://conocimientolibre.cenditel.gob.ve/" title="Conocimiento Libre" rel="home">Conocimiento Libre</a></span></h1>
+				<h2 id="site-description">Reflexiones críticas para la apropiación del Conocimiento Libre en Venezuela</h2>
+			</hgroup>
+
+						<a href="http://conocimientolibre.cenditel.gob.ve/">
+									<img src="http://conocimientolibre.cenditel.gob.ve/files/2013/05/cropped-Obra-Mural-CENDITEL-web.jpg" width="1000" height="288" alt="" />
+							</a>
+			
+								<form method="get" id="searchform" action="http://conocimientolibre.cenditel.gob.ve/">
+		<label for="s" class="assistive-text">Search</label>
+		<input type="text" class="field" name="s" id="s" placeholder="Search" />
+		<input type="submit" class="submit" name="submit" id="searchsubmit" value="Search" />
+	</form>
+			
+			<nav id="access" role="navigation">
+				<h3 class="assistive-text">Main menu</h3>
+								<div class="skip-link"><a class="assistive-text" href="#content" title="Skip to primary content">Skip to primary content</a></div>
+				<div class="skip-link"><a class="assistive-text" href="#secondary" title="Skip to secondary content">Skip to secondary content</a></div>
+								<div class="menu"><ul><li ><a href="http://conocimientolibre.cenditel.gob.ve/" title="Inicio">Inicio</a></li><li class="page_item page-item-2"><a href="http://conocimientolibre.cenditel.gob.ve/elblog/">Sobre el Blog</a></li></ul></div>
+			</nav><!-- #access -->
+	</header><!-- #branding -->
+
+
+	<div id="main">
+		<div id="primary">
+			<div id="content" role="main">
+
+				
+					<nav id="nav-single">
+						<h3 class="assistive-text">Post navigation</h3>
+						<span class="nav-previous"><a href="http://conocimientolibre.cenditel.gob.ve/2013/05/30/discusion-del-proyecto-de-ley-de-infogobierno-significado-de-las-tecnologias-de-informacion-libres-para-el-futuro-de-la-sociedad-venezolana/" rel="prev"><span class="meta-nav">&larr;</span> Previous</a></span>
+						<span class="nav-next"><a href="http://conocimientolibre.cenditel.gob.ve/2013/06/08/la-liberacion-de-la-dictadura-del-software-parte-iii-colaboracion-y-competencia-liberal/" rel="next">Next <span class="meta-nav">&rarr;</span></a></span>
+					</nav><!-- #nav-single -->
+
+					
+<article id="post-99" class="post-99 post type-post status-publish format-standard hentry category-ley-de-infogobierno tag-ley-de-infogobierno">
+	<header class="entry-header">
+		<h1 class="entry-title">Tecnología Libre y Cambio de Sistema</h1>
+
+				<div class="entry-meta">
+			<span class="sep">Posted on </span><a href="http://conocimientolibre.cenditel.gob.ve/2013/06/03/tecnologia-libre-y-cambio-de-sistema/" title="4:58 pm" rel="bookmark"><time class="entry-date" datetime="2013-06-03T16:58:46+00:00" pubdate>Junio 3, 2013</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="http://conocimientolibre.cenditel.gob.ve/author/nbaez/" title="View all posts by nbaez" rel="author">nbaez</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p lang="es-ES" align="LEFT"><span style="font-family: Liberation Serif,serif"><span><strong>Nelevis Báez</strong></span></span></p>
+<p lang="es-ES" align="LEFT"><span style="font-family: Liberation Serif,serif"><span><strong>Fundación CENDITEL</strong></span></span></p>
+<p lang="es-ES" align="JUSTIFY"><span style="font-family: Liberation Serif,serif"><span> En el marco de la segunda discusión sobre el Proyecto de “Ley de Infogobierno” en la Asamblea Nacional, la Fundación Centro Nacional de Desarrollo e Investigación en Tecnologías Libres (Fundación CENDITEL) dio apertura, el 11 de mayo de 2013, a un espacio en la web denominado “Wiki Red Patria”, en el cual se han generado tanto observaciones como nuevos aportes a la mencionada discusión. Si bien han sido varios los artículos editados en el Wiki, queremos llamar la atención en la reiteración de una de las observaciones: la insistencia en que en todo el proyecto se utiliza indistintamente el término Tecnologías de Información y por otro lado, Tecnologías de Información “Libres”. El llamado va dirigido a que se incluyan las Tecnologías de Información “Libres” en todos los artículos que se requiera, ya que se corre el riesgo de dejarlas de lado en algunos objetivos relevantes, como por ejemplo en el “<span style="color: #000000">Interés público y carácter estratégico” (Art. 4) y en la </span>“<span style="color: #000000">Obligatoriedad del uso de las tecnologías de información” (Art. 6). </span></span></span></p>
+<p lang="es-ES" align="JUSTIFY"><span style="color: #000000"><span style="font-family: Liberation Serif,serif"><span> Dicha observación puede ser considerada por muchos, como un simple capricho de protagonismo de aquellos quienes trabajamos en el Desarrollo, Investigación, Apropiación y Reflexión de las Tecnologías “Libres”. Otros, pueden reducir tal observación en la argumentación concerniente a la necesidad de garantizar, en Venezuela, las cuatros libertades del Software Libre (ejecutar el programa para cualquier propósito, estudiarlo, distribuir sus copias, mejorarlo y publicar tales mejoras). Ambas perspectivas, llegan a ser insuficientes para nutrir realmente el debate sobre la importancia de la consideración permanente de la Tecnología Libre en la Ley de Infogobierno. </span></span></span></p>
+<p align="JUSTIFY"><span style="color: #000000"><span style="font-family: Liberation Serif,serif"><span> Es importante aclarar que en las Tecnologías de Información pueden estar aquellas Tecnologías Privativas donde el conocimiento está lejos de considerarse un bien público y por el contrario, se promueve al mismo como un producto de explotación exclusiva. </span></span></span><span style="color: #000000"><span style="font-family: Liberation Serif,serif">De allí que, se haya propuesto dar importancia específicamente a las </span></span><span style="color: #000000"><span style="font-family: Liberation Serif,serif"><span>Tecnologías de Información “Libres” ya que mediante las prácticas de desarrollo de éstas el conocimiento es un bien público. </span></span></span></p>
+<p lang="es-ES" align="JUSTIFY"><span style="color: #000000"><span style="font-family: Liberation Serif,serif"><span> En el intento de nutrir dicho debate, podemos revisar algunas de reflexiones que se han generado sobre la tecnología debido a que en este caso en específico nos ayudan a fundamentar la inherente e inevitable necesidad de valorar la adopción de la Tecnología Libre en la “Ley de Infogobierno”. Un argumento que nos puede ser útil para fundamentar esta necesidad, lo realiza Ochoa en “El Sentido de las Políticas Públicas vinculadas al Conocimiento para la Transformación Social” (2008): </span></span></span></p>
+<blockquote>
+<p lang="es-ES" align="JUSTIFY"><em><span style="font-family: Liberation Serif,serif"><span><span style="color: #000000">Nos referimos a la necesidad de reforzar y promover, incluso oponiéndose a grandes fuerzas contrarias, a la necesidad de reconocer al conocimiento como un bien público y a la imperiosa necesidad de que las formas de manejo y preservación del conocimiento y la información deben ser transparentes y accesibles a la mayor cantidad de ciudadanos. Pero, para que esto finalmente ocurra, necesitamos entonces ciudadanos que no sean considerados clientes ni usuarios, sino constructores de las formas de gobierno y de vinculación social que se dan en un determinado momento, en una sociedad específica porque ellos mismos se plantean su sociedad, sus relaciones como elementos que necesitan ser conocidos. Es decir, que la lógica del conocimiento esté sembrada en la búsqueda del sentido de lo que se hace y no en la utilidad (p. 23). </span></span></span></em></p>
+</blockquote>
+<p lang="es-ES" align="JUSTIFY"><span style="font-family: Liberation Serif,serif"><span> Encontramos aquí un primer planteamiento claro del por qué si en Venezuela se pretende que el pueblo ejerza el ejercicio pleno de la soberanía, es decir, la activación del “Poder Popular”, se requiere de lo que llama Ochoa “<span style="color: #000000">constructores de las formas de gobierno y de vinculación social” y no “clientes ni usuarios”. La primera frase adquiere sentido en la Tecnología Libre, donde la libertad y la colaboración son pilares fundamentales en el desarrollo de dicha tecnología. En la que recordemos fue necesario añadirle el adjetivo “libre”, por las pretensiones de privatización del conocimiento por parte de los promotores de las Tecnologías Privativas. A estas últimas corresponde la visión de que ningún actor es visto como un colaborador sino como un “cliente” pasivo, visión donde lo que menos interesa es que dicho actor se apropie de la tecnología que usa comprendiendo no sólo cómo ha sido creada sino la pertinencia de la misma con su entorno. </span></span></span></p>
+<p lang="es-ES" align="JUSTIFY"><span style="color: #000000"><span style="font-family: Liberation Serif,serif"><span> El entender la pertinencia de una tecnología, no forma parte de la lógica inserta en las Tecnologías Privativas. Con ello no se quiere decir que todo Software desarrollado bajo estándares abiertos sea pertinente para la sociedad a la que ha sido creado, sino que en la práctica del desarrollo de esta tecnología hay elementos que se consideran esenciales para que se pueda llegar a comprender la pertinencia de la misma. Principalmente, el que una comunidad de desarrolladores, y no un sólo individuo, sea la que construya de manera colectiva la tecnología, da paso a que el conocimiento generado no permanezca oculto, prevalezca la colaboración en vez de la competencia y sobre todo a que se reconozca la construcción social del conocimiento por parte de toda una comunidad. </span></span></span></p>
+<p lang="es-ES" align="JUSTIFY"><span style="font-family: Liberation Serif,serif"><span><span style="color: #000000"> Siguiendo otras reflexiones, Leandro León ha planteado en “Socialismo y Software Libre” (2008): “¿en dónde está lo libre del software libre y del conocimiento libre? Cualquiera sea la noción de la libertad, ésta se supedita a su contexto cultural (…)” (p. 57). Así, la cultura es clave al fundamentar una Tecnología Libre debido a que es desde ella desde donde el conocimiento es posible. Por ello, el conocimiento es una construcción social e histórica y no un producto individual, como lo plantea la visión reduccionista desde el capitalismo que subyace a las Tecnologías Privativas. Bajo esta perspectiva, las comunidades participantes han propuesto, en la discusión dada en el “Wiki Red Patria”, que “todo lo concerniente a desarrollo, adopción e implementación de tecnologías de información por parte del Estado deben ser </span><span style="color: #000000"><em>LIBRES”</em></span><span style="color: #000000">, ya que sólo éstas nos permitirán ir sembrado prácticas que fundamenten nuestra autonomía cultural. </span></span></span></p>
+<p lang="es-ES" align="JUSTIFY"><span style="color: #000000"><span style="font-family: Liberation Serif,serif"><span> Todos estos argumentos parten de un supuesto: Para llegar a ser realmente independientes es necesario en principio la autonomía cultural, siendo indispensable que seamos protagonistas en la construcción de nuestra tecnología y que comprendamos su pertinencia para la nación. Esta misión no es un planteamiento nuevo: En 1969, por ejemplo, el autor Oscar Varsavsky hizo un llamado de alerta al respecto en “Ciencia, política y cientificismo”, ya que para el autor tanto la autonomía cultural como la científica, son importantes para la construcción de un nuevo sistema social. Y ¿Por qué es necesario un cambio de sistema? Porque en la práctica social de la ciencia, la producción del conocimiento se ha tratado de cuantificar y además de privatizar, obviando la pertinencia de lo producido para la nación. </span></span></span></p>
+<p lang="es-ES" align="JUSTIFY"><span style="color: #000000"><span style="font-family: Liberation Serif,serif"><span> En esta propuesta de Varsavsky hay varios aspectos importantes a considerar. Primero, la importancia que posee para el cambio de sistema el tomar en cuenta las condiciones locales al momento de definir los objetivos de ese nuevo sistema social y para ello, se requiere de la “participación popular seria” (1969, p. 45). Es decir que, si el Estado llega a apoyar la importación de Tecnologías de Información Privativas, que secuestran el conocimiento que se ha aplicado en su construcción, este hecho iría en contra de cualquier transformación en el país debido a que con la obtención de dicha tecnología se seguiría transmitiendo información originada en otros espacios donde las condiciones no son las mismas y así como también, no habría ninguna participación nacional en la producción de dicha tecnología. En otras palabras, se llevaría a cabo un proceso unidireccional de Transferencia Tecnológica sin apropiación social del conocimiento, sin considerar las realidades y necesidades nacionales y en ese sentido, imposibilitando el desarrollo de capacidades tecnológicas propias en el país. </span></span></span></p>
+<p lang="es-ES" align="JUSTIFY"><span style="font-family: Liberation Serif,serif"><span><span style="color: #000000"> Por el contrario, al estimular el desarrollo de Tecnologías “Libres” en Venezuela, podremos decir que contribuiremos con el cometido que Varsavsky plantea sobre el estudiar cómo tener control de una situación, antes que saber cómo es ésta. En el caso de la producción nacional, el autor afirma que la planificación es crucial no para conocer “(&#8230;) si el país puede producir todo </span><span style="color: #000000"><em>lo que quiere</em></span><span style="color: #000000"> consumir (&#8230;)” (</span><span style="color: #000000">Ibídem</span><span style="color: #000000">, p. 51)</span><span style="color: #000000"> sino para saber cuáles son las necesidades reales y cómo satisfacerlas. Para aportar en esta tarea, se está desarrollando, bajo la metodología de software libre, un sistema que pretende visualizar las cadenas productivas del país para que la Administración Pública Nacional pueda contar con información más fidedigna y así planificar, lo que se debería producir en base a las necesidades reales de la población. </span></span></span></p>
+<p lang="es-ES" align="JUSTIFY"><span style="font-family: Liberation Serif,serif"><span> Para construir un nuevo sistema, también hay que promover una educación para el cambio. Los planes económicos que puedan surgir usando software libre para la planificación socio-productiva, por ejemplo, pueden quedarse sin fundamento al no haber una educación que transmita a la población la idea de que una verdadera libertad no está en la elección entre múltiples productos sino en entender la necesidad de lo que se consume. Es aquí donde haría falta que se active, en muchos venezolanos, lo que Varsavsky llama “un censor de espíritu crítico” (Ibídem, p. 55), la capacidad para entender desde lo que estamos consumiendo en cuanto a bienes materiales tanto como a la información y el conocimiento que estamos recibiendo. </span></span></p>
+<p lang="es-ES" align="JUSTIFY"><span style="font-family: Liberation Serif,serif"><span> Varsavsky, también propone que una organización para el cambio de sistema social debe basarse en “trabajar en equipos interdisciplinarios bien integrados” (Ibídem, p. 54), equipos en los cuales “es su entrenamiento general, no sus conocimientos específicos, lo que puede ser útil” (Ibídem) en una primera etapa de transformación. Este trabajo en equipos interdisciplinarios se puede encontrar en la Tecnología Libre, ya que como mencionamos inicialmente la construcción colaborativa del conocimiento, y con ello ¡la transmisión de un legado cultural!, es pilar fundamental en el desarrollo de la misma. </span></span></p>
+<p lang="es-ES" align="JUSTIFY"><span style="font-family: Liberation Serif,serif"><span> Por último, luego de haber revisado distintas reflexiones sobre la tecnología y su papel para la transformación social, podemos ver que la insistencia en la discusión pública sobre el Proyecto de “Ley de Infogobierno” de que <span style="color: #000000">“todo lo concerniente a desarrollo, adopción e implementación de tecnologías de información por parte del Estado deben ser </span><span style="color: #000000"><em>LIBRES”,</em></span> llega a sustentarse en el previamente mencionado “Espíritu Crítico” y en la convicción de que debe haber un verdadero “Cambio de Sistema”&#8230;</span></span></p>
+<p lang="es-ES" align="JUSTIFY"><span style="color: #1b1c20"><span style="font-family: Liberation Serif,serif"><span><strong>Referencias: </strong></span></span></span></p>
+<pre><span style="color: #1b1c20"><span style="font-family: Liberation Serif,serif"><span>León, L. (2008). Socialismo y Software Libre. </span></span></span><span style="color: #1b1c20"><span style="font-family: Liberation Serif,serif"><span><em>Reflexiones desde CENDITEL: Tecnología Socialista, 2: </em></span></span></span><span style="color: #1b1c20"><span style="font-family: Liberation Serif,serif"><span>37-76. </span></span></span>
+
+<span style="color: #1b1c20"><span style="font-family: Liberation Serif,serif"><span>Ochoa, A. (2008). El Sentido de las Políticas Públicas vinculadas al Conocimiento para la Transformación Social. </span></span></span><span style="color: #1b1c20"><span style="font-family: Liberation Serif,serif"><span><em>Reflexiones desde CENDITEL: Conocimiento y Bien Público, 4, </em></span></span></span><span style="color: #1b1c20"><span style="font-family: Liberation Serif,serif"><span>5-31.</span></span></span>
+
+<span style="color: #1b1c20"><span style="font-family: Liberation Serif,serif"><span>Proyecto de Ley de Infogobierno, 2da discusión en la Asamblea Nacional (2013). </span></span></span><span style="color: #1b1c20"><span style="font-family: Liberation Serif,serif"><span>[</span></span></span><span style="color: #1b1c20"><span style="font-family: Liberation Serif,serif"><span>Documento en línea</span></span></span><span style="color: #1b1c20"><span style="font-family: Liberation Serif,serif"><span>]. </span></span></span><span style="color: #1b1c20"><span style="font-family: Liberation Serif,serif"><span>Disponible en: http://colabora.softwarelibre.gob.ve/home/LeyDeInfogobierno.pdf</span></span></span>
+
+<span style="font-family: Liberation Serif,serif"><span>Varsavsky, O. (1969). <span style="color: #1b1c20"><em>Ciencia, política y cientificismo</em></span><span style="color: #1b1c20">. Buenos Aires: Centro Editor de América Latina. </span></span></span>
+
+<span style="font-family: Liberation Serif,serif"><span><span style="color: #1b1c20">Wiki Red Patria (2013). [Página web en línea]. Disponible en: </span>http://redpatria.org.ve/infogobierno</span></span></pre>
+			</div><!-- .entry-content -->
+
+	<footer class="entry-meta">
+		This entry was posted in <a href="http://conocimientolibre.cenditel.gob.ve/category/ley-de-infogobierno/" title="Ver todas las entradas publicadas en Ley de Infogobierno" rel="category tag">Ley de Infogobierno</a> and tagged <a href="http://conocimientolibre.cenditel.gob.ve/tag/ley-de-infogobierno/" rel="tag">Ley de Infogobierno</a> by <a href="http://conocimientolibre.cenditel.gob.ve/author/nbaez/">nbaez</a>. Bookmark the <a href="http://conocimientolibre.cenditel.gob.ve/2013/06/03/tecnologia-libre-y-cambio-de-sistema/" title="Permalink to Tecnología Libre y Cambio de Sistema" rel="bookmark">permalink</a>.		
+			</footer><!-- .entry-meta -->
+</article><!-- #post-99 -->
+
+						<div id="comments">
+	
+	
+	
+									<div id="respond" class="comment-respond">
+				<h3 id="reply-title" class="comment-reply-title">Agregue un comentario <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2013/06/03/tecnologia-libre-y-cambio-de-sistema/#respond" style="display:none;">Cancelar respuesta</a></small></h3>
+									<form action="http://conocimientolibre.cenditel.gob.ve/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+																			<p class="comment-notes">Su dirección de correo no se hará público. Los campos requeridos están marcados <span class="required">*</span></p>							<p class="comment-form-author"><label for="author">Nombre <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" aria-required='true' /></p>
+<p class="comment-form-email"><label for="email">Correo <span class="required">*</span></label> <input id="email" name="email" type="text" value="" size="30" aria-required='true' /></p>
+<p class="comment-form-url"><label for="url">Sitio web</label> <input id="url" name="url" type="text" value="" size="30" /></p>
+<p class="comment-form-captcha">
+		<label for="captcha"><b>Captcha </b></label>
+		<span class="required">*</span>
+		<div style="clear:both;"></div>
+		<img src="http://conocimientolibre.cenditel.gob.ve/wp-content/plugins/captcha-code-authentication/captcha_code_file.php?rand=1280616729" />
+		<div style="clear:both;"></div>
+		<label for="captcha_code">Type the text displayed above:</label>
+		<input id="captcha_code" name="captcha_code" size="15" type="text" />
+		<div style="clear:both;"></div>
+		</p>												<p class="comment-form-comment"><label for="comment">Comentario</label> <textarea id="comment" name="comment" cols="45" rows="8" aria-required="true"></textarea></p>						<p class="form-allowed-tags">Usted puede utilizar las etiquetas <abbr title="Lenguaje de Marcado de Hipertexto">HTML</abbr> y atributos:  <code>&lt;a href=&quot;&quot; title=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=&quot;&quot;&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=&quot;&quot;&gt; &lt;strike&gt; &lt;strong&gt; </code></p>						<p class="form-submit">
+							<input name="submit" type="submit" id="submit" value="Publicar comentario" />
+							<input type='hidden' name='comment_post_ID' value='99' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+						</p>
+											</form>
+							</div><!-- #respond -->
+						
+</div><!-- #comments -->
+
+				
+			</div><!-- #content -->
+		</div><!-- #primary -->
+
+
+
+	</div><!-- #main -->
+
+	<footer id="colophon" role="contentinfo">
+
+			
+
+
+			<div id="site-generator">
+				<html>
+
+<div id="imagen">
+<img src="/wp-content/themes/Bicentenario/images/logo.png">
+</div>
+
+<TABLE id="tabla">
+<tr>
+<div id="enlaces_titulo"><p>Enlaces de interes</p></div>
+
+</tr>
+
+     <TR>
+
+	
+
+          <TD><ul id="menu1">
+	<li><a href="http://www.mct.gob.ve/" target="_blank" alt="Ministerio del Poder Popular para Ciencia, Tecnología e Industrias Intermedias" title="Ministerio del Poder Popular para Ciencia, Tecnología e Industrias Intermedias">MppCTii</a></li>
+	<li> <a href="http://www.me.gob.ve/" target="_blank" alt="Ministerio del Poder Popular para la Educación" title="Ministerio del Poder Popular para la Educación">MppE</a></li>
+	<li> <a href="http://www.fundacite-merida.gob.ve" target="_blank" alt="Fundacite Mérida" title="Fundacite Mérida">Fundacite</a></li>
+	<li> <a href="http://www.fidetel.gob.ve" target="_blank" alt="Fondo de Investigación y Desarrollo de las Telecomunicaciones" title="Fondo de Investigación y Desarrollo de las Telecomunicaciones">FIDETEL</a> </li>
+</ul> </TD> 
+
+	<TD> <ul id="menu2">
+	<li><a href="http://www.minci.gob.ve" target="_blank" alt="Ministerio del Poder Popular para la Comunicacion e Informacion" title="Ministerio del Poder Popular para la Comunicacion e Informacion">Minci</a></li>
+	<li> <a href="http://www.minamb.gob.ve/" target="_blank" alt="Ministerio del Poder Popular para el Ambiente" title="Ministerio del Poder Popular para el Ambiente">MppA</a></li>
+	<li> <a href="http://www.cnti.gob.ve" target="_blank" alt="Centro Nacional de Tecnologías de Información" title="Centro Nacional de Tecnologías de Información">Cnti</a></li>
+	<li> <a href="http://www.mpcomunas.gob.ve" target="_blank" alt="Ministerio del Poder Popular para las Comunas y Protección Social" title="Ministerio del Poder Popular para las Comunas y Protección Social">MppCPS</a> </li>
+</ul></TD>
+     
+	<TD><ul id="menu3">
+	<li><a href="http://www.ministeriodelacultura.gob.ve" target="_blank" alt="Ministerio del Poder Popular para la Cultura" title="Ministerio del Poder Popular para la Cultura">MppC</a></li>
+	<li> <a href="http://www.mppeu.gob.ve/" target="_blank" alt="Ministerio del Poder Popular para la Educación Universitaria" title="Ministerio del Poder Popular para la Educación Universitaria">MppEU</a></li>
+	<li> <a href="http://www.suscerte.gob.ve" target="_blank" alt="Superintendencia de Servicios de Certificación Electrónica" title="Superintendencia de Servicios de Certificación Electrónica">SUSCERTE</a> </li>
+	<li> <a href="http://www.cantv.net/" target="_blank" alt="CANTV" title="CANTV"> CANTV</a></li>
+	</ul> </TD> 
+
+      </TR> 
+</TABLE>
+<div id="pie">
+<p>
+FUNDACIÓN CENTRO NACIONAL DE DESARROLLO E INVESTIGACIÓN EN TECNOLOGÍAS LIBRES (CENDITEL) Avenida Alberto Carnevali, vía La Hechicera, Edificio CENDITEL. Teléfono: (0274)6574336 - 6574958. Apartado Postal: 078. Código Postal: 5101A. RIF: G-20007349-7. Mérida-Venezuela</p>
+</div>
+
+</html>
+
+
+		
+			
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+</body>
+</html>

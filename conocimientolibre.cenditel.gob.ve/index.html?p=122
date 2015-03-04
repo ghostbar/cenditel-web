@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="es-PE">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="es-PE">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="es-PE">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="es-PE">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>La Liberación de la dictadura del software. Parte III &#8211; Colaboración y competencia liberal. | Conocimiento Libre</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="stylesheet" type="text/css" media="all" href="http://conocimientolibre.cenditel.gob.ve/wp-content/themes/proyecto_communita/style.css" />
+<link rel="pingback" href="http://conocimientolibre.cenditel.gob.ve/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="http://conocimientolibre.cenditel.gob.ve/wp-content/themes/proyecto_communita/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+<link rel="alternate" type="application/rss+xml" title="Conocimiento Libre &raquo; Feed" href="http://conocimientolibre.cenditel.gob.ve/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Conocimiento Libre &raquo; Feed de comentarios" href="http://conocimientolibre.cenditel.gob.ve/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Conocimiento Libre &raquo; La Liberación de la dictadura del software. Parte III &#8211; Colaboración y competencia liberal. Feed de comentarios" href="http://conocimientolibre.cenditel.gob.ve/2013/06/08/la-liberacion-de-la-dictadura-del-software-parte-iii-colaboracion-y-competencia-liberal/feed/" />
+<link rel='stylesheet' id='rbanner-css-css'  href='http://conocimientolibre.cenditel.gob.ve/wp-content/plugins/random-banner//css/rbanner.css?ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='videojs-plugin-css'  href='http://conocimientolibre.cenditel.gob.ve/wp-content/plugins/videojs-html5-video-player-for-wordpress/plugin-styles.css?ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='videojs-css'  href='http://conocimientolibre.cenditel.gob.ve/wp-content/plugins/videojs-html5-video-player-for-wordpress/videojs/video-js.css?ver=3.6.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://conocimientolibre.cenditel.gob.ve/wp-includes/js/comment-reply.min.js?ver=3.6.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://conocimientolibre.cenditel.gob.ve/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://conocimientolibre.cenditel.gob.ve/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Tecnología Libre y Cambio de Sistema' href='http://conocimientolibre.cenditel.gob.ve/2013/06/03/tecnologia-libre-y-cambio-de-sistema/' />
+<link rel='next' title='La globalización y la ficción corporativista de Desarrollo Tecnológico' href='http://conocimientolibre.cenditel.gob.ve/2013/06/10/la-globalizacion-y-la-ficcion-corporativista-de-desarrollo-tecnologico-entrevista-a-rodolfo-sumoza/' />
+<meta name="generator" content="WordPress 3.6.1" />
+<link rel='canonical' href='http://conocimientolibre.cenditel.gob.ve/2013/06/08/la-liberacion-de-la-dictadura-del-software-parte-iii-colaboracion-y-competencia-liberal/' />
+<link rel='shortlink' href='http://conocimientolibre.cenditel.gob.ve/?p=122' />
+
+		<script type="text/javascript">
+			if(typeof videojs != "undefined") {
+				videojs.options.flash.swf = "http://conocimientolibre.cenditel.gob.ve/wp-content/plugins/videojs-html5-video-player-for-wordpress/videojs/video-js.swf";
+			}
+			document.createElement("video");document.createElement("audio");document.createElement("track");
+		</script>
+			<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+</head>
+
+<body class="single single-post postid-122 single-format-standard singular two-column right-sidebar">
+<div id="page" class="hfeed">
+	<header id="branding" role="banner">
+			<hgroup>
+				<h1 id="site-title"><span><a href="http://conocimientolibre.cenditel.gob.ve/" title="Conocimiento Libre" rel="home">Conocimiento Libre</a></span></h1>
+				<h2 id="site-description">Reflexiones críticas para la apropiación del Conocimiento Libre en Venezuela</h2>
+			</hgroup>
+
+						<a href="http://conocimientolibre.cenditel.gob.ve/">
+									<img src="http://conocimientolibre.cenditel.gob.ve/files/2013/05/cropped-Obra-Mural-CENDITEL-web.jpg" width="1000" height="288" alt="" />
+							</a>
+			
+								<form method="get" id="searchform" action="http://conocimientolibre.cenditel.gob.ve/">
+		<label for="s" class="assistive-text">Search</label>
+		<input type="text" class="field" name="s" id="s" placeholder="Search" />
+		<input type="submit" class="submit" name="submit" id="searchsubmit" value="Search" />
+	</form>
+			
+			<nav id="access" role="navigation">
+				<h3 class="assistive-text">Main menu</h3>
+								<div class="skip-link"><a class="assistive-text" href="#content" title="Skip to primary content">Skip to primary content</a></div>
+				<div class="skip-link"><a class="assistive-text" href="#secondary" title="Skip to secondary content">Skip to secondary content</a></div>
+								<div class="menu"><ul><li ><a href="http://conocimientolibre.cenditel.gob.ve/" title="Inicio">Inicio</a></li><li class="page_item page-item-2"><a href="http://conocimientolibre.cenditel.gob.ve/elblog/">Sobre el Blog</a></li></ul></div>
+			</nav><!-- #access -->
+	</header><!-- #branding -->
+
+
+	<div id="main">
+		<div id="primary">
+			<div id="content" role="main">
+
+				
+					<nav id="nav-single">
+						<h3 class="assistive-text">Post navigation</h3>
+						<span class="nav-previous"><a href="http://conocimientolibre.cenditel.gob.ve/2013/06/03/tecnologia-libre-y-cambio-de-sistema/" rel="prev"><span class="meta-nav">&larr;</span> Previous</a></span>
+						<span class="nav-next"><a href="http://conocimientolibre.cenditel.gob.ve/2013/06/10/la-globalizacion-y-la-ficcion-corporativista-de-desarrollo-tecnologico-entrevista-a-rodolfo-sumoza/" rel="next">Next <span class="meta-nav">&rarr;</span></a></span>
+					</nav><!-- #nav-single -->
+
+					
+<article id="post-122" class="post-122 post type-post status-publish format-standard hentry category-ley-de-infogobierno category-neutralidad-tecnologica">
+	<header class="entry-header">
+		<h1 class="entry-title">La Liberación de la dictadura del software. Parte III &#8211; Colaboración y competencia liberal.</h1>
+
+				<div class="entry-meta">
+			<span class="sep">Posted on </span><a href="http://conocimientolibre.cenditel.gob.ve/2013/06/08/la-liberacion-de-la-dictadura-del-software-parte-iii-colaboracion-y-competencia-liberal/" title="6:56 pm" rel="bookmark"><time class="entry-date" datetime="2013-06-08T18:56:29+00:00" pubdate>Junio 8, 2013</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="http://conocimientolibre.cenditel.gob.ve/author/jcontreras/" title="View all posts by jcontreras" rel="author">jcontreras</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p><em>José J. Contreras</em> <a href="#adscripcion">(1)</a></p>
+<p>A continuación presentaremos el último artículo de una trilogía dedicada a revisar el tema de la dictadura del software desde la perspectiva liberal. Ello, a propósito del proyecto de “Ley de Infogobierno” que se encuentra en segunda discusión en la Asamblea Nacional y en el cual, se establece el uso de software libre como obligatorio por parte de las organizaciones gubernamentales.</p>
+<p>En el <a title="Parte I" href="http://conocimientolibre.cenditel.gob.ve/2013/05/18/la-liberacion-de-la-dictadura-del-software-parte-i-el-estado-neutral-liberal/" target="_blank">primer artículo</a>, mostramos que la dictadura en el mercado del Software ha venido siendo ejercido principalmente por la corporación multinacional Microsoft a través de diversas acciones monopolistas que van en contra de los principios propios de la Sociedad Liberal. La más importante de ellas, y de la cual hablamos en el <a title="Parte ii" href="http://conocimientolibre.cenditel.gob.ve/2013/05/27/la-liberacion-de-la-dictadura-del-software-parte-ii-la-manipulacion-del-mercado-en-la-escasez-artificial-del-conocimiento/" target="_blank">segundo artículo</a>, a través de la escasez artificial del bien “conocimiento” utilizando mecanismos legales de la llamada “propiedad intelectual”.</p>
+<p>La “propiedad intelectual”, si bien está en contra de los principios del liberalismo, es justificada debido a que, se supone, ella promueve la innovación. ¿Por qué? Porque invertir en innovación es muy riesgoso, los costos son elevados y la posibilidad de recuperación insegura. La propiedad intelectual, se dice, promueve la innovación porque crea una barrera legal que permite que quien hace una innovación puede gozar de un monopolio artificial de su descubrimiento por un tiempo limitado.</p>
+<p>Pues bueno, hagamos algo, aceptemos el juego y salgamos del terreno estrictamente teórico del liberalismo. Seamos un poco más pragmáticos y revisemos el caso de los procesos de innovación que tienen lugar alrededor del sistema operativo Linux (Software Libre), que no tiene estas restricciones de licencia que trae consigo la “propiedad intelectual” de Microsoft. Veamos.</p>
+<p>Las licencias del sistema operativo Linux son de código abierto y permiten que cualquier persona pueda examinarlo y modificarlo de parecerle conveniente. Sus modificaciones podrán ser incorporadas al código Linux de aprobar los estándares de calidad. Asimismo, los usuarios Linux pueden copiar irrestrictamente la aplicación y usarla con completa libertad. Tendría que mostrarse que el modelo de innovación de Microsoft es más innovador que el modelo de innovación de Linux y que con ello, se potencia más la libertad de escogencia de los individuos gracias a una oferta fortalecida. De ser así, podría entonces quizá aceptarse que la propiedad intelectual es válida para potenciar la innovación en el mercado del software.</p>
+<p>El proyecto Linux es un buen ejemplo de eso que algunas personas han dado en llamar la “coopetencia”. Se trata de estrategias de co-operación entre competidores para reducir costos. En el proyecto Linux convergen una serie de individuos particulares, académicos y estudiantes, pequeñas empresas e incluso corporaciones multinacionales para contribuir en el mantenimiento y desarrollo del kernel de Linux. De acuerdo al <a title="Reporte Linux 2012" href="http://go.linuxfoundation.org/who-writes-linux-2012" target="_blank">reporte</a> presentado en marzo de 2012, el proyecto Linux ha sido hasta el momento el más ambicioso proyecto de colaboración en la historia de la computación. Una nueva versión del kernel es liberada cada dos o tres meses la cual contiene entre 8.000 y 12.000 paquetes con actualizaciones. De hecho, se trata de la incorporación de un promedio de seis parches cada hora al kernel de Linux. En cada liberación, participan alrededor de 1.000 programadores y unas 200 corporaciones. Desde el año 2005, se estima que han colaborado 7.800 programadores y 800 compañías.</p>
+<p>El kernel de Linux es el núcleo a partir del cual se desarrollan otros proyectos tales como el GNU, el X.org, los entornos de escritorio Gnome y KDE, entre muchos otros. Es importante destacar que servicios de tanta concurrencia como el motor de búsqueda de Google, el servicio de microblogging Twitter, la red social Facebook y el servicio de comercio electrónico de Amazon corren todos sobre Linux. Un producto desarrollado a partir de Linux es el Android y actualmente se activan 850.000 teléfonos móviles diarios con Android versus 30.000 teléfonos con Windows. Las gran mayoría de los televisores digitales corren sobre Linux, así como 9 de cada 10 supercomputadores. Particularmente en Venezuela, las ya casi tres millones de minicomputadoras Canaima que tienen nuestros niños escolares corren en Linux, los más de cuatrocientos mil decodificadores de Televisión Digital Abierta también, así como el servicio de participación democrática de la Red Patria y muchos otros servicios de infogobierno.</p>
+<p><iframe width="584" height="329" src="http://www.youtube.com/embed/JDjzxY0aTIQ?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<p>Es también cardinal revelar la estructura de los colaboradores del kernel de Linux. Del total de contribuciones al kernel, un importantísimo 19,2% son realizadas por contribuyentes que alegan brindar su contribución de manera voluntaria o por labores académicas. Hay también un 5,1% de contribuyentes que no se sabe si están adscritos a alguna compañía, por lo que se supone que un porcentaje alto de estos “desconocidos” lo hacen de manera voluntaria. Así que a fin de cuentas nos encontramos con una nada desdeñable contribución al kernel de Linux de cerca del 24,4% proveniente de contribuyentes voluntarios y de académicos.</p>
+<p>Sin embargo, está demostrado que el 75% de los contribuyentes del kernel de Linux son trabajadores de corporaciones multinacionales. El primer contribuyente al kernel es Red Hat <a href="#red_hat">(2)</a> con un 11,9%, seguido por Novell 6,4%, Intel 6,2% e IBM 6,1%. En la lista también encontraremos a Oracle 2,1%, Nokia 1,2%, Fujitsu 1,2%, Google 1%, Hewlett Packard 0,8%, Samsung 0,6%, entre otros. Entre los miembros del <a title="Directorio de la Fundación Linux" href="http://www.linuxfoundation.org/about/board-members" target="_blank">Directorio de la Fundación Linux</a> encontraremos representantes de Novell, Oracle, Fujitsu, Intel, IBM, Hitachi, Samsung, NEC, Netapp, Splashtop, Quic, y algunos pocos individuos sin afiliación corporativa.</p>
+<p>Vemos aquí cómo se ha logrado un interesante y exitoso proyecto, en el que fieros competidores colaboran en áreas de investigación y desarrollo para el beneficio mutuo. El kernel de Linux es relativamente una pequeña parte del sistema Linux en su totalidad, sin embargo, el kernel es el núcleo común a todas las versiones y el que determina qué tan bien funciona el sistema total. En esta colaboración, los competidores comparten costos y riesgos (i.e. se benefician mutuamente), sin que ello les impida competir a través de servicios y productos subsidiarios. Visto así pues ¿para qué hace falta mantener el artilugio de la escasez artificial a través de los contratos de licencia y la propiedad intelectual en el mercado del software? El argumento de la necesidad de proteger la inversión “porque si no nadie va a invertir en tan riesgoso asunto”, aparece aquí como inverosímil ante la co-operación en la que concurren&#8230;</p>
+<p>Ya para cerrar, ¿saben cuál fue la empresa transnacional que ocupó el puesto 17° entre los principales contribuyente al kernel de Linux con un respetable 1%, poco por debajo de Oracle (1,6%) y Google (1,5%)? No es de extrañar&#8230; Microsoft. Y es que hasta Microsoft está invirtiendo sumas millonarias de dólares en el desarrollo de software libre; software que no utiliza el artilugio de la escasez artificial a través del monopolio de la propiedad intelectual al que tanto defiende la mencionada empresa.</p>
+<p><a href="http://conocimientolibre.cenditel.gob.ve/2013/06/08/la-liberacion-de-la-dictadura-del-software-parte-iii-colaboracion-y-competencia-liberal/tabla-de-contribuyentes-del-kernel-2/" rel="attachment wp-att-135"><img class="aligncenter size-medium wp-image-135" src="http://conocimientolibre.cenditel.gob.ve/files/2013/06/Tabla-de-contribuyentes-del-kernel1-157x300.jpg" alt="" width="157" height="300" /></a></p>
+<p>En enero de este año, el diputado Leomagno Flores decía que el proyecto de “Ley de Infogobierno” abolía el principio de la “neutralidad tecnológica” y de la libre escogencia. Hemos demostrado en estos tres artículos la falacia de este argumento. No desde una perspectiva externa, sino desde los mismos principios liberales que esgrime el diputado.</p>
+<p>Claro que la pregunta que surge es la siguiente, si aprobamos la solicitud de utilización de Software Libre por parte de las organizaciones gubernamentales ¿no estamos apoyando a esa catajarra de corporaciones multinacionales que, como hemos visto, soportan el proyecto transnacional Linux? Eso deberemos tratarlo posteriormente.</p>
+<p>Notas</p>
+<p><a name="adscripcion"></a> (1) Investigador del Centro Nacional de Desarrollo e Investigación en Tecnologías Libres (Cenditel): jcontreras@cenditel.gob.ve<br />
+<a name="red_hat"></a> (2) Red Hat es una empresa entre cuyos accionistas se encuentran Intel, IBM y Novell.</p>
+			</div><!-- .entry-content -->
+
+	<footer class="entry-meta">
+		This entry was posted in <a href="http://conocimientolibre.cenditel.gob.ve/category/ley-de-infogobierno/" title="Ver todas las entradas publicadas en Ley de Infogobierno" rel="category tag">Ley de Infogobierno</a>, <a href="http://conocimientolibre.cenditel.gob.ve/category/neutralidad-tecnologica/" title="Ver todas las entradas publicadas en Neutralidad Tecnológica" rel="category tag">Neutralidad Tecnológica</a> by <a href="http://conocimientolibre.cenditel.gob.ve/author/jcontreras/">jcontreras</a>. Bookmark the <a href="http://conocimientolibre.cenditel.gob.ve/2013/06/08/la-liberacion-de-la-dictadura-del-software-parte-iii-colaboracion-y-competencia-liberal/" title="Permalink to La Liberación de la dictadura del software. Parte III &#8211; Colaboración y competencia liberal." rel="bookmark">permalink</a>.		
+			</footer><!-- .entry-meta -->
+</article><!-- #post-122 -->
+
+						<div id="comments">
+	
+	
+			<h2 id="comments-title">
+			One thought on &ldquo;<span>La Liberación de la dictadura del software. Parte III &#8211; Colaboración y competencia liberal.</span>&rdquo;		</h2>
+
+		
+		<ol class="commentlist">
+				<li class="post pingback">
+		<p>Pingback: <a href='http://conocimientolibre.cenditel.gob.ve/2013/07/04/apropiandonos-del-software-libre-modulo-i-desarrollo-colaborativo-sureno/' rel='external nofollow' class='url'>Apropiándonos del Software Libre. Módulo I. Desarrollo colaborativo sureño. | Conocimiento Libre</a></p>
+	</li><!-- #comment-## -->
+		</ol>
+
+		
+	
+									<div id="respond" class="comment-respond">
+				<h3 id="reply-title" class="comment-reply-title">Agregue un comentario <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2013/06/08/la-liberacion-de-la-dictadura-del-software-parte-iii-colaboracion-y-competencia-liberal/#respond" style="display:none;">Cancelar respuesta</a></small></h3>
+									<form action="http://conocimientolibre.cenditel.gob.ve/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+																			<p class="comment-notes">Su dirección de correo no se hará público. Los campos requeridos están marcados <span class="required">*</span></p>							<p class="comment-form-author"><label for="author">Nombre <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" aria-required='true' /></p>
+<p class="comment-form-email"><label for="email">Correo <span class="required">*</span></label> <input id="email" name="email" type="text" value="" size="30" aria-required='true' /></p>
+<p class="comment-form-url"><label for="url">Sitio web</label> <input id="url" name="url" type="text" value="" size="30" /></p>
+<p class="comment-form-captcha">
+		<label for="captcha"><b>Captcha </b></label>
+		<span class="required">*</span>
+		<div style="clear:both;"></div>
+		<img src="http://conocimientolibre.cenditel.gob.ve/wp-content/plugins/captcha-code-authentication/captcha_code_file.php?rand=1110990116" />
+		<div style="clear:both;"></div>
+		<label for="captcha_code">Type the text displayed above:</label>
+		<input id="captcha_code" name="captcha_code" size="15" type="text" />
+		<div style="clear:both;"></div>
+		</p>												<p class="comment-form-comment"><label for="comment">Comentario</label> <textarea id="comment" name="comment" cols="45" rows="8" aria-required="true"></textarea></p>						<p class="form-allowed-tags">Usted puede utilizar las etiquetas <abbr title="Lenguaje de Marcado de Hipertexto">HTML</abbr> y atributos:  <code>&lt;a href=&quot;&quot; title=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=&quot;&quot;&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=&quot;&quot;&gt; &lt;strike&gt; &lt;strong&gt; </code></p>						<p class="form-submit">
+							<input name="submit" type="submit" id="submit" value="Publicar comentario" />
+							<input type='hidden' name='comment_post_ID' value='122' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+						</p>
+											</form>
+							</div><!-- #respond -->
+						
+</div><!-- #comments -->
+
+				
+			</div><!-- #content -->
+		</div><!-- #primary -->
+
+
+
+	</div><!-- #main -->
+
+	<footer id="colophon" role="contentinfo">
+
+			
+
+
+			<div id="site-generator">
+				<html>
+
+<div id="imagen">
+<img src="/wp-content/themes/Bicentenario/images/logo.png">
+</div>
+
+<TABLE id="tabla">
+<tr>
+<div id="enlaces_titulo"><p>Enlaces de interes</p></div>
+
+</tr>
+
+     <TR>
+
+	
+
+          <TD><ul id="menu1">
+	<li><a href="http://www.mct.gob.ve/" target="_blank" alt="Ministerio del Poder Popular para Ciencia, Tecnología e Industrias Intermedias" title="Ministerio del Poder Popular para Ciencia, Tecnología e Industrias Intermedias">MppCTii</a></li>
+	<li> <a href="http://www.me.gob.ve/" target="_blank" alt="Ministerio del Poder Popular para la Educación" title="Ministerio del Poder Popular para la Educación">MppE</a></li>
+	<li> <a href="http://www.fundacite-merida.gob.ve" target="_blank" alt="Fundacite Mérida" title="Fundacite Mérida">Fundacite</a></li>
+	<li> <a href="http://www.fidetel.gob.ve" target="_blank" alt="Fondo de Investigación y Desarrollo de las Telecomunicaciones" title="Fondo de Investigación y Desarrollo de las Telecomunicaciones">FIDETEL</a> </li>
+</ul> </TD> 
+
+	<TD> <ul id="menu2">
+	<li><a href="http://www.minci.gob.ve" target="_blank" alt="Ministerio del Poder Popular para la Comunicacion e Informacion" title="Ministerio del Poder Popular para la Comunicacion e Informacion">Minci</a></li>
+	<li> <a href="http://www.minamb.gob.ve/" target="_blank" alt="Ministerio del Poder Popular para el Ambiente" title="Ministerio del Poder Popular para el Ambiente">MppA</a></li>
+	<li> <a href="http://www.cnti.gob.ve" target="_blank" alt="Centro Nacional de Tecnologías de Información" title="Centro Nacional de Tecnologías de Información">Cnti</a></li>
+	<li> <a href="http://www.mpcomunas.gob.ve" target="_blank" alt="Ministerio del Poder Popular para las Comunas y Protección Social" title="Ministerio del Poder Popular para las Comunas y Protección Social">MppCPS</a> </li>
+</ul></TD>
+     
+	<TD><ul id="menu3">
+	<li><a href="http://www.ministeriodelacultura.gob.ve" target="_blank" alt="Ministerio del Poder Popular para la Cultura" title="Ministerio del Poder Popular para la Cultura">MppC</a></li>
+	<li> <a href="http://www.mppeu.gob.ve/" target="_blank" alt="Ministerio del Poder Popular para la Educación Universitaria" title="Ministerio del Poder Popular para la Educación Universitaria">MppEU</a></li>
+	<li> <a href="http://www.suscerte.gob.ve" target="_blank" alt="Superintendencia de Servicios de Certificación Electrónica" title="Superintendencia de Servicios de Certificación Electrónica">SUSCERTE</a> </li>
+	<li> <a href="http://www.cantv.net/" target="_blank" alt="CANTV" title="CANTV"> CANTV</a></li>
+	</ul> </TD> 
+
+      </TR> 
+</TABLE>
+<div id="pie">
+<p>
+FUNDACIÓN CENTRO NACIONAL DE DESARROLLO E INVESTIGACIÓN EN TECNOLOGÍAS LIBRES (CENDITEL) Avenida Alberto Carnevali, vía La Hechicera, Edificio CENDITEL. Teléfono: (0274)6574336 - 6574958. Apartado Postal: 078. Código Postal: 5101A. RIF: G-20007349-7. Mérida-Venezuela</p>
+</div>
+
+</html>
+
+
+		
+			
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+</body>
+</html>

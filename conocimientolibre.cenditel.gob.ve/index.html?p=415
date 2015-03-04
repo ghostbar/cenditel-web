@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="es-PE">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="es-PE">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="es-PE">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="es-PE">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>¿Para qué una Ley de Acceso al Conocimiento Libre? (I). El libre acceso al conocimiento como estrategia nacional | Conocimiento Libre</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="stylesheet" type="text/css" media="all" href="http://conocimientolibre.cenditel.gob.ve/wp-content/themes/proyecto_communita/style.css" />
+<link rel="pingback" href="http://conocimientolibre.cenditel.gob.ve/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="http://conocimientolibre.cenditel.gob.ve/wp-content/themes/proyecto_communita/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+<link rel="alternate" type="application/rss+xml" title="Conocimiento Libre &raquo; Feed" href="http://conocimientolibre.cenditel.gob.ve/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Conocimiento Libre &raquo; Feed de comentarios" href="http://conocimientolibre.cenditel.gob.ve/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Conocimiento Libre &raquo; ¿Para qué una Ley de Acceso al Conocimiento Libre? (I). El libre acceso al conocimiento como estrategia nacional Feed de comentarios" href="http://conocimientolibre.cenditel.gob.ve/2014/11/18/para-que-una-ley-de-acceso-al-conocimiento-libre-i-el-libre-acceso-al-conocimiento-como-estrategia-nacional/feed/" />
+<link rel='stylesheet' id='rbanner-css-css'  href='http://conocimientolibre.cenditel.gob.ve/wp-content/plugins/random-banner//css/rbanner.css?ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='videojs-plugin-css'  href='http://conocimientolibre.cenditel.gob.ve/wp-content/plugins/videojs-html5-video-player-for-wordpress/plugin-styles.css?ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='videojs-css'  href='http://conocimientolibre.cenditel.gob.ve/wp-content/plugins/videojs-html5-video-player-for-wordpress/videojs/video-js.css?ver=3.6.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://conocimientolibre.cenditel.gob.ve/wp-includes/js/comment-reply.min.js?ver=3.6.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://conocimientolibre.cenditel.gob.ve/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://conocimientolibre.cenditel.gob.ve/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Chávez, motorizador del discurso salvaje' href='http://conocimientolibre.cenditel.gob.ve/2014/11/11/chavez-motorizador-del-discurso-salvaje/' />
+<link rel='next' title='¿Para qué una Ley de Acceso al Conocimiento Libre? (II). Elementos para una política nacional de libre acceso al conocimiento' href='http://conocimientolibre.cenditel.gob.ve/2014/11/19/para-que-una-ley-de-acceso-al-conocimiento-libre-ii-elementos-para-una-politica-nacional-de-libre-acceso-al-conocimiento/' />
+<meta name="generator" content="WordPress 3.6.1" />
+<link rel='canonical' href='http://conocimientolibre.cenditel.gob.ve/2014/11/18/para-que-una-ley-de-acceso-al-conocimiento-libre-i-el-libre-acceso-al-conocimiento-como-estrategia-nacional/' />
+<link rel='shortlink' href='http://conocimientolibre.cenditel.gob.ve/?p=415' />
+
+		<script type="text/javascript">
+			if(typeof videojs != "undefined") {
+				videojs.options.flash.swf = "http://conocimientolibre.cenditel.gob.ve/wp-content/plugins/videojs-html5-video-player-for-wordpress/videojs/video-js.swf";
+			}
+			document.createElement("video");document.createElement("audio");document.createElement("track");
+		</script>
+			<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+</head>
+
+<body class="single single-post postid-415 single-format-standard singular two-column right-sidebar">
+<div id="page" class="hfeed">
+	<header id="branding" role="banner">
+			<hgroup>
+				<h1 id="site-title"><span><a href="http://conocimientolibre.cenditel.gob.ve/" title="Conocimiento Libre" rel="home">Conocimiento Libre</a></span></h1>
+				<h2 id="site-description">Reflexiones críticas para la apropiación del Conocimiento Libre en Venezuela</h2>
+			</hgroup>
+
+						<a href="http://conocimientolibre.cenditel.gob.ve/">
+									<img src="http://conocimientolibre.cenditel.gob.ve/files/2013/05/cropped-Obra-Mural-CENDITEL-web.jpg" width="1000" height="288" alt="" />
+							</a>
+			
+								<form method="get" id="searchform" action="http://conocimientolibre.cenditel.gob.ve/">
+		<label for="s" class="assistive-text">Search</label>
+		<input type="text" class="field" name="s" id="s" placeholder="Search" />
+		<input type="submit" class="submit" name="submit" id="searchsubmit" value="Search" />
+	</form>
+			
+			<nav id="access" role="navigation">
+				<h3 class="assistive-text">Main menu</h3>
+								<div class="skip-link"><a class="assistive-text" href="#content" title="Skip to primary content">Skip to primary content</a></div>
+				<div class="skip-link"><a class="assistive-text" href="#secondary" title="Skip to secondary content">Skip to secondary content</a></div>
+								<div class="menu"><ul><li ><a href="http://conocimientolibre.cenditel.gob.ve/" title="Inicio">Inicio</a></li><li class="page_item page-item-2"><a href="http://conocimientolibre.cenditel.gob.ve/elblog/">Sobre el Blog</a></li></ul></div>
+			</nav><!-- #access -->
+	</header><!-- #branding -->
+
+
+	<div id="main">
+		<div id="primary">
+			<div id="content" role="main">
+
+				
+					<nav id="nav-single">
+						<h3 class="assistive-text">Post navigation</h3>
+						<span class="nav-previous"><a href="http://conocimientolibre.cenditel.gob.ve/2014/11/11/chavez-motorizador-del-discurso-salvaje/" rel="prev"><span class="meta-nav">&larr;</span> Previous</a></span>
+						<span class="nav-next"><a href="http://conocimientolibre.cenditel.gob.ve/2014/11/19/para-que-una-ley-de-acceso-al-conocimiento-libre-ii-elementos-para-una-politica-nacional-de-libre-acceso-al-conocimiento/" rel="next">Next <span class="meta-nav">&rarr;</span></a></span>
+					</nav><!-- #nav-single -->
+
+					
+<article id="post-415" class="post-415 post type-post status-publish format-standard hentry category-ley-conocimiento-libre category-politica-tecnologica category-responsabilidad-tecnopolitica category-soberania-tecnologica category-tecnologias-libres tag-conocimiento-libre tag-ley-conocimiento-libre tag-politica-tecnologica tag-soberania-tecnologica-2 tag-tecnologias-libres">
+	<header class="entry-header">
+		<h1 class="entry-title">¿Para qué una Ley de Acceso al Conocimiento Libre? (I). El libre acceso al conocimiento como estrategia nacional</h1>
+
+				<div class="entry-meta">
+			<span class="sep">Posted on </span><a href="http://conocimientolibre.cenditel.gob.ve/2014/11/18/para-que-una-ley-de-acceso-al-conocimiento-libre-i-el-libre-acceso-al-conocimiento-como-estrategia-nacional/" title="8:53 pm" rel="bookmark"><time class="entry-date" datetime="2014-11-18T20:53:56+00:00" pubdate>Noviembre 18, 2014</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="http://conocimientolibre.cenditel.gob.ve/author/sroca/" title="View all posts by sroca" rel="author">sroca</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p style="text-align: right" align="CENTER"> <span style="font-family: 'Liberation Serif', serif">Santiago José Roca</span></p>
+<p align="JUSTIFY"><span style="font-family: 'Liberation Serif', serif">La discusión pública del Proyecto de Ley de Conocimiento Libre<a href="#sdfootnote1sym" name="sdfootnote1anc"><sup>1</sup></a> en Venezuela nos presenta una oportunidad para revisar las ventajas de la integración de conceptos y estrategias relativas a los movimientos por el libre acceso al conocimiento en un marco de regulación nacional. En principio, el Proyecto de Ley de Conocimiento Libre nos parece una declaración en favor del acceso abierto al conocimiento – es decir, el marco que permite acceder a los resultados de investigación que se encuentren en investigaciones formales, puedan utilizarse sin restricciones económicas ni jurídicas, más allá del reconocimiento debido al autor y la conservación del propio marco a través de los permisos otorgados para las obras derivadas.</span></p>
+<p align="JUSTIFY"><span style="font-family: 'Liberation Serif', serif">No obstante, al mismo tiempo el proyecto tiene un carácter más amplio puesto que intenta convertir el libre acceso al conocimiento en una política que abarca otras dimensiones. En este sentido, su importancia no se limita a establecer bases para la utilización de la información que proporcionan los artículos científicos, sino que puede ayudar a crear oportunidades para la definición de nuevas políticas científico-tecnológicas y universitarias.</span></p>
+<p align="JUSTIFY"><span style="font-family: 'Liberation Serif', serif">En este ensayo nos enfocaremos en revisar cómo este proyecto parece nutrir una estrategia nacional de libre acceso al conocimiento, no como un fin en sí mismo, sino como parte de una política central en nuestro país, especialmente con miras a una revolución del conocimiento, la ciencia y la cultura.</span></p>
+<p align="JUSTIFY"><span style="font-family: 'Liberation Serif', serif"><b><em>El libre acceso al conocimiento como una estrategia nacional</em></b></span><em> </em></p>
+<p align="JUSTIFY"><span style="font-family: 'Liberation Serif', serif">La pregunta no deja de ser pertinente: ¿es necesaria una Ley de Conocimiento Libre en un país como Venezuela? Al parecer, existe un consenso general sobre las políticas relacionadas con el libre acceso al conocimiento en general, y una Ley no tiene por qué tener más impacto que las declaraciones en favor del acceso abierto apoyadas por algunas universidades nacionales. Además, existen organizaciones conocidas internacionalmente, como Public Library of Sciente (PLOS) y Creative Commons (CC), quienes se han encargado de proponer normas para el acceso abierto y el licenciamiento de los productos de investigación (respectivamente).</span></p>
+<p align="JUSTIFY"><span style="font-family: 'Liberation Serif', serif">No obstante, entendemos que el proyecto de Ley busca más que solamente a facilitar la generación de políticas institucionales para la creación de repositorios de acceso abierto, y que pretende que se surjan políticas en un plano más integral. Nos da un indicio de ello cuando señala en su objeto general:</span></p>
+<p align="JUSTIFY"><span class="Apple-style-span" style="font-family: 'Liberation Serif', serif">&#8220;Artículo 1. Esta Ley tiene por objeto establecer los principios y condiciones que permitan el libre acceso al conocimiento, considerado éste como bien público que contribuye con el acervo social, humanístico y cognitivo de los pueblos y beneficia a la sociedad, creando condiciones que posibiliten un desarrollo equitativo. El conocimiento que se desarrolla con fondos otorgados por el Estado deberá ser visible y estar disponible para ser consultado, usado, mejorado y transmitido a través de repositorios digitales, medios digitales, material impreso y espacios de socialización, sin perjuicio del uso de otros medios que, producto de las innovaciones tecnológicas, puedan surgir en el futuro&#8221;.</span></p>
+<p align="JUSTIFY"><span class="Apple-style-span" style="font-family: 'Liberation Serif', serif">Para responder si es relevante la formulación de una ley que impulse el conocimiento libre nos planteareamos los siguientes puntos de reflexión:</span></p>
+<p align="JUSTIFY"><span class="Apple-style-span" style="font-family: 'Liberation Serif', serif"><b><em>Contexto académico y científico-tecnológico</em>: </b>la iniciativa de ley para el acceso abierto a los resultados de investigación debe buscar la transformación de las prácticas de generación de conocimientos en las instituciones y redes abocadas a ello. Puede que apenas haga falta insistir en esto, pero las prácticas de libre acceso al conocimiento facilitan que se eliminen las barreras de acceso a la información y, por tanto, reducen los costos que involucra la labor de la investigación<a href="#sdfootnote2sym" name="sdfootnote2anc"><sup>2</sup></a>. Las políticas de acceso abierto aspiran a convertirse entonces en un medio para el fomento de la creación de conocimientos.</span></p>
+<p align="JUSTIFY"><span class="Apple-style-span" style="font-family: 'Liberation Serif', serif">Esto quiere decir que, frente a la práctica convencional de publicar en revistas extranjeras (muchas de ellas de pago) que responden a la agenda de investigación de los nodos académicos-industriales del centro capitalista, el acceso abierto puede significar, en nuestro contexto, una oportunidad para la creación de nuevas dinámicas de incentivo que contribuyan a fortalecer agendas de investigación nacionales. Desde esta perspectiva, una ley por el libre acceso tiene no solamente un papel anti-mercantilista, sino también una proyección anti-colonialista<a href="#sdfootnote3sym" name="sdfootnote3anc"><sup>3</sup></a>.</span></p>
+<p align="JUSTIFY"><span class="Apple-style-span" style="font-family: 'Liberation Serif', serif">Por otra parte, el interés de convertir en ley el libre acceso al conocimiento tiene que ver con la necesidad de crear de mayores condiciones de gobernabilidad en el entorno académico, asunto difícil en cualquier parte dada la tradición de autonomía intelectual de los centros de investigación. “Autonomía” que, no obstante, depende notablemente de la noción de neutralidad del conocimiento, y que al cabo termina alimentando el colonialismo académico<a href="#sdfootnote4sym" name="sdfootnote4anc"><sup>4</sup></a>. Por lo tanto, esta noción de gobernabilidad hace necesaria una política de incentivos para los investigadores, especialmente dirigida a fomentar publicaciones de libre acceso.</span></p>
+<p align="JUSTIFY"><span class="Apple-style-span" style="font-family: 'Liberation Serif', serif"><b><em>Adaptación de políticas de propiedad intelectual</em>: </b>una iniciativa que trascienda la dimensión de acceso abierto a los <i>papers</i> de investigación puede tener en miras la adaptación de la legislación y las políticas de propiedad intelectual y, en particular, del derecho de autor. La introducción de las figuras de licencias abiertas y de nuevas prácticas de distribución y uso de las obras debería contribuir a la implementación de un marco de derecho de autor que no se oponga a estos temas, sino que los incluya como parte de una política nacional. Así mismo, puede nutrir el banco de conceptos que se utilizan en otros contextos; como por ejemplo, en el caso de la legislación en torno a la producción de semillas (cuyo proyecto también se encuentra en discusión), o en el conocimiento que se genera en el seno de las experiencias socioproductivas de propiedad social, entre otros casos.</span></p>
+<p align="JUSTIFY"><span class="Apple-style-span" style="font-family: 'Liberation Serif', serif"><b><em>Proyecto Nacional</em>: </b>una ley para garantizar el acceso sin restricciones a los resultados de investigación tiene una orientación nacional, cualquiera que sea la realidad en la que se adopte. Más aún, si se hace énfasis en que la información que se debe compartir es aquella que ha recibido fondos públicos. La Justificación de Motivos del Proyecto hace énfasis en que éste tiene carácter nacional porque responde a un conjunto de directrices emanadas del <i>Plan de Desarrollo Económico y Social de la Nación 2013-2019</i>, particularmente en los siguientes objetivos estratégicos:</span></p>
+<p align="JUSTIFY"><span class="Apple-style-span" style="font-family: 'Liberation Serif', serif">&#8220;1.5.1.7. Transformar la praxis científica a través de la interacción entre las diversas formas de conocimiento, abriendo los espacios tradicionales de producción del mismo para la generación de saberes colectivizados y nuevos cuadros científicos integrales; 1.5.1.8. Impulsar la formación para la ciencia, tecnología e innovación, a través de formas de organización y socialización del conocimiento científico para la consolidación de espacios de participación colectiva; 1.5.3.1. Garantizar el impulso de la formación y transferencia de conocimiento que permita el desarrollo de equipos electrónicos y aplicaciones informáticas en tecnologías libres y estándares abiertos&#8221;.</span></p>
+<p align="JUSTIFY"><span class="Apple-style-span" style="font-family: 'Liberation Serif', serif">No obstante, más que la afinidad con el plan nacional de desarrollo, nos interesa cómo se vinculan estas iniciativas con perspectivas estratégicas de largo aliento. Desde esta óptica se comprende mejor la crítica – presente en la Exposición de Motivos del proyecto – a la economía del conocimiento como variante del modo capitalista de explotación del saber. En particular, se critica la lógica capitalista que conduce a la creación de escasez artificial en un bien intangible como lo es el conocimiento, crítica que se hace eco de quienes se oponen a las prácticas que conducen a su mercantilización<a href="#sdfootnote5sym" name="sdfootnote5anc"><sup>5</sup></a>.</span></p>
+<p align="JUSTIFY"><span class="Apple-style-span" style="font-family: 'Liberation Serif', serif"><b><em>El conocimiento como tema de Soberanía</em>:</b> quizá sea éste, para nosotros, el punto que proporciona unidad al horizonte que abre el proyecto de ley. No falta quienes critiquen el proyecto porque trata temas y conceptos que ya han sido desarrollados en otras latitudes. Ello no nos parece bueno o malo en sí mismo, pero nos obliga a preguntarnos sobre la relación entre el contexto en que surgen conceptos como “conocimiento libre” y “acceso abierto”, y nuestra realidad nacional/regional. Esta consideración nos obliga a admitir al menos dos cosas: que es legítimo realizar una revisión – y adaptación – de las recomendaciones de acceso abierto a nuestra realidad, y que es igualmente necesario generar los medios normativos y organizacionales para garantizar que el Estado pueda responder a los ciudadanos directamente en todo lo relacionado con una política de libre acceso.</span></p>
+<p align="JUSTIFY"><span class="Apple-style-span" style="font-family: 'Liberation Serif', serif">Ciertamente, existen organizaciones que tienen importante trayectoria en esta materia, como Creative Commons, pero las mismas no tienen carácter público ni pueden suplir las funciones del Estado venezolano. Por lo tanto, es necesario que se creen los entes públicos con la obligación de responder democráticamente por sus acciones, y que se encarguen de fomentar las políticas de acceso libre al conocimiento. De este modo se evita ceder soberanía al trasladar a entes foráneos la decisión sobre aspectos de vida en común. En este sentido, el proyecto propone una Comisión Consultora de Gestión de Libre Acceso al Conocimiento (artículo 16) cuyas funciones incluyen el fomento de la aplicación de los mecanismos establecidos en la ley, el registro de obras con licencia abierta, el establecimiento de normas técnicas, proporcionar asesoría en el tema y mediar en conflictos, entre otras (artículo 17).</span></p>
+<p align="JUSTIFY"><span class="Apple-style-span" style="font-family: 'Liberation Serif', serif"><b><em>Conclusiones</em></b></span></p>
+<p align="JUSTIFY"><span class="Apple-style-span" style="font-family: 'Liberation Serif', serif">Vemos como valioso que los esfuerzos por el acceso al conocimiento se integren como parte de una política nacional de fomento de la ciencia y la tecnología. La formulación de este tipo de normativas y la creación de responsabilidades para su acompañamiento representa un ejercicio de Soberanía que contrasta con corrientes “universalistas” que se cuelan a veces en los discursos sobre el conocimiento libre, y que más bien se identifican con un momento especial en el desarrollo del liberalismo político y de las fuerzas de producción capitalistas. La orientación para la adopción de políticas de este tipo debe tener orientación nacional y preocupada por la atención de problemas concretos de la generación de conocimientos científico-tecnológicos en nuestro país. El proyecto tiene la ventaja de que incluye una política de fomento de acceso abierto en un contexto más general de impulso para la construcción colectiva del conocimiento.</span></p>
+<p align="JUSTIFY"><span class="Apple-style-span" style="font-family: 'Liberation Serif', serif">No faltará quienes critiquen este tipo de proyectos por enfocarse en la regulación de la creación de conocimientos. La “regulación” tiene una dimensión negativa por el protagonismo que otorga a la burocracia sobre asuntos que deberían desenvolverse de forma autónoma. No obstante, lo cierto es que la autonomía científica ha venido favoreciendo agendas de investigación que no necesariamente atienden problemas nacionales<a href="#sdfootnote6sym" name="sdfootnote6anc"><sup>6</sup></a>.</span></p>
+<p align="JUSTIFY"><span style="font-family: 'Liberation Serif', serif">Para nosotros, en cambio, la crítica debería tener otro sentido. En Venezuela se han venido gestando formas de autogobierno comunitario vinculadas con concepciones alternativas de propiedad, como la propiedad social, y se ha logrado tender puentes entre lo “público” y lo “comunal” más allá de los territorios ocupados convencionalmente por estos conceptos. En un escenario de mayor madurez, podríamos hablar a futuro de formas de propiedad social sobre el conocimiento que apoyen una nueva concepción de lo común. El proyecto de Ley de Acceso al Conocimiento Libre podría ser una primera palanca en esa dirección.</span></p>
+<p align="JUSTIFY"><span class="Apple-style-span" style="font-family: 'Liberation Serif', serif"><b><em>Referencias</em></b></span></p>
+<p align="JUSTIFY"><span class="Apple-style-span" style="font-family: 'Liberation Serif', serif">Asamblea Nacional (2014). “Anteproyecto de Ley de Acceso al Conocimiento Libre ”. Disponible en: <a href="https://redpatria.org.ve/conocimientolibre/images/2/24/Proyecto_Ley_de_Acceso_al_Conocimiento_Libre.pdf">https://redpatria.org.ve/conocimientolibre/images/2/24/Proyecto_Ley_de_Acceso_al_Conocimiento_Libre.pdf</a></span></p>
+<p align="JUSTIFY"><span style="font-family: 'Liberation Serif', serif">Busaniche, Beatriz et al (2007). <i>Monopolios artificiales sobre bienes intangibles</i>. Argentina: Fundación Vía Libre.</span></p>
+<p align="JUSTIFY"><span style="font-family: 'Liberation Serif', serif">Lander, E. (2005). &#8220;La Ciencia Neoliberal&#8221;. En: <i>Revista Venezolana de Economía y Ciencias Sociales</i>. (11) 2. Caracas, Venezuela.</span></p>
+<p align="JUSTIFY"> <span style="font-family: 'Liberation Serif', serif">Suber, Peter (2012). <i>Open Access</i>. EUA: Massachussetts Institute of Technology.</span></p>
+<p align="JUSTIFY"> <span style="font-family: 'Liberation Serif', serif">Varsavsky, O. (2006). <i>Hacia una Política Científica Nacional.</i> Caracas: Monte Ávila Editores.</span></p>
+<p align="JUSTIFY"> <span style="font-family: 'Liberation Serif', serif">Varsavsky, O. (2007). <i>Ciencia, política y cientificismo</i>. Caracas: Monte Ávila Editores.</span></p>
+<p align="JUSTIFY"> <strong>Notas</strong></p>
+<div id="sdfootnote1">
+<p align="JUSTIFY"><a href="#sdfootnote1anc" name="sdfootnote1sym">1</a><span style="font-family: 'Liberation Serif', serif"><span style="font-size: small">Disponible en: <a href="https://redpatria.org.ve/conocimientolibre/images/2/24/Proyecto_Ley_de_Acceso_al_Conocimiento_Libre.pdf">https://redpatria.org.ve/conocimientolibre/images/2/24/Proyecto_Ley_de_Acceso_al_Conocimiento_Libre.pdf</a></span></span></p>
+</div>
+<div id="sdfootnote2">
+<p><a href="#sdfootnote2anc" name="sdfootnote2sym">2</a>Una explicación sobre las motivaciones del movimiento por el acceso abierto (Open Access) puede consultarse en Suber, 2012.</p>
+</div>
+<div id="sdfootnote3">
+<p><a href="#sdfootnote3anc" name="sdfootnote3sym">3</a>Sobre el impacto mercantilista y colonialista de las publicaciones científicas puede revisarse: Lander, 2005; Varsavsky 2004 y Varsavsky 2006.</p>
+</div>
+<div id="sdfootnote4">
+<p><a href="#sdfootnote4anc" name="sdfootnote4sym">4</a>Sobre este tema puede consultarse Varsavsky 2007.</p>
+</div>
+<div id="sdfootnote5">
+<p><a href="#sdfootnote5anc" name="sdfootnote5sym">5</a>Sobre este tema existen numerosas referencias. Para un panorama general puede consultarse Busaniche, 2007.</p>
+</div>
+<div id="sdfootnote6">
+<p><a href="#sdfootnote6anc" name="sdfootnote6sym">6</a>Una extensa explicación sobre este tema en Varsavsky, 2007<b>.</b></p>
+</div>
+			</div><!-- .entry-content -->
+
+	<footer class="entry-meta">
+		This entry was posted in <a href="http://conocimientolibre.cenditel.gob.ve/category/ley-conocimiento-libre/" title="Ver todas las entradas publicadas en Ley Conocimiento Libre" rel="category tag">Ley Conocimiento Libre</a>, <a href="http://conocimientolibre.cenditel.gob.ve/category/politica-tecnologica/" title="Ver todas las entradas publicadas en Política tecnológica" rel="category tag">Política tecnológica</a>, <a href="http://conocimientolibre.cenditel.gob.ve/category/responsabilidad-tecnopolitica/" title="Ver todas las entradas publicadas en Responsabilidad tecnopolítica" rel="category tag">Responsabilidad tecnopolítica</a>, <a href="http://conocimientolibre.cenditel.gob.ve/category/soberania-tecnologica/" title="Ver todas las entradas publicadas en Soberanía Tecnológica" rel="category tag">Soberanía Tecnológica</a>, <a href="http://conocimientolibre.cenditel.gob.ve/category/tecnologias-libres/" title="Ver todas las entradas publicadas en Tecnologías Libres" rel="category tag">Tecnologías Libres</a> and tagged <a href="http://conocimientolibre.cenditel.gob.ve/tag/conocimiento-libre/" rel="tag">Conocimiento Libre</a>, <a href="http://conocimientolibre.cenditel.gob.ve/tag/ley-conocimiento-libre/" rel="tag">Ley Conocimiento Libre</a>, <a href="http://conocimientolibre.cenditel.gob.ve/tag/politica-tecnologica/" rel="tag">Política tecnológica</a>, <a href="http://conocimientolibre.cenditel.gob.ve/tag/soberania-tecnologica-2/" rel="tag">soberanía tecnológica</a>, <a href="http://conocimientolibre.cenditel.gob.ve/tag/tecnologias-libres/" rel="tag">Tecnologías Libres</a> by <a href="http://conocimientolibre.cenditel.gob.ve/author/sroca/">sroca</a>. Bookmark the <a href="http://conocimientolibre.cenditel.gob.ve/2014/11/18/para-que-una-ley-de-acceso-al-conocimiento-libre-i-el-libre-acceso-al-conocimiento-como-estrategia-nacional/" title="Permalink to ¿Para qué una Ley de Acceso al Conocimiento Libre? (I). El libre acceso al conocimiento como estrategia nacional" rel="bookmark">permalink</a>.		
+			</footer><!-- .entry-meta -->
+</article><!-- #post-415 -->
+
+						<div id="comments">
+	
+	
+			<h2 id="comments-title">
+			2 thoughts on &ldquo;<span>¿Para qué una Ley de Acceso al Conocimiento Libre? (I). El libre acceso al conocimiento como estrategia nacional</span>&rdquo;		</h2>
+
+		
+		<ol class="commentlist">
+				<li class="post pingback">
+		<p>Pingback: <a href='http://conocimientolibre.cenditel.gob.ve/2014/11/19/para-que-una-ley-de-acceso-al-conocimiento-libre-ii-elementos-para-una-politica-nacional-de-libre-acceso-al-conocimiento/' rel='external nofollow' class='url'>¿Para qué una Ley de Acceso al Conocimiento Libre? (II). Elementos para una política nacional de libre acceso al conocimiento | Conocimiento Libre</a></p>
+	</li><!-- #comment-## -->
+	<li class="post pingback">
+		<p>Pingback: <a href='http://sihuatehuacan.wordpress.com/2014/11/26/para-que-una-ley-de-acceso-al-conocimiento-libre-ii/' rel='external nofollow' class='url'>¿Para qué una Ley de Acceso al Conocimiento Libre? (II) | América</a></p>
+	</li><!-- #comment-## -->
+		</ol>
+
+		
+	
+									<div id="respond" class="comment-respond">
+				<h3 id="reply-title" class="comment-reply-title">Agregue un comentario <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2014/11/18/para-que-una-ley-de-acceso-al-conocimiento-libre-i-el-libre-acceso-al-conocimiento-como-estrategia-nacional/#respond" style="display:none;">Cancelar respuesta</a></small></h3>
+									<form action="http://conocimientolibre.cenditel.gob.ve/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+																			<p class="comment-notes">Su dirección de correo no se hará público. Los campos requeridos están marcados <span class="required">*</span></p>							<p class="comment-form-author"><label for="author">Nombre <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" aria-required='true' /></p>
+<p class="comment-form-email"><label for="email">Correo <span class="required">*</span></label> <input id="email" name="email" type="text" value="" size="30" aria-required='true' /></p>
+<p class="comment-form-url"><label for="url">Sitio web</label> <input id="url" name="url" type="text" value="" size="30" /></p>
+<p class="comment-form-captcha">
+		<label for="captcha"><b>Captcha </b></label>
+		<span class="required">*</span>
+		<div style="clear:both;"></div>
+		<img src="http://conocimientolibre.cenditel.gob.ve/wp-content/plugins/captcha-code-authentication/captcha_code_file.php?rand=2083653455" />
+		<div style="clear:both;"></div>
+		<label for="captcha_code">Type the text displayed above:</label>
+		<input id="captcha_code" name="captcha_code" size="15" type="text" />
+		<div style="clear:both;"></div>
+		</p>												<p class="comment-form-comment"><label for="comment">Comentario</label> <textarea id="comment" name="comment" cols="45" rows="8" aria-required="true"></textarea></p>						<p class="form-allowed-tags">Usted puede utilizar las etiquetas <abbr title="Lenguaje de Marcado de Hipertexto">HTML</abbr> y atributos:  <code>&lt;a href=&quot;&quot; title=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=&quot;&quot;&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=&quot;&quot;&gt; &lt;strike&gt; &lt;strong&gt; </code></p>						<p class="form-submit">
+							<input name="submit" type="submit" id="submit" value="Publicar comentario" />
+							<input type='hidden' name='comment_post_ID' value='415' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+						</p>
+											</form>
+							</div><!-- #respond -->
+						
+</div><!-- #comments -->
+
+				
+			</div><!-- #content -->
+		</div><!-- #primary -->
+
+
+
+	</div><!-- #main -->
+
+	<footer id="colophon" role="contentinfo">
+
+			
+
+
+			<div id="site-generator">
+				<html>
+
+<div id="imagen">
+<img src="/wp-content/themes/Bicentenario/images/logo.png">
+</div>
+
+<TABLE id="tabla">
+<tr>
+<div id="enlaces_titulo"><p>Enlaces de interes</p></div>
+
+</tr>
+
+     <TR>
+
+	
+
+          <TD><ul id="menu1">
+	<li><a href="http://www.mct.gob.ve/" target="_blank" alt="Ministerio del Poder Popular para Ciencia, Tecnología e Industrias Intermedias" title="Ministerio del Poder Popular para Ciencia, Tecnología e Industrias Intermedias">MppCTii</a></li>
+	<li> <a href="http://www.me.gob.ve/" target="_blank" alt="Ministerio del Poder Popular para la Educación" title="Ministerio del Poder Popular para la Educación">MppE</a></li>
+	<li> <a href="http://www.fundacite-merida.gob.ve" target="_blank" alt="Fundacite Mérida" title="Fundacite Mérida">Fundacite</a></li>
+	<li> <a href="http://www.fidetel.gob.ve" target="_blank" alt="Fondo de Investigación y Desarrollo de las Telecomunicaciones" title="Fondo de Investigación y Desarrollo de las Telecomunicaciones">FIDETEL</a> </li>
+</ul> </TD> 
+
+	<TD> <ul id="menu2">
+	<li><a href="http://www.minci.gob.ve" target="_blank" alt="Ministerio del Poder Popular para la Comunicacion e Informacion" title="Ministerio del Poder Popular para la Comunicacion e Informacion">Minci</a></li>
+	<li> <a href="http://www.minamb.gob.ve/" target="_blank" alt="Ministerio del Poder Popular para el Ambiente" title="Ministerio del Poder Popular para el Ambiente">MppA</a></li>
+	<li> <a href="http://www.cnti.gob.ve" target="_blank" alt="Centro Nacional de Tecnologías de Información" title="Centro Nacional de Tecnologías de Información">Cnti</a></li>
+	<li> <a href="http://www.mpcomunas.gob.ve" target="_blank" alt="Ministerio del Poder Popular para las Comunas y Protección Social" title="Ministerio del Poder Popular para las Comunas y Protección Social">MppCPS</a> </li>
+</ul></TD>
+     
+	<TD><ul id="menu3">
+	<li><a href="http://www.ministeriodelacultura.gob.ve" target="_blank" alt="Ministerio del Poder Popular para la Cultura" title="Ministerio del Poder Popular para la Cultura">MppC</a></li>
+	<li> <a href="http://www.mppeu.gob.ve/" target="_blank" alt="Ministerio del Poder Popular para la Educación Universitaria" title="Ministerio del Poder Popular para la Educación Universitaria">MppEU</a></li>
+	<li> <a href="http://www.suscerte.gob.ve" target="_blank" alt="Superintendencia de Servicios de Certificación Electrónica" title="Superintendencia de Servicios de Certificación Electrónica">SUSCERTE</a> </li>
+	<li> <a href="http://www.cantv.net/" target="_blank" alt="CANTV" title="CANTV"> CANTV</a></li>
+	</ul> </TD> 
+
+      </TR> 
+</TABLE>
+<div id="pie">
+<p>
+FUNDACIÓN CENTRO NACIONAL DE DESARROLLO E INVESTIGACIÓN EN TECNOLOGÍAS LIBRES (CENDITEL) Avenida Alberto Carnevali, vía La Hechicera, Edificio CENDITEL. Teléfono: (0274)6574336 - 6574958. Apartado Postal: 078. Código Postal: 5101A. RIF: G-20007349-7. Mérida-Venezuela</p>
+</div>
+
+</html>
+
+
+		
+			
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+</body>
+</html>
